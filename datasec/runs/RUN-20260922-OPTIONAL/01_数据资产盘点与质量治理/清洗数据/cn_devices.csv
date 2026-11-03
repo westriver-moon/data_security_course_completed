@@ -1,0 +1,1001 @@
+﻿device_id,device_model,site_region,temperature_c,operating_hours,alarm_count,failure_next_90d,site_country,site_city,site_address,site_postcode,contact_name,contact_email,contact_phone,contact_employee_id,contact_department,contact_job_title,service_contract_no
+DEV-0102,C,EAST,25.4,300.7,0,0,CN,杭州市,杭州市云杉路131号6号楼,310000,周欣悦,xinyue.zhou@huachen-service.invalid,+8618672681826,HC-E0054,生产技术部,生产技术员,SC-2026-CN-0009
+DEV-0737,B,EAST,10.1,274.1,1,0,CN,苏州市,苏州市清禾路46号1号楼,215000,何子涵,he_zihan@huachen-service.invalid,+8615885871331,HC-E0009,设备运维部,设备工程师,SC-2026-CN-0062
+DEV-0221,B,EAST,21.2,497.9,5,0,CN,苏州市,苏州市星浦路70号5号楼,215000,周建国,j.zhou4@huachen-service.invalid,+8613820054584,HC-E0089,设备运维部,设备工程师,SC-2026-CN-0019
+DEV-0071,B,EAST,20.9,347.9,2,0,CN,无锡市,无锡市云杉路100号7号楼,214000,罗磊,luo_lei@huachen-service.invalid,+8618967691818,HC-E0097,售后服务部,现场工程师,SC-2026-CN-0006
+DEV-0967,B,EAST,17.6,489.7,5,1,CN,无锡市,无锡市云杉路96号7号楼,214000,徐颖,y.xu11@huachen-service.invalid,+8618680380001,HC-E0059,售后服务部,服务协调员,SC-2026-CN-0081
+DEV-0640,A,SOUTH,16.8,594.8,5,1,DE,Stuttgart,"Wiesenfeldweg 171, Halle 8, Stuttgart",70173,Clara Schulz,clara.schulz@dewei-service.invalid,+4915759271694,DW-E0008,Production Engineering,Production Technician,SC-2026-DE-0054
+DEV-0560,A,EAST,19.5,605.8,3,0,CN,宁波市,宁波市星浦路49号8号楼,315000,李晓梅,xiaomei.li@huachen-service.invalid,+8615833090873,HC-E0012,生产技术部,生产技术员,SC-2026-CN-0047
+DEV-0149,A,EAST,21.2,203.9,3,1,CN,苏州市,,215000,陈涛,tao.chen@sz.huachen-service.invalid,+8613893661794,HC-E0017,设备运维部,设备工程师,SC-2026-CN-0013
+DEV-0054,A,EAST,24.6,212.6,0,0,CN,杭州市,杭州市云杉路83号6号楼,310000,周磊,lei.zhou@huachen-service.invalid,+8613947277328,HC-E0010,设备运维部,设备工程师,SC-2026-CN-0005
+DEV-0815,A,EAST,23.6,495.1,2,1,CN,无锡市,无锡市星浦路124号7号楼,214000,张建国,j.zhang51@huachen-service.invalid,+8613953291090,HC-E0037,生产技术部,生产技术员,SC-2026-CN-0068
+DEV-0598,B,EAST,20.9,303.8,2,0,CN,杭州市,杭州市云杉路87号6号楼,310000,李若宁,li.ruoning@hz.huachen-service.invalid,+8615030729897,HC-E0006,设备运维部,设备工程师,SC-2026-CN-0050
+DEV-0558,B,EAST,25.9,408.3,7,1,CN,杭州市,杭州市星浦路47号6号楼,310000,陈建国,jianguo.chen@huachen-service.invalid,+8618949226406,HC-E0078,设备运维部,运维技术员,SC-2026-CN-0047
+DEV-0240,C,EAST,25.6,226.4,3,0,CN,宁波市,宁波市星浦路89号8号楼,315000,罗嘉怡,jiayi.luo@huachen-service.invalid,+8615894759537,HC-E0076,售后服务部,现场工程师,SC-2026-CN-0020
+DEV-0124,C,EAST,27.9,184.8,2,0,CN,宁波市,宁波市锦澜路153号4号楼,315000,刘建国,jliu@huachen-service.invalid,+8615048009904,HC-E0116,售后服务部,现场工程师,SC-2026-CN-0011
+DEV-0044,C,EAST,20.1,385.3,2,0,CN,宁波市,宁波市锦澜路73号4号楼,315000,陈志强,zchen@huachen-service.invalid,+8618966905931,HC-E0029,设备运维部,运维技术员,SC-2026-CN-0004
+DEV-0166,C,EAST,22.6,240.5,0,0,CN,杭州市,杭州市云杉路195号6号楼,310000,林欣悦,xlin@huachen-service.invalid,+8615866325514,HC-E0074,设备运维部,设备工程师,SC-2026-CN-0014
+DEV-0521,C,EAST,22.2,484.7,3,0,CN,苏州市,苏州市锦澜路190号1号楼,215000,罗思远,luo.siyuan@huachen-service.invalid,+8615076453710,HC-E0049,生产技术部,工艺工程师,SC-2026-CN-0044
+DEV-0682,A,EAST,13.6,405.1,1,1,DE,Leipzig,"Birkenhofstrasse 53, Halle 2, Leipzig",04103,Michael Schneider,michael.schneider@dewei-service.invalid,+4916049050322,DW-E0033,Plant Operations,Maintenance Technician,SC-2026-DE-0057
+DEV-0325,A,EAST,24.8,258.9,2,0,CN,苏州市,苏州市云杉路174号5号楼,215000,陈书瑶,s.chen42@huachen-service.invalid,+8615063739635,HC-E0105,生产技术部,生产技术员,SC-2026-CN-0028
+DEV-0569,B,EAST,20.8,292.8,3,1,CN,苏州市,苏州市锦澜路58号1号楼,215000,刘浩然,haoran.liu@sz.huachen-service.invalid,+8618970521141,HC-E0069,生产技术部,生产技术员,SC-2026-CN-0048
+DEV-0176,A,EAST,21.0,615.7,4,1,CN,宁波市,宁波市星浦路205号8号楼,315000,陈磊,lei.chen@huachen-service.invalid,+8615851623043,HC-E0108,设备运维部,运维技术员,SC-2026-CN-0015
+DEV-0048,B,EAST,25.5,287.6,0,0,CN,宁波市,宁波市星浦路77号8号楼,315000,张思远,siyuan.zhang@nb.huachen-service.invalid,+8613953668537,HC-E0024,设备运维部,运维技术员,SC-2026-CN-0004
+DEV-0494,A,EAST,19.1,289.0,2,1,CN,杭州市,杭州市星浦路163号6号楼,310000,郑浩然,zheng_haoran@huachen-service.invalid,+8615093400636,HC-E0062,生产技术部,工艺工程师,SC-2026-CN-0042
+DEV-0954,A,EAST,11.7,341.1,1,0,DE,Leipzig,"Birkenhofstrasse 165, Halle 2, Leipzig",04103,Sabine Weber,weber_sabine@le.dewei-service.invalid,+4915790191361,DW-E0022,Plant Operations,Maintenance Technician,SC-2026-DE-0080
+DEV-0395,A,EAST,25.9,266.7,2,0,CN,无锡市,无锡市锦澜路64号3号楼,214000,何浩然,haoran.he@huachen-service.invalid,+8615025606551,HC-E0019,设备运维部,设备主管,SC-2026-CN-0033
+DEV-0117,B,EAST,25.5,480.9,5,0,CN,苏州市,苏州市云杉路146号5号楼,215000,黄嘉怡,huang.jiayi@huachen-service.invalid,+8615054589231,HC-E0101,售后服务部,现场工程师,SC-2026-CN-0010
+DEV-0135,A,EAST,25.7,417.5,3,0,CN,无锡市,无锡市云杉路164号7号楼,214000,王建国,jianguo.wang@huachen-service.invalid,+8618925907406,HC-E0043,设备运维部,设备工程师,SC-2026-CN-0012
+DEV-0740,B,SOUTH,15.9,188.0,0,0,DE,Stuttgart,"Lindenwerkstrasse 111, Halle 4, Stuttgart",70173,Leon Wolf,leon.wolf@dewei-service.invalid,+497116148255,DW-E0048,Plant Operations,Equipment Engineer,SC-2026-DE-0062
+DEV-0336,C,EAST,21.3,639.3,4,1,CN,宁波市,宁波市星浦路185号8号楼,315000,张思远,siyuan.zhang@nb.huachen-service.invalid,+8613953668537,HC-E0024,设备运维部,运维技术员,SC-2026-CN-0028
+DEV-0270,B,EAST,24.7,591.1,5,1,CN,杭州市,杭州市星浦路119号6号楼,310000,李建国,jli@hz.huachen-service.invalid,+8615092653467,HC-E0086,设备运维部,设备工程师,SC-2026-CN-0023
+DEV-0662,B,EAST,18.7,721.9,7,1,DE,Leipzig,"Sonnenparkweg 33, Halle 6, Leipzig",04103,Sabine Becker,sbecker@dewei-service.invalid,+4915191445475,DW-E0046,Production Engineering,Process Engineer,SC-2026-DE-0056
+DEV-0085,C,EAST,21.6,235.0,1,0,CN,苏州市,苏州市云杉路114号5号楼,215000,沈嘉怡,jshen@huachen-service.invalid,+8618630698916,HC-E0061,设备运维部,运维技术员,SC-2026-CN-0008
+DEV-0711,B,EAST,10.5,547.3,2,0,CN,无锡市,无锡市云杉路200号7号楼,214000,赵书瑶,shuyao.zhao@huachen-service.invalid,+8618669715320,HC-E0003,设备运维部,设备工程师,SC-2026-CN-0060
+DEV-0070,C,EAST,19.5,373.3,4,1,CN,杭州市,杭州市云杉路99号6号楼,310000,李若宁,li.ruoning@hz.huachen-service.invalid,,HC-E0006,设备运维部,设备工程师,SC-2026-CN-0006
+DEV-0546,A,EAST,21.8,495.3,2,0,CN,杭州市,杭州市清禾路35号2号楼,310000,林静,j.lin69@hz.huachen-service.invalid,+8615038500032,HC-E0090,生产技术部,生产技术员,SC-2026-CN-0046
+DEV-0201,A,EAST,20.3,593.0,9,1,CN,苏州市,苏州市锦澜路50号1号楼,215000,罗磊,luo_lei@huachen-service.invalid,+8618967691818,HC-E0097,售后服务部,现场工程师,SC-2026-CN-0017
+DEV-0997,C,EAST,18.3,560.2,0,0,CN,苏州市,苏州市云杉路126号5号楼,215000,黄嘉怡,huang.jiayi@huachen-service.invalid,+8615054589231,HC-E0101,售后服务部,现场工程师,SC-2026-CN-0084
+DEV-0249,A,EAST,20.0,423.4,2,0,CN,苏州市,苏州市锦澜路98号1号楼,215000,王伟,wei.wang@huachen-service.invalid,+8613841372844,HC-E0073,设备运维部,设备工程师,SC-2026-CN-0021
+DEV-0784,A,SOUTH,11.6,478.7,0,0,DE,Stuttgart,"Wiesenfeldweg 155, Halle 8, Stuttgart",70173,Sabine Richter,richter_sabine@st.dewei-service.invalid,+4916064228654,DW-E0012,Production Engineering,Production Technician,SC-2026-DE-0066
+DEV-0637,C,EAST,15.3,348.9,2,0,CN,苏州市,苏州市星浦路126号5号楼,215000,刘晓梅,liu.xiaomei@huachen-service.invalid,+8615079391175,HC-E0112,生产技术部,工艺工程师,SC-2026-CN-0054
+DEV-0708,B,SOUTH,16.5,492.0,7,1,DE,Stuttgart,"Lindenwerkstrasse 79, Halle 4, Stuttgart",70173,Leon Wolf,leon.wolf@dewei-service.invalid,+497116148255,DW-E0048,Plant Operations,Equipment Engineer,SC-2026-DE-0059
+DEV-0963,B,EAST,11.1,437.9,3,0,CN,无锡市,无锡市清禾路92号3号楼,214000,陈敏,min.chen@huachen-service.invalid,+8615091721122,HC-E0087,设备运维部,设备工程师,SC-2026-CN-0081
+DEV-0949,C,EAST,12.0,382.1,1,0,CN,苏州市,苏州市云杉路78号5号楼,215000,刘浩然,haoran.liu@sz.huachen-service.invalid,+8618970521141,HC-E0069,生产技术部,生产技术员,SC-2026-CN-0080
+DEV-0463,C,EAST,28.7,420.8,1,0,CN,无锡市,无锡市星浦路132号7号楼,214000,赵书瑶,shuyao.zhao@huachen-service.invalid,+8618669715320,HC-E0003,设备运维部,设备工程师,SC-2026-CN-0039
+DEV-0158,A,EAST,29.2,507.9,6,1,CN,杭州市,杭州市星浦路187号6号楼,310000,高建国,gao.jianguo@hz.huachen-service.invalid,+8613959395417,HC-E0022,售后服务部,现场工程师,SC-2026-CN-0014
+DEV-0695,B,EAST,26.7,574.2,5,1,CN,无锡市,无锡市云杉路184号7号楼,214000,黄志强,zhiqiang.huang@huachen-service.invalid,+8613824154866,HC-E0035,设备运维部,运维技术员,SC-2026-CN-0058
+DEV-0030,C,EAST,19.9,487.4,6,0,CN,杭州市,杭州市星浦路59号6号楼,310000,李建国,jli@hz.huachen-service.invalid,+8615092653467,HC-E0086,设备运维部,设备工程师,SC-2026-CN-0003
+DEV-0459,B,EAST,29.6,501.8,2,1,CN,无锡市,无锡市锦澜路128号3号楼,214000,黄建国,jianguo.huang@huachen-service.invalid,+8613831074111,HC-E0067,设备运维部,设备工程师,SC-2026-CN-0039
+DEV-0075,B,EAST,22.2,552.1,1,0,CN,无锡市,无锡市锦澜路104号3号楼,214000,李思远,siyuan.li@huachen-service.invalid,+8618940577225,HC-E0095,生产技术部,工艺工程师,SC-2026-CN-0007
+DEV-0491,A,EAST,12.6,310.6,5,0,CN,无锡市,无锡市锦澜路160号3号楼,214000,徐欣悦,xxu@huachen-service.invalid,,HC-E0030,设备运维部,设备主管,SC-2026-CN-0041
+DEV-0060,C,EAST,26.3,290.0,1,1,CN,宁波市,宁波市锦澜路89号4号楼,315000,高书瑶,shuyao.gao@huachen-service.invalid,+8657477413474,HC-E0044,生产技术部,生产技术员,SC-2026-CN-0005
+DEV-0197,B,EAST,24.7,449.4,4,1,CN,苏州市,苏州市云杉路46号5号楼,215000,陈书瑶,s.chen42@huachen-service.invalid,+8615063739635,HC-E0105,生产技术部,生产技术员,SC-2026-CN-0017
+DEV-0900,B,SOUTH,23.0,608.5,4,0,DE,Stuttgart,"Lindenwerkstrasse 111, Halle 4, Stuttgart",70173,Stefan Zimmermann,stefan.zimmermann@dewei-service.invalid,+4917662400610,DW-E0108,Plant Operations,Equipment Engineer,SC-2026-DE-0075
+DEV-0319,A,EAST,27.4,649.4,0,0,CN,无锡市,无锡市星浦路168号7号楼,214000,黄志强,zhiqiang.huang@huachen-service.invalid,+8613824154866,HC-E0035,设备运维部,运维技术员,SC-2026-CN-0027
+DEV-0671,C,EAST,14.8,227.4,0,0,CN,无锡市,无锡市星浦路160号7号楼,214000,沈思远,siyuan.shen@huachen-service.invalid,+8618986710403,HC-E0039,设备运维部,运维技术员,SC-2026-CN-0056
+DEV-0447,B,EAST,30.5,276.1,0,0,CN,无锡市,无锡市星浦路116号7号楼,214000,许伟,wxu@huachen-service.invalid,+8618678875780,HC-E0099,设备运维部,设备工程师,SC-2026-CN-0038
+DEV-0524,C,EAST,16.4,427.4,4,1,CN,宁波市,宁波市锦澜路193号4号楼,315000,林嘉怡,jiayi.lin@huachen-service.invalid,+8657467425756,HC-E0036,生产技术部,工艺工程师,SC-2026-CN-0044
+DEV-0718,A,EAST,15.9,177.8,0,0,DE,Leipzig,"Wiesenfeldweg 89, Halle 6, Leipzig",04103,Lukas Becker,becker.lukas@dewei-service.invalid,+4915297893652,DW-E0086,Plant Operations,Maintenance Technician,SC-2026-DE-0060
+DEV-0182,C,EAST,27.4,448.8,1,0,CN,杭州市,杭州市云杉路31号6号楼,310000,沈浩然,haoran.shen@huachen-service.invalid,+8615826230672,HC-E0118,生产技术部,生产技术员,SC-2026-CN-0016
+DEV-0765,C,EAST,23.1,414.1,3,0,CN,苏州市,苏州市星浦路74号5号楼,215000,王静,jwang@huachen-service.invalid,+8613972196815,HC-E0015,设备运维部,设备工程师,SC-2026-CN-0064
+DEV-0809,A,EAST,17.9,464.7,3,0,CN,苏州市,苏州市锦澜路118号1号楼,215000,陈书瑶,s.chen42@huachen-service.invalid,+8615063739635,HC-E0105,生产技术部,生产技术员,SC-2026-CN-0068
+DEV-0575,B,EAST,18.4,228.4,1,0,CN,无锡市,无锡市星浦路64号7号楼,214000,吴伟,wei.wu@wx.huachen-service.invalid,+8613884726516,HC-E0083,设备运维部,运维技术员,SC-2026-CN-0048
+DEV-0081,B,EAST,21.3,340.9,3,0,CN,苏州市,苏州市清禾路110号1号楼,215000,刘磊,liu.lei@huachen-service.invalid,+8651221912742,HC-E0057,售后服务部,现场工程师,SC-2026-CN-0007
+DEV-0349,B,EAST,11.4,485.8,3,0,CN,苏州市,苏州市星浦路198号5号楼,215000,郑磊,lei.zheng@sz.huachen-service.invalid,+8615066937047,HC-E0033,设备运维部,设备工程师,SC-2026-CN-0030
+DEV-0387,B,EAST,25.9,614.5,2,0,CN,无锡市,无锡市清禾路56号3号楼,214000,周雨桐,yzhou@nb.huachen-service.invalid,+8615079223726,HC-E0064,设备运维部,运维技术员,SC-2026-CN-0033
+DEV-0704,B,SOUTH,20.0,527.0,1,0,DE,Stuttgart,"Wiesenfeldweg 75, Halle 8, Stuttgart",70173,Felix Klein,felix.klein@dewei-service.invalid,+4917647913084,DW-E0088,Plant Operations,Maintenance Technician,SC-2026-DE-0059
+DEV-0841,A,EAST,20.1,492.4,3,1,CN,苏州市,苏州市锦澜路150号1号楼,215000,张志强,zhiqiang.zhang@huachen-service.invalid,+8613896716083,HC-E0113,设备运维部,运维技术员,SC-2026-CN-0071
+DEV-0337,B,EAST,18.9,229.5,1,0,CN,苏州市,苏州市清禾路186号1号楼,215000,王伟,wei.wang@huachen-service.invalid,+8613841372844,HC-E0073,设备运维部,设备工程师,SC-2026-CN-0029
+DEV-0093,B,EAST,21.0,380.0,0,0,CN,苏州市,苏州市星浦路122号5号楼,215000,李思远,siyuan.li@huachen-service.invalid,+8618940577225,HC-E0095,生产技术部,工艺工程师,SC-2026-CN-0008
+DEV-0185,A,EAST,20.6,420.5,2,0,CN,苏州市,苏州市锦澜路34号1号楼,215000,罗磊,luo_lei@huachen-service.invalid,+8618967691818,HC-E0097,售后服务部,现场工程师,SC-2026-CN-0016
+DEV-0173,A,EAST,21.1,613.3,3,0,CN,苏州市,苏州市星浦路202号5号楼,215000,张志强,zhiqiang.zhang@huachen-service.invalid,+8613896716083,HC-E0113,设备运维部,运维技术员,SC-2026-CN-0015
+DEV-0384,B,EAST,13.7,315.0,1,0,CN,宁波市,宁波市星浦路53号8号楼,315000,林志强,lin.zhiqiang@huachen-service.invalid,+8613828465423,HC-E0096,设备运维部,运维技术员,SC-2026-CN-0032
+DEV-0791,C,EAST,17.7,515.0,4,0,CN,无锡市,无锡市云杉路100号7号楼,214000,黄志强,zhiqiang.huang@huachen-service.invalid,+8613824154866,HC-E0035,设备运维部,运维技术员,SC-2026-CN-0066
+DEV-0543,B,EAST,22.2,192.4,0,0,CN,无锡市,无锡市星浦路32号7号楼,214000,高文昊,wenhao.gao@huachen-service.invalid,+8615069468843,HC-E0065,设备运维部,设备工程师,SC-2026-CN-0046
+DEV-0219,B,EAST,22.6,532.5,3,1,CN,无锡市,无锡市锦澜路68号3号楼,214000,黄欣悦,xhuang@huachen-service.invalid,+8615042399789,HC-E0023,设备运维部,运维技术员,SC-2026-CN-0019
+DEV-0348,B,EAST,16.6,315.1,3,0,CN,宁波市,宁波市锦澜路197号4号楼,315000,李晓梅,xiaomei.li@huachen-service.invalid,+8615833090873,HC-E0012,生产技术部,生产技术员,SC-2026-CN-0029
+DEV-0576,C,EAST,19.1,239.3,1,0,CN,宁波市,宁波市星浦路65号8号楼,315000,周若宁,zhou_ruoning@huachen-service.invalid,+8613980066999,HC-E0040,设备运维部,设备工程师,SC-2026-CN-0048
+DEV-0231,B,EAST,23.7,441.4,0,0,CN,无锡市,无锡市云杉路80号7号楼,214000,赵文昊,wenhao.zhao@hz.huachen-service.invalid,+8615870776981,HC-E0002,设备运维部,运维技术员,SC-2026-CN-0020
+DEV-0908,C,SOUTH,22.6,732.6,8,0,DE,Stuttgart,"Birkenhofstrasse 119, Halle 4, Stuttgart",70173,Paul Schmidt,p.schmidt22@st.dewei-service.invalid,+497116045734,DW-E0068,Production Engineering,Process Engineer,SC-2026-DE-0076
+DEV-0871,C,EAST,16.0,488.1,3,1,CN,无锡市,无锡市云杉路180号7号楼,214000,李思远,siyuan.li@huachen-service.invalid,+8618940577225,HC-E0095,生产技术部,工艺工程师,SC-2026-CN-0073
+DEV-0689,A,EAST,19.1,314.1,5,0,CN,苏州市,苏州市清禾路178号1号楼,215000,沈嘉怡,jshen@huachen-service.invalid,+8618630698916,HC-E0061,设备运维部,运维技术员,SC-2026-CN-0058
+DEV-0490,B,EAST,20.7,400.2,0,0,CN,杭州市,杭州市锦澜路159号2号楼,310000,陈建国,,+8618949226406,HC-E0078,设备运维部,运维技术员,SC-2026-CN-0041
+DEV-0939,B,EAST,18.4,596.2,6,1,CN,无锡市,无锡市锦澜路68号3号楼,214000,张晓梅,xiaomei.zhang@huachen-service.invalid,+8613952749208,HC-E0047,设备运维部,设备工程师,SC-2026-CN-0079
+DEV-0808,C,SOUTH,8.7,447.3,1,1,DE,Stuttgart,"Sonnenparkweg 19, Halle 8, Stuttgart",70173,Sophie Wagner,sophie.wagner@dewei-service.invalid,+4915173191842,DW-E0052,Production Engineering,Production Technician,SC-2026-DE-0068
+DEV-0710,B,EAST,15.5,239.3,3,0,DE,Leipzig,"Sonnenparkweg 81, Halle 6, Leipzig",04103,Johanna Weber,weber.johanna@dewei-service.invalid,+4915239666106,DW-E0035,Production Engineering,Production Technician,SC-2026-DE-0060
+DEV-0862,B,EAST,18.5,508.6,6,1,DE,Leipzig,"Wiesenfeldweg 73, Halle 6, Leipzig",04103,Laura Fischer,laura.fischer@dewei-service.invalid,+4915748562590,DW-E0078,Plant Operations,Maintenance Technician,SC-2026-DE-0072
+DEV-0591,C,EAST,25.9,256.9,3,0,CN,无锡市,无锡市星浦路80号7号楼,214000,李志强,li_zhiqiang@huachen-service.invalid,+8615830907487,HC-E0120,生产技术部,工艺工程师,SC-2026-CN-0050
+DEV-0565,B,EAST,22.9,483.1,1,0,CN,苏州市,苏州市云杉路54号5号楼,215000,郑磊,lei.zheng@sz.huachen-service.invalid,+8615066937047,HC-E0033,设备运维部,设备工程师,SC-2026-CN-0048
+DEV-0650,A,EAST,10.5,522.0,4,1,DE,Leipzig,"Birkenhofstrasse 21, Halle 2, Leipzig",04103,Laura Fischer,laura.fischer@dewei-service.invalid,+4915748562590,DW-E0078,Plant Operations,Maintenance Technician,SC-2026-DE-0055
+DEV-0502,B,EAST,29.2,262.5,4,0,CN,杭州市,杭州市云杉路171号6号楼,,张明轩,mingxuan.zhang@huachen-service.invalid,+8657165489495,HC-E0042,设备运维部,设备工程师,SC-2026-CN-0042
+DEV-0514,B,EAST,24.9,260.8,2,0,CN,杭州市,杭州市清禾路183号2号楼,310000,周磊,lei.zhou@huachen-service.invalid,+8613947277328,HC-E0010,设备运维部,设备工程师,SC-2026-CN-0043
+DEV-0107,C,EAST,23.9,565.5,4,0,CN,无锡市,无锡市锦澜路136号3号楼,214000,黄建国,jianguo.huang@huachen-service.invalid,+8613831074111,HC-E0067,设备运维部,设备工程师,SC-2026-CN-0009
+DEV-0224,A,EAST,23.3,647.7,4,0,CN,宁波市,宁波市星浦路73号8号楼,315000,刘晓梅,liu.xiaomei@huachen-service.invalid,+8615079391175,HC-E0112,生产技术部,工艺工程师,SC-2026-CN-0019
+DEV-0894,C,EAST,18.7,293.6,3,0,DE,Leipzig,"Wiesenfeldweg 105, Halle 6, Leipzig",04103,Anna Schneider,aschneider@dewei-service.invalid,+493518088253,DW-E0021,Field Service,Field Engineer,SC-2026-DE-0075
+DEV-0200,A,EAST,24.0,573.2,3,1,CN,宁波市,,315000,陈磊,lei.chen@huachen-service.invalid,+8615851623043,HC-E0108,设备运维部,运维技术员,SC-2026-CN-0017
+DEV-0532,A,EAST,21.5,242.9,3,0,CN,宁波市,宁波市清禾路201号4号楼,315000,周晓梅,xiaomei.zhou@huachen-service.invalid,+8615084038269,HC-E0109,生产技术部,工艺工程师,SC-2026-CN-0045
+DEV-0366,C,EAST,21.5,478.5,4,0,CN,杭州市,杭州市星浦路35号6号楼,310000,孙晓梅,xsun@huachen-service.invalid,+8615071835140,HC-E0098,设备运维部,设备工程师,SC-2026-CN-0031
+DEV-0818,C,EAST,15.8,506.9,3,0,DE,Leipzig,"Lindenwerkstrasse 29, Halle 2, Leipzig",04103,Marie Becker,marie.becker@dewei-service.invalid,+493412943795,DW-E0102,Plant Operations,Equipment Engineer,SC-2026-DE-0069
+DEV-0754,B,EAST,19.4,410.6,2,0,DE,Leipzig,"Lindenwerkstrasse 125, Halle 2, Leipzig",04103,Felix Mueller,fmueller@dewei-service.invalid,+493415138519,DW-E0034,Plant Operations,Equipment Engineer,SC-2026-DE-0063
+DEV-0951,B,EAST,22.8,385.4,1,0,CN,无锡市,无锡市云杉路80号7号楼,214000,张文昊,wenhao.zhang@huachen-service.invalid,+8613964740657,HC-E0051,生产技术部,生产技术员,SC-2026-CN-0080
+DEV-0278,B,EAST,25.0,647.1,7,1,CN,杭州市,杭州市云杉路127号6号楼,310000,赵文昊,wenhao.zhao@hz.huachen-service.invalid,+8615870776981,HC-E0002,设备运维部,运维技术员,SC-2026-CN-0024
+DEV-0550,A,EAST,25.5,618.2,3,0,CN,杭州市,杭州市云杉路39号6号楼,310000,陈建国,jianguo.chen@huachen-service.invalid,+8618949226406,HC-E0078,设备运维部,运维技术员,SC-2026-CN-0046
+DEV-0666,A,EAST,19.6,503.1,1,0,DE,Leipzig,"Birkenhofstrasse 37, Halle 2, Leipzig",04103,Petra Zimmermann,p.zimmermann77@dewei-service.invalid,+4915769829418,DW-E0110,Field Service,Field Engineer,SC-2026-DE-0056
+DEV-0375,A,EAST,21.0,473.6,2,1,CN,无锡市,无锡市云杉路44号7号楼,214000,黄志强,zhiqiang.huang@huachen-service.invalid,+8613824154866,HC-E0035,设备运维部,运维技术员,SC-2026-CN-0032
+DEV-0897,C,EAST,19.2,420.2,5,0,CN,苏州市,苏州市清禾路206号1号楼,215000,孙若宁,ruoning.sun@huachen-service.invalid,+8618682204267,HC-E0045,生产技术部,工艺工程师,SC-2026-CN-0075
+DEV-0930,C,EAST,17.6,627.7,3,0,DE,Leipzig,"Lindenwerkstrasse 141, Halle 2, Leipzig",04103,Lukas Neumann,lneumann@dewei-service.invalid,+4915238207917,DW-E0098,Plant Operations,Maintenance Technician,SC-2026-DE-0078
+DEV-0407,C,EAST,22.6,453.2,6,0,CN,无锡市,无锡市云杉路76号7号楼,214000,周思远,zhou.siyuan@huachen-service.invalid,+8613896687963,HC-E0079,设备运维部,设备工程师,SC-2026-CN-0034
+DEV-0727,C,EAST,19.1,208.1,3,0,CN,无锡市,无锡市云杉路36号7号楼,214000,林书瑶,shuyao.lin@huachen-service.invalid,+8613958053722,HC-E0071,设备运维部,设备主管,SC-2026-CN-0061
+DEV-0355,B,EAST,28.3,441.7,1,0,CN,无锡市,无锡市清禾路204号3号楼,214000,陈敏,min.chen@huachen-service.invalid,+8615091721122,HC-E0087,设备运维部,设备工程师,SC-2026-CN-0030
+DEV-0104,B,EAST,22.1,258.0,1,0,CN,宁波市,宁波市云杉路133号8号楼,315000,高晓梅,x.gao64@huachen-service.invalid,+8615083179205,HC-E0088,设备运维部,设备主管,SC-2026-CN-0009
+DEV-0111,B,EAST,21.1,422.0,3,0,CN,无锡市,无锡市星浦路140号7号楼,214000,张晓梅,xiaomei.zhang@huachen-service.invalid,+8613952749208,HC-E0047,设备运维部,设备工程师,SC-2026-CN-0010
+DEV-0482,C,EAST,17.9,351.2,0,0,CN,杭州市,杭州市清禾路151号2号楼,310000,张磊,lei.zhang@hz.huachen-service.invalid,+8615897575939,HC-E0018,售后服务部,现场工程师,SC-2026-CN-0041
+DEV-0799,A,EAST,17.3,384.4,3,0,CN,无锡市,无锡市星浦路108号7号楼,214000,李涛,t.li25@huachen-service.invalid,+8651060731683,HC-E0111,设备运维部,运维技术员,SC-2026-CN-0067
+DEV-0203,B,EAST,24.9,601.5,5,0,CN,无锡市,无锡市锦澜路52号3号楼,214000,徐颖,y.xu11@huachen-service.invalid,+8618680380001,HC-E0059,售后服务部,服务协调员,SC-2026-CN-0017
+DEV-0400,C,EAST,19.6,179.5,1,0,CN,宁波市,宁波市星浦路69号8号楼,315000,林志强,lin.zhiqiang@huachen-service.invalid,+8613828465423,HC-E0096,设备运维部,运维技术员,SC-2026-CN-0034
+DEV-0953,A,EAST,18.0,444.9,3,1,CN,苏州市,苏州市锦澜路82号1号楼,215000,郑思远,zheng.siyuan@sz.huachen-service.invalid,+8615095302828,HC-E0053,售后服务部,现场工程师,SC-2026-CN-0080
+DEV-0622,B,EAST,11.6,267.2,1,0,DE,Leipzig,"Wiesenfeldweg 153, Halle 6, Leipzig",04103,Thomas Schroeder,t.schroeder39@dewei-service.invalid,+4916086582565,DW-E0010,Production Engineering,Process Engineer,SC-2026-DE-0052
+DEV-0193,A,EAST,30.7,462.4,6,0,CN,苏州市,苏州市清禾路42号1号楼,215000,孙若宁,ruoning.sun@huachen-service.invalid,+8618682204267,HC-E0045,生产技术部,工艺工程师,SC-2026-CN-0017
+DEV-0843,C,EAST,17.5,261.3,0,1,CN,无锡市,无锡市锦澜路152号3号楼,214000,许磊,lei.xu@huachen-service.invalid,+8651092622802,HC-E0075,设备运维部,设备工程师,SC-2026-CN-0071
+DEV-0805,A,EAST,16.1,475.7,3,0,CN,苏州市,苏州市云杉路114号5号楼,215000,何子涵,he_zihan@huachen-service.invalid,+8615885871331,HC-E0009,设备运维部,设备工程师,SC-2026-CN-0068
+DEV-0947,A,EAST,20.6,356.4,2,0,CN,无锡市,无锡市清禾路76号3号楼,214000,林志强,lin.zhiqiang@huachen-service.invalid,+8613828465423,HC-E0096,设备运维部,运维技术员,SC-2026-CN-0079
+DEV-0608,B,SOUTH,18.7,540.7,0,0,DE,Stuttgart,"Wiesenfeldweg 139, Halle 8, Stuttgart",70173,Marie Wolf,m.wolf43@dewei-service.invalid,+4915158349437,DW-E0016,Production Engineering,Production Technician,SC-2026-DE-0051
+DEV-0678,C,EAST,18.8,225.2,1,0,DE,Leipzig,"Sonnenparkweg 49, Halle 6, Leipzig",04103,Felix Koch,felix.koch@dewei-service.invalid,+4917620819239,DW-E0042,Production Engineering,Process Engineer,SC-2026-DE-0057
+DEV-0672,A,SOUTH,24.7,467.0,1,0,DE,Stuttgart,"Wiesenfeldweg 43, Halle 8, Stuttgart",70173,Stefan Schneider,stefan.schneider@st.dewei-service.invalid,+4915233259016,DW-E0080,Plant Operations,Maintenance Technician,SC-2026-DE-0056
+DEV-0541,C,EAST,28.4,255.8,3,0,CN,苏州市,苏州市星浦路30号5号楼,215000,李志强,li_zhiqiang@huachen-service.invalid,+8615830907487,HC-E0120,生产技术部,工艺工程师,SC-2026-CN-0046
+DEV-0309,B,EAST,22.0,486.7,4,0,CN,苏州市,苏州市云杉路158号5号楼,215000,黄嘉怡,huang.jiayi@huachen-service.invalid,+8615054589231,HC-E0101,售后服务部,现场工程师,SC-2026-CN-0026
+DEV-0162,C,EAST,26.3,638.5,2,0,CN,杭州市,杭州市清禾路191号2号楼,310000,吴思远,wu_siyuan@huachen-service.invalid,+8657179874421,HC-E0026,设备运维部,设备主管,SC-2026-CN-0014
+DEV-0537,C,EAST,22.5,565.5,5,0,CN,苏州市,苏州市锦澜路206号1号楼,215000,刘浩然,haoran.liu@sz.huachen-service.invalid,+8618970521141,HC-E0069,生产技术部,生产技术员,SC-2026-CN-0045
+DEV-0592,A,EAST,16.2,580.3,2,0,CN,宁波市,宁波市星浦路81号8号楼,315000,李伟,wei.li@huachen-service.invalid,+8613861799109,HC-E0008,设备运维部,运维技术员,SC-2026-CN-0050
+DEV-0709,C,EAST,17.1,337.2,1,0,CN,苏州市,苏州市云杉路198号5号楼,215000,周晓梅,xiaomei.zhou@huachen-service.invalid,+8615084038269,HC-E0109,生产技术部,工艺工程师,SC-2026-CN-0060
+DEV-0806,A,EAST,16.9,390.0,2,0,DE,Leipzig,"Sonnenparkweg 17, Halle 6, Leipzig",04103,Daniel Wagner,daniel.wagner@dewei-service.invalid,+4916088485585,DW-E0014,Plant Operations,Equipment Engineer,SC-2026-DE-0068
+DEV-0431,A,EAST,21.2,418.3,2,0,CN,无锡市,无锡市星浦路100号7号楼,214000,张晓梅,xiaomei.zhang@huachen-service.invalid,+8613952749208,HC-E0047,设备运维部,设备工程师,SC-2026-CN-0036
+DEV-0022,A,EAST,14.5,178.6,2,0,CN,杭州市,杭州市云杉路51号6号楼,310000,徐欣悦,xxu@huachen-service.invalid,+8618996692523,HC-E0030,设备运维部,设备主管,SC-2026-CN-0002
+DEV-0141,B,EAST,24.1,454.4,3,0,CN,苏州市,苏州市星浦路170号5号楼,215000,林思远,siyuan.lin@huachen-service.invalid,+8618922700432,HC-E0005,设备运维部,运维技术员,SC-2026-CN-0012
+DEV-0251,A,EAST,12.6,577.7,2,0,CN,无锡市,无锡市锦澜路100号3号楼,214000,王志强,wang.zhiqiang@huachen-service.invalid,+8613835517254,HC-E0119,售后服务部,现场工程师,SC-2026-CN-0021
+DEV-0758,B,EAST,12.0,304.9,3,0,DE,Leipzig,"Sonnenparkweg 129, Halle 6, Leipzig",04103,Sabine Becker,sbecker@dewei-service.invalid,+4915191445475,DW-E0046,Production Engineering,Process Engineer,SC-2026-DE-0064
+DEV-0134,A,EAST,20.1,640.1,5,0,CN,杭州市,杭州市云杉路163号6号楼,310000,王晓梅,xwang@hz.huachen-service.invalid,+8618646067204,HC-E0070,生产技术部,工艺工程师,SC-2026-CN-0012
+DEV-0397,A,EAST,30.5,649.2,3,0,CN,苏州市,苏州市星浦路66号5号楼,215000,王明轩,wang_mingxuan@huachen-service.invalid,+8615857230544,HC-E0117,生产技术部,工艺工程师,SC-2026-CN-0034
+DEV-0422,B,EAST,21.9,352.7,2,0,CN,杭州市,杭州市云杉路91号6号楼,310000,张明轩,mingxuan.zhang@huachen-service.invalid,+8657165489495,HC-E0042,设备运维部,设备工程师,SC-2026-CN-0036
+DEV-0342,A,EAST,19.6,265.7,4,1,CN,杭州市,杭州市云杉路191号6号楼,310000,沈浩然,haoran.shen@huachen-service.invalid,+8615826230672,HC-E0118,生产技术部,生产技术员,SC-2026-CN-0029
+DEV-0728,B,SOUTH,17.3,185.8,4,0,DE,Stuttgart,"Sonnenparkweg 99, Halle 8, Stuttgart",70173,Petra Hartmann,petra.hartmann@dewei-service.invalid,+4915281122459,DW-E0040,Production Engineering,Process Engineer,SC-2026-DE-0061
+DEV-0965,B,EAST,20.6,403.0,4,0,CN,苏州市,苏州市云杉路94号5号楼,215000,张建国,j.zhang51@huachen-service.invalid,+8613953291090,HC-E0037,生产技术部,生产技术员,SC-2026-CN-0081
+DEV-0282,A,EAST,24.1,565.5,7,1,CN,杭州市,杭州市锦澜路131号2号楼,310000,沈浩然,haoran.shen@huachen-service.invalid,+8615826230672,HC-E0118,生产技术部,生产技术员,SC-2026-CN-0024
+DEV-0993,A,EAST,21.8,364.8,2,0,CN,苏州市,苏州市清禾路122号1号楼,215000,郑磊,lei.zheng@sz.huachen-service.invalid,+8615066937047,HC-E0033,设备运维部,设备工程师,SC-2026-CN-0083
+DEV-0008,A,EAST,22.0,413.3,2,0,CN,宁波市,宁波市云杉路37号8号楼,315000,林雨桐,yutong.lin@huachen-service.invalid,+8618944944335,HC-E0020,售后服务部,现场工程师,SC-2026-CN-0001
+DEV-0555,A,EAST,20.6,332.7,2,1,CN,无锡市,无锡市锦澜路44号3号楼,214000,林书瑶,shuyao.lin@huachen-service.invalid,+8613958053722,HC-E0071,设备运维部,设备主管,SC-2026-CN-0047
+DEV-0476,C,EAST,18.7,624.8,4,0,CN,宁波市,宁波市锦澜路145号4号楼,315000,林雨桐,yutong.lin@huachen-service.invalid,+8618944944335,HC-E0020,售后服务部,现场工程师,SC-2026-CN-0040
+DEV-0132,A,EAST,18.7,270.6,1,0,CN,宁波市,宁波市清禾路161号4号楼,315000,许晓梅,xiaomei.xu@huachen-service.invalid,+8613856068674,HC-E0084,设备运维部,设备主管,SC-2026-CN-0011
+DEV-0700,A,SOUTH,17.3,517.0,5,1,DE,Stuttgart,"Birkenhofstrasse 71, Halle 4, Stuttgart",70173,Paul Richter,paul.richter@dewei-service.invalid,+4915149395076,DW-E0060,Plant Operations,Equipment Engineer,SC-2026-DE-0059
+DEV-0335,C,EAST,19.0,642.0,3,0,CN,无锡市,无锡市星浦路184号7号楼,214000,陈敏,min.chen@huachen-service.invalid,+8615091721122,HC-E0087,设备运维部,设备工程师,SC-2026-CN-0028
+DEV-0990,B,EAST,15.7,530.8,6,1,DE,Leipzig,"Wiesenfeldweg 41, Halle 6, Leipzig",04103,Marie Wagner,wagner.marie@dewei-service.invalid,+4917623800563,DW-E0106,Plant Operations,Maintenance Technician,SC-2026-DE-0083
+DEV-0367,C,EAST,23.2,393.0,4,1,CN,无锡市,无锡市星浦路36号7号楼,214000,赵书瑶,shuyao.zhao@huachen-service.invalid,+8618669715320,HC-E0003,设备运维部,设备工程师,SC-2026-CN-0031
+DEV-0426,A,EAST,22.1,492.6,4,0,CN,杭州市,杭州市锦澜路95号2号楼,310000,赵文昊,wenhao.zhao@hz.huachen-service.invalid,+8615870776981,HC-E0002,设备运维部,运维技术员,SC-2026-CN-0036
+DEV-0498,A,EAST,20.5,320.1,1,0,CN,杭州市,杭州市清禾路167号2号楼,310000,吴思远,wu_siyuan@huachen-service.invalid,+8657179874421,HC-E0026,设备运维部,设备主管,SC-2026-CN-0042
+DEV-0545,A,EAST,24.1,628.2,5,1,CN,苏州市,苏州市清禾路34号1号楼,215000,张建国,j.zhang51@huachen-service.invalid,+8613953291090,HC-E0037,生产技术部,生产技术员,SC-2026-CN-0046
+DEV-0605,A,EAST,16.4,413.3,2,0,CN,苏州市,苏州市星浦路94号5号楼,215000,张建国,j.zhang51@huachen-service.invalid,+8613953291090,HC-E0037,生产技术部,生产技术员,SC-2026-CN-0051
+DEV-0880,A,SOUTH,15.9,436.9,4,1,DE,Stuttgart,"Wiesenfeldweg 91, Halle 8, Stuttgart",70173,Felix Fischer,felix.fischer@st.dewei-service.invalid,+4916050022870,DW-E0072,Production Engineering,Process Engineer,SC-2026-DE-0074
+DEV-0155,B,EAST,15.1,483.4,4,1,CN,无锡市,无锡市锦澜路184号3号楼,214000,徐颖,y.xu11@huachen-service.invalid,+8618680380001,HC-E0059,售后服务部,服务协调员,SC-2026-CN-0013
+DEV-0989,A,EAST,23.1,359.0,1,0,CN,苏州市,苏州市星浦路118号5号楼,215000,郑磊,lei.zheng@sz.huachen-service.invalid,+8615066937047,HC-E0033,设备运维部,设备工程师,SC-2026-CN-0083
+DEV-0778,C,EAST,18.3,223.3,1,0,DE,Leipzig,"Birkenhofstrasse 149, Halle 2, Leipzig",04103,Anna Fischer,fischer.anna@dewei-service.invalid,+4917673784260,DW-E0026,Field Service,Field Engineer,SC-2026-DE-0065
+DEV-0795,C,EAST,21.4,524.6,2,0,CN,无锡市,无锡市锦澜路104号3号楼,214000,黄欣悦,xhuang@huachen-service.invalid,+8615042399789,HC-E0023,设备运维部,运维技术员,SC-2026-CN-0067
+DEV-0406,A,EAST,15.5,281.8,2,0,CN,杭州市,杭州市云杉路75号6号楼,310000,林欣悦,xlin@huachen-service.invalid,+8615866325514,HC-E0074,设备运维部,设备工程师,SC-2026-CN-0034
+DEV-0138,A,EAST,20.0,210.0,0,0,CN,杭州市,杭州市锦澜路167号2号楼,310000,何静,jing.he@huachen-service.invalid,+8618947065945,HC-E0038,生产技术部,工艺工程师,SC-2026-CN-0012
+DEV-0043,B,EAST,28.7,412.4,4,1,CN,无锡市,无锡市锦澜路72号3号楼,214000,王雨桐,yutong.wang@huachen-service.invalid,+8615852375845,HC-E0063,售后服务部,现场工程师,SC-2026-CN-0004
+DEV-0522,B,EAST,26.2,414.7,3,0,CN,杭州市,杭州市锦澜路191号2号楼,310000,林静,j.lin69@hz.huachen-service.invalid,+8615038500032,HC-E0090,生产技术部,生产技术员,SC-2026-CN-0044
+DEV-0058,C,EAST,22.0,412.8,0,0,CN,杭州市,杭州市锦澜路87号2号楼,310000,周欣悦,xinyue.zhou@huachen-service.invalid,+8618672681826,HC-E0054,生产技术部,生产技术员,SC-2026-CN-0005
+DEV-0933,C,EAST,17.1,190.1,2,0,CN,苏州市,苏州市云杉路62号5号楼,215000,张志强,zhiqiang.zhang@huachen-service.invalid,+8613896716083,HC-E0113,设备运维部,运维技术员,SC-2026-CN-0078
+DEV-0948,A,SOUTH,12.7,603.8,2,0,DE,Stuttgart,"Lindenwerkstrasse 159, Halle 4, Stuttgart",70173,Paul Schmidt,p.schmidt22@st.dewei-service.invalid,+497116045734,DW-E0068,Production Engineering,Process Engineer,SC-2026-DE-0079
+DEV-0234,B,EAST,14.3,320.9,2,0,CN,杭州市,杭州市锦澜路83号2号楼,310000,罗书瑶,luo_shuyao@huachen-service.invalid,+8613852480536,HC-E0107,生产技术部,工艺工程师,SC-2026-CN-0020
+DEV-0306,B,EAST,22.9,383.5,1,0,CN,杭州市,杭州市清禾路155号2号楼,310000,郑浩然,zheng_haoran@huachen-service.invalid,+8615093400636,HC-E0062,生产技术部,工艺工程师,SC-2026-CN-0026
+DEV-0594,C,EAST,20.0,167.5,1,0,CN,杭州市,杭州市清禾路83号2号楼,310000,高建国,gao.jianguo@hz.huachen-service.invalid,+8613959395417,HC-E0022,售后服务部,现场工程师,SC-2026-CN-0050
+DEV-0445,B,EAST,35.2,458.8,4,1,CN,苏州市,苏州市星浦路114号5号楼,215000,刘浩然,haoran.liu@sz.huachen-service.invalid,+8618970521141,HC-E0069,生产技术部,生产技术员,SC-2026-CN-0038
+DEV-0827,A,EAST,22.7,501.2,1,0,CN,无锡市,无锡市锦澜路136号3号楼,214000,王建国,jianguo.wang@huachen-service.invalid,+8618925907406,HC-E0043,设备运维部,设备工程师,SC-2026-CN-0069
+DEV-0296,A,EAST,23.6,587.9,2,1,CN,宁波市,宁波市云杉路145号8号楼,315000,郑欣悦,xinyue.zheng@nb.huachen-service.invalid,+8615888874262,HC-E0068,设备运维部,设备工程师,SC-2026-CN-0025
+DEV-0980,A,SOUTH,21.3,495.6,3,0,DE,Stuttgart,"Lindenwerkstrasse 31, Halle 4, Stuttgart",70173,Stefan Zimmermann,stefan.zimmermann@dewei-service.invalid,+4917662400610,DW-E0108,Plant Operations,Equipment Engineer,SC-2026-DE-0082
+DEV-0796,B,SOUTH,12.4,649.7,3,0,DE,Stuttgart,"Birkenhofstrasse 167, Halle 4, Stuttgart",70173,Anna Fischer,fischer.anna@dewei-service.invalid,+4917673784260,DW-E0026,Field Service,Field Engineer,SC-2026-DE-0067
+DEV-0025,A,EAST,20.0,409.5,1,0,CN,苏州市,苏州市锦澜路54号1号楼,215000,何子涵,he_zihan@huachen-service.invalid,+8615885871331,HC-E0009,设备运维部,设备工程师,SC-2026-CN-0003
+DEV-0236,B,EAST,20.1,488.3,5,1,CN,宁波市,宁波市锦澜路85号4号楼,315000,高书瑶,shuyao.gao@huachen-service.invalid,+8657477413474,HC-E0044,生产技术部,生产技术员,SC-2026-CN-0020
+DEV-0361,B,EAST,21.2,558.0,4,0,CN,苏州市,苏州市锦澜路30号1号楼,215000,王欣悦,xinyue.wang@huachen-service.invalid,+8615874221435,HC-E0077,设备运维部,运维技术员,SC-2026-CN-0031
+DEV-0889,A,EAST,15.2,477.2,1,0,CN,苏州市,苏州市锦澜路198号1号楼,215000,陈涛,tao.chen@sz.huachen-service.invalid,+8613893661794,HC-E0017,设备运维部,设备工程师,SC-2026-CN-0075
+DEV-0436,B,EAST,27.4,236.2,1,0,CN,宁波市,宁波市清禾路105号4号楼,315000,张书瑶,zhang.shuyao@nb.huachen-service.invalid,+8618981845517,HC-E0080,生产技术部,生产技术员,SC-2026-CN-0037
+DEV-0886,C,EAST,13.9,508.8,1,0,DE,Leipzig,"Sonnenparkweg 97, Halle 6, Leipzig",04103,Michael Weber,michael.weber@dd.dewei-service.invalid,+4915743694102,DW-E0117,Plant Operations,Equipment Engineer,SC-2026-DE-0074
+DEV-0955,B,EAST,19.4,423.2,2,0,CN,无锡市,无锡市锦澜路84号3号楼,214000,许磊,lei.xu@huachen-service.invalid,+8651092622802,HC-E0075,设备运维部,设备工程师,SC-2026-CN-0080
+DEV-0347,B,EAST,25.4,470.5,4,1,CN,无锡市,无锡市锦澜路196号3号楼,214000,何浩然,,+8615025606551,HC-E0019,设备运维部,设备主管,SC-2026-CN-0029
+DEV-0235,B,EAST,26.6,353.5,1,0,CN,无锡市,无锡市锦澜路84号3号楼,214000,徐颖,y.xu11@huachen-service.invalid,+8618680380001,HC-E0059,售后服务部,服务协调员,SC-2026-CN-0020
+DEV-0701,A,EAST,21.7,163.0,3,0,CN,苏州市,苏州市星浦路190号5号楼,215000,周晓梅,xiaomei.zhou@huachen-service.invalid,+8615084038269,HC-E0109,生产技术部,工艺工程师,SC-2026-CN-0059
+DEV-0838,C,EAST,17.8,161.6,0,0,DE,Leipzig,"Sonnenparkweg 49, Halle 6, Leipzig",04103,Petra Richter,p.richter21@dewei-service.invalid,+4915220282350,DW-E0018,Plant Operations,Maintenance Technician,SC-2026-DE-0070
+DEV-0519,B,EAST,25.3,367.7,1,0,CN,无锡市,无锡市云杉路188号7号楼,214000,周明轩,mzhou@huachen-service.invalid,+8613827234580,HC-E0011,售后服务部,现场工程师,SC-2026-CN-0044
+DEV-0599,C,EAST,26.8,268.0,5,0,CN,无锡市,无锡市云杉路88号7号楼,214000,周明轩,mzhou@huachen-service.invalid,+8613827234580,HC-E0011,售后服务部,现场工程师,SC-2026-CN-0050
+DEV-0960,B,SOUTH,19.3,414.9,5,0,DE,Stuttgart,"Wiesenfeldweg 171, Halle 8, Stuttgart",70173,Anna Schroeder,anna.schroeder@dewei-service.invalid,+4915169058366,DW-E0028,Field Service,Field Engineer,SC-2026-DE-0080
+DEV-0242,C,EAST,20.1,555.7,3,0,CN,杭州市,杭州市清禾路91号2号楼,310000,罗浩然,haoran.luo@huachen-service.invalid,+8651280255656,HC-E0021,生产技术部,生产技术员,SC-2026-CN-0021
+DEV-0813,B,EAST,25.7,644.9,2,0,CN,苏州市,苏州市星浦路122号5号楼,215000,何子涵,he_zihan@huachen-service.invalid,+8615885871331,HC-E0009,设备运维部,设备工程师,SC-2026-CN-0068
+DEV-0931,C,EAST,15.9,632.6,3,1,CN,无锡市,无锡市清禾路60号3号楼,214000,高建国,gao.jianguo@hz.huachen-service.invalid,+8613959395417,HC-E0022,售后服务部,现场工程师,SC-2026-CN-0078
+DEV-0412,C,EAST,18.3,294.4,2,0,CN,宁波市,宁波市锦澜路81号4号楼,315000,李伟,wei.li@huachen-service.invalid,+8613861799109,HC-E0008,设备运维部,运维技术员,SC-2026-CN-0035
+DEV-0959,C,EAST,18.6,386.3,1,0,CN,无锡市,无锡市星浦路88号7号楼,214000,张晓梅,xiaomei.zhang@huachen-service.invalid,+8613952749208,HC-E0047,设备运维部,设备工程师,SC-2026-CN-0080
+DEV-0128,C,EAST,20.7,557.1,3,1,CN,宁波市,宁波市星浦路157号8号楼,315000,赵雨桐,yzhao@huachen-service.invalid,+8613876616930,HC-E0100,设备运维部,设备工程师,SC-2026-CN-0011
+DEV-0090,A,EAST,26.6,289.0,2,0,CN,杭州市,杭州市锦澜路119号2号楼,310000,王晓梅,xwang@hz.huachen-service.invalid,+8618646067204,HC-E0070,生产技术部,工艺工程师,SC-2026-CN-0008
+DEV-0768,B,SOUTH,10.1,424.9,4,0,DE,Stuttgart,"Wiesenfeldweg 139, Halle 8, Stuttgart",70173,Anna Schroeder,anna.schroeder@dewei-service.invalid,+4915169058366,DW-E0028,Field Service,Field Engineer,SC-2026-DE-0064
+DEV-0359,A,EAST,28.0,284.1,0,0,CN,无锡市,无锡市云杉路208号7号楼,214000,黄志强,zhiqiang.huang@huachen-service.invalid,+8613824154866,HC-E0035,设备运维部,运维技术员,SC-2026-CN-0030
+DEV-0572,B,EAST,15.4,617.2,1,0,CN,宁波市,宁波市锦澜路61号4号楼,315000,许若宁,ruoning.xu@huachen-service.invalid,+8618682475647,HC-E0060,生产技术部,工艺工程师,SC-2026-CN-0048
+DEV-0032,A,EAST,20.0,419.3,2,0,CN,宁波市,宁波市星浦路61号8号楼,315000,周敏,mzhou2@huachen-service.invalid,+8618685855276,HC-E0110,生产技术部,生产技术员,SC-2026-CN-0003
+DEV-0938,C,EAST,21.4,512.4,2,0,DE,Leipzig,"Birkenhofstrasse 149, Halle 2, Leipzig",04103,Petra Zimmermann,p.zimmermann77@dewei-service.invalid,+4915769829418,DW-E0110,Field Service,Field Engineer,SC-2026-DE-0079
+DEV-0143,B,EAST,20.0,279.5,1,0,CN,无锡市,无锡市星浦路172号7号楼,214000,何浩然,haoran.he@huachen-service.invalid,+8615025606551,HC-E0019,设备运维部,设备主管,SC-2026-CN-0012
+DEV-0816,A,SOUTH,20.5,530.8,4,0,DE,Stuttgart,"Wiesenfeldweg 27, Halle 8, Stuttgart",70173,Stefan Schulz,stefan.schulz@st.dewei-service.invalid,+4916052978300,DW-E0100,Field Service,Field Engineer,SC-2026-DE-0068
+DEV-0854,A,EAST,16.4,168.8,2,0,DE,Leipzig,"Sonnenparkweg 65, Halle 6, Leipzig",04103,Julia Richter,jrichter@dewei-service.invalid,+493413404895,DW-E0038,Production Engineering,Production Technician,SC-2026-DE-0072
+DEV-0833,B,EAST,16.7,511.7,2,0,CN,苏州市,苏州市清禾路142号1号楼,215000,罗磊,luo_lei@huachen-service.invalid,+8618967691818,HC-E0097,售后服务部,现场工程师,SC-2026-CN-0070
+DEV-0648,A,SOUTH,13.5,517.0,5,0,DE,Stuttgart,"Sonnenparkweg 19, Halle 8, Stuttgart",70173,Johanna Mueller,johanna.mueller@dewei-service.invalid,+4915774867024,DW-E0083,Production Engineering,Production Technician,SC-2026-DE-0054
+DEV-0743,C,EAST,14.9,412.8,3,0,CN,无锡市,无锡市云杉路52号7号楼,214000,王雨桐,yutong.wang@huachen-service.invalid,+8615852375845,HC-E0063,售后服务部,现场工程师,SC-2026-CN-0062
+DEV-0059,A,EAST,24.3,632.3,2,0,CN,无锡市,无锡市锦澜路88号3号楼,214000,何伟,wei.he@huachen-service.invalid,+8613947941770,HC-E0007,设备运维部,运维技术员,SC-2026-CN-0005
+DEV-0357,A,EAST,22.8,266.3,0,0,CN,苏州市,苏州市云杉路206号5号楼,215000,罗磊,luo_lei@huachen-service.invalid,+8618967691818,HC-E0097,售后服务部,现场工程师,SC-2026-CN-0030
+DEV-0903,C,EAST,12.1,317.1,2,0,CN,无锡市,无锡市云杉路32号7号楼,214000,张晓梅,xiaomei.zhang@huachen-service.invalid,+8613952749208,HC-E0047,设备运维部,设备工程师,SC-2026-CN-0076
+DEV-0435,C,EAST,20.9,437.8,2,0,CN,无锡市,无锡市清禾路104号3号楼,214000,徐颖,y.xu11@huachen-service.invalid,+8618680380001,HC-E0059,售后服务部,服务协调员,SC-2026-CN-0037
+DEV-0535,B,EAST,23.3,628.8,2,0,CN,无锡市,无锡市云杉路204号7号楼,214000,李思远,siyuan.li@huachen-service.invalid,+8618940577225,HC-E0095,生产技术部,工艺工程师,SC-2026-CN-0045
+DEV-0747,A,EAST,25.8,294.4,3,0,CN,无锡市,无锡市锦澜路56号3号楼,214000,王雨桐,yutong.wang@huachen-service.invalid,+8615852375845,HC-E0063,售后服务部,现场工程师,SC-2026-CN-0063
+DEV-0452,C,EAST,25.9,194.3,0,0,CN,宁波市,宁波市清禾路121号4号楼,315000,罗嘉怡,jiayi.luo@huachen-service.invalid,+8615894759537,HC-E0076,售后服务部,现场工程师,SC-2026-CN-0038
+DEV-0902,B,EAST,13.6,563.6,2,0,DE,Leipzig,"Sonnenparkweg 113, Halle 6, Leipzig",04103,Petra Zimmermann,p.zimmermann77@dewei-service.invalid,+4915769829418,DW-E0110,Field Service,Field Engineer,SC-2026-DE-0076
+DEV-0580,B,EAST,20.9,531.6,5,1,CN,宁波市,宁波市清禾路69号4号楼,315000,周若宁,zhou_ruoning@huachen-service.invalid,+8613980066999,HC-E0040,设备运维部,设备工程师,SC-2026-CN-0049
+DEV-0842,B,EAST,15.5,259.5,2,0,DE,Leipzig,"Birkenhofstrasse 53, Halle 2, Leipzig",04103,Felix Mueller,fmueller@dewei-service.invalid,+493415138519,DW-E0034,Plant Operations,Equipment Engineer,SC-2026-DE-0071
+DEV-0228,B,EAST,26.0,435.6,4,1,CN,宁波市,宁波市清禾路77号4号楼,315000,张书瑶,zhang.shuyao@nb.huachen-service.invalid,+8618981845517,HC-E0080,生产技术部,生产技术员,SC-2026-CN-0019
+DEV-0639,B,EAST,19.9,198.9,2,0,CN,无锡市,无锡市星浦路128号7号楼,214000,罗书瑶,luo_shuyao@huachen-service.invalid,+8613852480536,HC-E0107,生产技术部,工艺工程师,SC-2026-CN-0054
+DEV-0363,C,EAST,31.1,272.1,1,1,CN,无锡市,无锡市锦澜路32号3号楼,214000,周明轩,mzhou@huachen-service.invalid,+8613827234580,HC-E0011,售后服务部,现场工程师,SC-2026-CN-0031
+DEV-0016,C,EAST,26.3,623.4,7,1,CN,宁波市,宁波市星浦路45号8号楼,315000,周子涵,,+8613951667602,HC-E0104,设备运维部,设备工程师,SC-2026-CN-0002
+DEV-0103,C,EAST,29.3,199.6,0,0,CN,无锡市,无锡市云杉路132号7号楼,214000,何浩然,haoran.he@huachen-service.invalid,+8615025606551,HC-E0019,设备运维部,设备主管,SC-2026-CN-0009
+DEV-0438,B,EAST,28.9,565.4,0,0,CN,杭州市,杭州市云杉路107号6号楼,310000,何静,jing.he@huachen-service.invalid,+8618947065945,HC-E0038,生产技术部,工艺工程师,SC-2026-CN-0037
+DEV-0194,C,EAST,25.8,600.7,5,1,CN,杭州市,,310000,李建国,jli@hz.huachen-service.invalid,+8615092653467,HC-E0086,设备运维部,设备工程师,SC-2026-CN-0017
+DEV-0749,B,EAST,19.2,511.0,3,0,CN,苏州市,苏州市星浦路58号5号楼,215000,林思远,siyuan.lin@huachen-service.invalid,+8618922700432,HC-E0005,设备运维部,运维技术员,SC-2026-CN-0063
+DEV-0557,C,EAST,21.0,561.5,7,0,CN,苏州市,苏州市星浦路46号5号楼,215000,郑嘉怡,j.zheng75@sz.huachen-service.invalid,+8615099679666,HC-E0013,设备运维部,设备主管,SC-2026-CN-0047
+DEV-0471,A,EAST,27.9,244.4,1,0,CN,无锡市,无锡市云杉路140号7号楼,214000,黄颖,huang_ying@huachen-service.invalid,+8618956756993,HC-E0115,设备运维部,设备主管,SC-2026-CN-0040
+DEV-0937,A,EAST,17.2,310.9,3,1,CN,苏州市,苏州市锦澜路66号1号楼,215000,沈文昊,shen.wenhao@huachen-service.invalid,+8613955899872,HC-E0081,设备运维部,设备工程师,SC-2026-CN-0079
+DEV-0045,B,EAST,29.3,210.8,2,0,CN,苏州市,苏州市星浦路74号5号楼,215000,黄嘉怡,huang.jiayi@huachen-service.invalid,+8615054589231,HC-E0101,售后服务部,现场工程师,SC-2026-CN-0004
+DEV-0026,A,EAST,20.2,611.0,3,0,CN,杭州市,杭州市锦澜路55号2号楼,310000,郑浩然,zheng_haoran@huachen-service.invalid,+8615093400636,HC-E0062,生产技术部,工艺工程师,SC-2026-CN-0003
+DEV-0023,C,EAST,27.8,597.9,5,0,CN,无锡市,无锡市云杉路52号7号楼,214000,吴伟,wei.wu@wx.huachen-service.invalid,+8613884726516,HC-E0083,设备运维部,运维技术员,SC-2026-CN-0002
+DEV-0040,C,EAST,28.8,317.6,1,0,CN,宁波市,宁波市云杉路69号8号楼,315000,许文昊,wenhao.xu@huachen-service.invalid,+8613823346237,HC-E0004,设备运维部,运维技术员,SC-2026-CN-0004
+DEV-0314,B,EAST,21.9,523.5,3,0,CN,杭州市,杭州市锦澜路163号2号楼,310000,陈伟,chen.wei@huachen-service.invalid,+8613835344384,HC-E0066,设备运维部,设备主管,SC-2026-CN-0027
+DEV-0760,A,SOUTH,21.0,505.0,3,1,DE,Stuttgart,"Sonnenparkweg 131, Halle 8, Stuttgart",70173,Maximilian Richter,richter.maximilian@dewei-service.invalid,+4915796232958,DW-E0112,Plant Operations,Maintenance Technician,SC-2026-DE-0064
+DEV-0492,B,EAST,22.1,499.2,4,0,CN,宁波市,宁波市锦澜路161号4号楼,315000,刘建国,jliu@huachen-service.invalid,+8615048009904,HC-E0116,售后服务部,现场工程师,SC-2026-CN-0041
+DEV-0259,C,EAST,23.3,553.0,6,1,CN,无锡市,无锡市清禾路108号3号楼,214000,王志强,wang.zhiqiang@huachen-service.invalid,+8613835517254,HC-E0119,售后服务部,现场工程师,SC-2026-CN-0022
+DEV-0187,A,EAST,14.2,456.3,3,1,CN,无锡市,无锡市锦澜路36号3号楼,214000,陈书瑶,s.chen42@huachen-service.invalid,+8615063739635,HC-E0105,生产技术部,生产技术员,SC-2026-CN-0016
+DEV-0209,C,EAST,16.5,222.1,2,0,CN,苏州市,苏州市清禾路58号1号楼,215000,张建国,j.zhang51@huachen-service.invalid,+8613953291090,HC-E0037,生产技术部,生产技术员,SC-2026-CN-0018
+DEV-0353,A,EAST,17.9,452.5,2,1,CN,苏州市,苏州市清禾路202号1号楼,215000,高文昊,wenhao.gao@huachen-service.invalid,+8615069468843,HC-E0065,设备运维部,设备工程师,SC-2026-CN-0030
+DEV-0798,B,EAST,16.1,615.3,4,1,DE,Leipzig,"Wiesenfeldweg 169, Halle 6, Leipzig",04103,Petra Richter,p.richter21@dewei-service.invalid,+4915220282350,DW-E0018,Plant Operations,Maintenance Technician,SC-2026-DE-0067
+DEV-0457,B,EAST,28.5,424.2,1,0,CN,苏州市,苏州市锦澜路126号1号楼,215000,郑嘉怡,j.zheng75@sz.huachen-service.invalid,+8615099679666,HC-E0013,设备运维部,设备主管,SC-2026-CN-0039
+DEV-0316,B,EAST,24.9,274.0,2,1,CN,宁波市,宁波市锦澜路165号4号楼,315000,李晓梅,xiaomei.li@huachen-service.invalid,+8615833090873,HC-E0012,生产技术部,生产技术员,SC-2026-CN-0027
+DEV-0764,B,SOUTH,26.2,639.9,5,1,DE,Stuttgart,"Birkenhofstrasse 135, Halle 4, Stuttgart",70173,Sabine Mueller,s.mueller31@dewei-service.invalid,+4916026792679,DW-E0104,Field Service,Field Engineer,SC-2026-DE-0064
+DEV-0779,C,EAST,14.4,163.6,1,0,CN,无锡市,无锡市锦澜路88号3号楼,214000,罗书瑶,luo_shuyao@huachen-service.invalid,+8613852480536,HC-E0107,生产技术部,工艺工程师,SC-2026-CN-0065
+DEV-0109,C,EAST,24.5,647.2,2,1,CN,苏州市,苏州市星浦路138号5号楼,215000,罗思远,luo.siyuan@huachen-service.invalid,+8615076453710,HC-E0049,生产技术部,工艺工程师,SC-2026-CN-0010
+DEV-0999,A,EAST,17.3,488.1,2,0,CN,无锡市,无锡市云杉路128号7号楼,214000,黄颖,huang_ying@huachen-service.invalid,+8618956756993,HC-E0115,设备运维部,设备主管,SC-2026-CN-0084
+DEV-0810,A,EAST,12.1,195.4,0,0,DE,Leipzig,"Birkenhofstrasse 21, Halle 2, Leipzig",04103,Sabine Weber,weber_sabine@le.dewei-service.invalid,+4915790191361,DW-E0022,Plant Operations,Maintenance Technician,SC-2026-DE-0068
+DEV-0581,A,EAST,18.7,239.5,2,0,CN,苏州市,苏州市云杉路70号5号楼,215000,李志强,zhiqiang.li@sz.huachen-service.invalid,+8613826858295,HC-E0001,设备运维部,运维技术员,SC-2026-CN-0049
+DEV-0802,A,EAST,4.7,457.4,2,0,DE,Leipzig,"Lindenwerkstrasse 13, Halle 2, Leipzig",04103,Sabine Becker,sbecker@dewei-service.invalid,+4915191445475,DW-E0046,Production Engineering,Process Engineer,SC-2026-DE-0067
+DEV-0002,A,EAST,24.7,413.3,0,0,CN,杭州市,杭州市清禾路31号2号楼,310000,周志强,zhou.zhiqiang@huachen-service.invalid,+8613968393685,HC-E0034,设备运维部,设备工程师,SC-2026-CN-0001
+DEV-0488,B,EAST,27.7,368.4,0,0,CN,宁波市,宁波市云杉路157号8号楼,315000,黄雨桐,huang_yutong@huachen-service.invalid,+8613898447296,HC-E0052,设备运维部,运维技术员,SC-2026-CN-0041
+DEV-0461,C,EAST,28.1,471.4,2,1,CN,苏州市,苏州市星浦路130号5号楼,215000,沈文昊,shen.wenhao@huachen-service.invalid,+8613955899872,HC-E0081,设备运维部,设备工程师,SC-2026-CN-0039
+DEV-0300,B,EAST,25.1,220.6,1,0,CN,宁波市,宁波市锦澜路149号4号楼,315000,许晓梅,xiaomei.xu@huachen-service.invalid,+8613856068674,HC-E0084,设备运维部,设备主管,SC-2026-CN-0025
+DEV-0371,C,EAST,21.0,436.3,2,0,CN,无锡市,无锡市清禾路40号3号楼,214000,王静,jwang@huachen-service.invalid,+8613972196815,HC-E0015,设备运维部,设备工程师,SC-2026-CN-0031
+DEV-0606,A,EAST,19.9,413.3,4,1,DE,Leipzig,"Wiesenfeldweg 137, Halle 6, Leipzig",04103,Paul Schmidt,p.schmidt22@st.dewei-service.invalid,+497116045734,DW-E0068,Production Engineering,Process Engineer,SC-2026-DE-0051
+DEV-0663,A,EAST,13.7,618.3,0,0,CN,无锡市,无锡市云杉路152号7号楼,214000,林书瑶,shuyao.lin@huachen-service.invalid,+8613958053722,HC-E0071,设备运维部,设备主管,SC-2026-CN-0056
+DEV-0649,A,EAST,18.7,402.8,1,0,CN,苏州市,苏州市锦澜路138号1号楼,215000,罗思远,luo.siyuan@huachen-service.invalid,+8615076453710,HC-E0049,生产技术部,工艺工程师,SC-2026-CN-0055
+DEV-0732,C,SOUTH,23.3,170.0,0,0,DE,Stuttgart,"Birkenhofstrasse 103, Halle 4, Stuttgart",70173,Michael Neumann,mneumann@dewei-service.invalid,+4915795128942,DW-E0064,Plant Operations,Maintenance Technician,SC-2026-DE-0061
+DEV-0333,A,EAST,20.6,381.6,3,0,CN,苏州市,苏州市星浦路182号5号楼,215000,周建国,j.zhou4@huachen-service.invalid,+8613820054584,HC-E0089,设备运维部,设备工程师,SC-2026-CN-0028
+DEV-0556,C,EAST,23.7,613.0,5,1,CN,宁波市,宁波市锦澜路45号4号楼,315000,李伟,wei.li@huachen-service.invalid,+8613861799109,HC-E0008,设备运维部,运维技术员,SC-2026-CN-0047
+DEV-0011,B,EAST,19.6,742.7,3,1,CN,无锡市,无锡市锦澜路40号3号楼,214000,黄志强,zhiqiang.huang@huachen-service.invalid,+8613824154866,HC-E0035,设备运维部,运维技术员,SC-2026-CN-0001
+DEV-0248,A,EAST,21.6,169.5,3,0,CN,宁波市,宁波市云杉路97号8号楼,315000,赵敏,min.zhao@huachen-service.invalid,+8613986538771,HC-E0028,生产技术部,生产技术员,SC-2026-CN-0021
+DEV-0586,C,EAST,24.2,412.8,0,0,CN,杭州市,杭州市锦澜路75号2号楼,310000,周志强,zhou.zhiqiang@huachen-service.invalid,+8613968393685,HC-E0034,设备运维部,设备工程师,SC-2026-CN-0049
+DEV-0238,A,EAST,23.4,453.2,4,1,CN,杭州市,杭州市星浦路87号6号楼,310000,林静,j.lin69@hz.huachen-service.invalid,+8615038500032,HC-E0090,生产技术部,生产技术员,SC-2026-CN-0020
+DEV-0315,B,EAST,27.4,477.7,3,0,CN,无锡市,无锡市锦澜路164号3号楼,214000,李颖,ying.li@huachen-service.invalid,+8618989540727,HC-E0027,设备运维部,设备工程师,SC-2026-CN-0027
+DEV-0612,A,SOUTH,15.5,238.0,0,0,DE,Stuttgart,"Lindenwerkstrasse 143, Halle 4, Stuttgart",70173,Maximilian Richter,richter.maximilian@dewei-service.invalid,+4915796232958,DW-E0112,Plant Operations,Maintenance Technician,SC-2026-DE-0051
+DEV-0434,B,EAST,20.9,216.5,2,1,CN,杭州市,杭州市清禾路103号2号楼,310000,沈浩然,haoran.shen@huachen-service.invalid,+8615826230672,HC-E0118,生产技术部,生产技术员,SC-2026-CN-0037
+DEV-0127,C,EAST,22.6,320.4,4,1,CN,无锡市,无锡市星浦路156号7号楼,214000,吴伟,wei.wu@wx.huachen-service.invalid,+8613884726516,HC-E0083,设备运维部,运维技术员,SC-2026-CN-0011
+DEV-0861,A,EAST,20.5,320.0,4,1,CN,苏州市,苏州市星浦路170号5号楼,215000,周建国,j.zhou4@huachen-service.invalid,+8613820054584,HC-E0089,设备运维部,设备工程师,SC-2026-CN-0072
+DEV-0092,A,EAST,19.9,527.7,2,0,CN,宁波市,宁波市锦澜路121号4号楼,315000,赵敏,min.zhao@huachen-service.invalid,+8613986538771,HC-E0028,生产技术部,生产技术员,SC-2026-CN-0008
+DEV-0588,B,EAST,20.3,414.7,2,0,CN,宁波市,宁波市锦澜路77号4号楼,315000,沈思远,siyuan.shen@huachen-service.invalid,+8618986710403,HC-E0039,设备运维部,运维技术员,SC-2026-CN-0049
+DEV-0782,A,EAST,10.9,440.1,4,0,DE,Leipzig,"Wiesenfeldweg 153, Halle 6, Leipzig",04103,Sabine Weber,weber_sabine@le.dewei-service.invalid,+4915790191361,DW-E0022,Plant Operations,Maintenance Technician,SC-2026-DE-0066
+DEV-0097,C,EAST,20.5,239.2,1,0,CN,苏州市,苏州市清禾路126号1号楼,215000,何晓梅,xiaomei.he@huachen-service.invalid,+8618943908593,HC-E0082,设备运维部,运维技术员,SC-2026-CN-0009
+DEV-0769,A,EAST,18.9,492.7,5,1,CN,苏州市,苏州市清禾路78号1号楼,215000,李志强,zhiqiang.li@sz.huachen-service.invalid,+8613826858295,HC-E0001,设备运维部,运维技术员,SC-2026-CN-0065
+DEV-0329,B,EAST,33.5,726.9,5,0,CN,苏州市,,215000,沈嘉怡,jshen@huachen-service.invalid,+8618630698916,HC-E0061,设备运维部,运维技术员,SC-2026-CN-0028
+DEV-0443,A,EAST,17.7,262.9,4,0,CN,无锡市,无锡市锦澜路112号3号楼,214000,吴伟,wei.wu@wx.huachen-service.invalid,+8613884726516,HC-E0083,设备运维部,运维技术员,SC-2026-CN-0037
+DEV-0365,A,EAST,28.1,552.5,5,1,CN,苏州市,苏州市星浦路34号5号楼,215000,李思远,siyuan.li@huachen-service.invalid,+8618940577225,HC-E0095,生产技术部,工艺工程师,SC-2026-CN-0031
+DEV-0487,A,EAST,24.0,493.9,2,1,CN,无锡市,无锡市云杉路156号7号楼,214000,罗书瑶,luo_shuyao@huachen-service.invalid,+8613852480536,HC-E0107,生产技术部,工艺工程师,SC-2026-CN-0041
+DEV-0730,A,EAST,18.7,208.2,2,0,DE,Leipzig,"Birkenhofstrasse 101, Halle 2, Leipzig",04103,Paul Fischer,p.fischer72@dewei-service.invalid,+4915781377629,DW-E0090,Plant Operations,Maintenance Technician,SC-2026-DE-0061
+DEV-0684,C,SOUTH,22.1,484.2,5,0,DE,Stuttgart,"Birkenhofstrasse 55, Halle 4, Stuttgart",70173,Sophie Wagner,sophie.wagner@dewei-service.invalid,+4915173191842,DW-E0052,Production Engineering,Production Technician,SC-2026-DE-0057
+DEV-0904,C,SOUTH,16.8,552.6,3,0,DE,Stuttgart,"Sonnenparkweg 115, Halle 8, Stuttgart",70173,Lukas Hartmann,lukas.hartmann@dewei-service.invalid,+497118042645,DW-E0056,Field Service,Field Engineer,SC-2026-DE-0076
+DEV-0067,A,EAST,25.4,596.5,3,1,CN,无锡市,无锡市清禾路96号3号楼,214000,郑磊,lei.zheng@sz.huachen-service.invalid,+8615066937047,HC-E0033,设备运维部,设备工程师,SC-2026-CN-0006
+DEV-0483,B,EAST,23.9,431.1,3,0,CN,无锡市,无锡市清禾路152号3号楼,214000,周思远,zhou.siyuan@huachen-service.invalid,+8613896687963,HC-E0079,设备运维部,设备工程师,SC-2026-CN-0041
+DEV-0147,C,EAST,23.1,338.0,5,1,CN,无锡市,无锡市清禾路176号3号楼,214000,高文昊,wenhao.gao@huachen-service.invalid,+8615069468843,HC-E0065,设备运维部,设备工程师,SC-2026-CN-0013
+DEV-0318,C,EAST,21.6,596.4,4,0,CN,杭州市,杭州市星浦路167号6号楼,310000,王若宁,,+8618634677365,HC-E0014,设备运维部,设备工程师,SC-2026-CN-0027
+DEV-0972,C,SOUTH,2.8,440.8,4,1,DE,Stuttgart,"Birkenhofstrasse 23, Halle 4, Stuttgart",70173,Lukas Schulz,lukas.schulz@dewei-service.invalid,+4915257218389,DW-E0050,Plant Operations,Maintenance Technician,SC-2026-DE-0081
+DEV-0864,C,SOUTH,21.2,440.0,5,1,DE,Stuttgart,"Wiesenfeldweg 75, Halle 8, Stuttgart",70173,Michael Neumann,mneumann@dewei-service.invalid,+4915795128942,DW-E0064,Plant Operations,Maintenance Technician,SC-2026-DE-0072
+DEV-0630,B,EAST,14.2,265.8,1,0,DE,Leipzig,"Sonnenparkweg 161, Halle 6, Leipzig",04103,Laura Fischer,laura.fischer@dewei-service.invalid,+4915748562590,DW-E0078,Plant Operations,Maintenance Technician,SC-2026-DE-0053
+DEV-0698,C,EAST,10.9,189.6,1,0,DE,Leipzig,"Birkenhofstrasse 69, Halle 2, Leipzig",04103,Petra Zimmermann,p.zimmermann77@dewei-service.invalid,+4915769829418,DW-E0110,Field Service,Field Engineer,SC-2026-DE-0059
+DEV-0578,B,EAST,22.7,597.0,3,0,CN,杭州市,杭州市清禾路67号2号楼,310000,赵欣悦,xinyue.zhao@hz.huachen-service.invalid,+8615883440162,HC-E0114,设备运维部,运维技术员,SC-2026-CN-0049
+DEV-0549,C,EAST,26.9,494.8,3,1,CN,苏州市,苏州市云杉路38号5号楼,215000,张建国,j.zhang51@huachen-service.invalid,+8613953291090,HC-E0037,生产技术部,生产技术员,SC-2026-CN-0046
+DEV-0192,B,EAST,25.8,428.7,6,1,CN,宁波市,宁波市星浦路41号8号楼,315000,张书瑶,zhang.shuyao@nb.huachen-service.invalid,+8618981845517,HC-E0080,生产技术部,生产技术员,SC-2026-CN-0016
+DEV-0835,A,EAST,10.5,530.3,1,0,CN,无锡市,无锡市清禾路144号3号楼,214000,李思远,siyuan.li@huachen-service.invalid,+8618940577225,HC-E0095,生产技术部,工艺工程师,SC-2026-CN-0070
+DEV-0585,B,EAST,20.7,416.4,3,0,CN,苏州市,苏州市锦澜路74号1号楼,215000,郑思远,zheng.siyuan@sz.huachen-service.invalid,+8615095302828,HC-E0053,售后服务部,现场工程师,SC-2026-CN-0049
+DEV-0914,C,EAST,9.7,607.1,3,1,DE,Leipzig,"Lindenwerkstrasse 125, Halle 2, Leipzig",04103,Sabine Fischer,fischer.sabine@dewei-service.invalid,+4916080123125,DW-E0118,Plant Operations,Maintenance Technician,SC-2026-DE-0077
+DEV-0354,C,EAST,16.6,194.8,2,0,CN,杭州市,杭州市清禾路203号2号楼,310000,孙晓梅,xsun@huachen-service.invalid,+8615071835140,HC-E0098,设备运维部,设备工程师,SC-2026-CN-0030
+DEV-0493,C,EAST,27.3,414.4,2,1,CN,苏州市,苏州市星浦路162号5号楼,215000,李志强,zhiqiang.li@sz.huachen-service.invalid,+8613826858295,HC-E0001,设备运维部,运维技术员,SC-2026-CN-0042
+DEV-0424,B,EAST,20.3,426.4,4,0,CN,宁波市,宁波市云杉路93号8号楼,315000,高书瑶,shuyao.gao@huachen-service.invalid,+8657477413474,HC-E0044,生产技术部,生产技术员,SC-2026-CN-0036
+DEV-0381,B,EAST,24.1,415.6,4,0,CN,苏州市,苏州市星浦路50号5号楼,215000,高文昊,wenhao.gao@huachen-service.invalid,+8615069468843,HC-E0065,设备运维部,设备工程师,SC-2026-CN-0032
+DEV-0642,B,EAST,20.8,519.2,1,0,DE,Leipzig,"Lindenwerkstrasse 13, Halle 2, Leipzig",04103,Daniel Wagner,daniel.wagner@dewei-service.invalid,+4916088485585,DW-E0014,Plant Operations,Equipment Engineer,SC-2026-DE-0054
+DEV-0905,C,EAST,15.4,404.0,2,1,CN,苏州市,苏州市锦澜路34号1号楼,215000,孙若宁,ruoning.sun@huachen-service.invalid,+8618682204267,HC-E0045,生产技术部,工艺工程师,SC-2026-CN-0076
+DEV-0974,B,EAST,11.9,469.3,4,0,DE,Leipzig,"Wiesenfeldweg 25, Halle 6, Leipzig",04103,Stefan Fischer,stefan.fischer@dewei-service.invalid,+4915187512011,DW-E0070,Field Service,Field Engineer,SC-2026-DE-0082
+DEV-0034,B,EAST,21.3,448.0,4,1,CN,杭州市,杭州市清禾路63号2号楼,310000,周敏,mzhou2@huachen-service.invalid,+8618685855276,HC-E0110,生产技术部,生产技术员,SC-2026-CN-0003
+DEV-0859,C,EAST,17.8,162.8,2,0,CN,无锡市,无锡市锦澜路168号3号楼,214000,黄建国,jianguo.huang@huachen-service.invalid,+8613831074111,HC-E0067,设备运维部,设备工程师,SC-2026-CN-0072
+DEV-0305,B,EAST,23.9,285.3,1,0,CN,苏州市,苏州市清禾路154号1号楼,215000,陈志强,zchen@huachen-service.invalid,+8618966905931,HC-E0029,设备运维部,运维技术员,SC-2026-CN-0026
+DEV-0345,A,EAST,29.8,354.2,3,1,CN,苏州市,苏州市锦澜路194号1号楼,215000,张建国,j.zhang51@huachen-service.invalid,+8613953291090,HC-E0037,生产技术部,生产技术员,SC-2026-CN-0029
+DEV-0935,B,EAST,22.7,282.5,1,0,CN,无锡市,无锡市云杉路64号7号楼,214000,黄建国,jianguo.huang@huachen-service.invalid,+8613831074111,HC-E0067,设备运维部,设备工程师,SC-2026-CN-0078
+DEV-0285,C,EAST,18.6,177.5,0,0,CN,苏州市,苏州市星浦路134号5号楼,215000,王伟,wei.wang@huachen-service.invalid,+8613841372844,HC-E0073,设备运维部,设备工程师,SC-2026-CN-0024
+DEV-0417,C,EAST,30.4,602.2,1,0,CN,苏州市,苏州市清禾路86号1号楼,215000,王伟,wei.wang@huachen-service.invalid,+8613841372844,HC-E0073,设备运维部,设备工程师,SC-2026-CN-0035
+DEV-0582,C,EAST,22.8,524.0,2,1,CN,杭州市,杭州市云杉路71号6号楼,310000,张磊,lei.zhang@hz.huachen-service.invalid,+8615897575939,HC-E0018,售后服务部,现场工程师,SC-2026-CN-0049
+DEV-0052,A,EAST,16.7,431.5,1,0,CN,宁波市,宁波市清禾路81号4号楼,315000,高书瑶,shuyao.gao@huachen-service.invalid,+8657477413474,HC-E0044,生产技术部,生产技术员,SC-2026-CN-0005
+DEV-0230,C,EAST,23.9,287.9,1,0,CN,杭州市,杭州市云杉路79号6号楼,310000,林欣悦,xlin@huachen-service.invalid,+8615866325514,HC-E0074,设备运维部,设备工程师,SC-2026-CN-0020
+DEV-0910,B,EAST,16.5,213.1,4,0,DE,Leipzig,"Wiesenfeldweg 121, Halle 6, Leipzig",04103,Paul Fischer,p.fischer72@dewei-service.invalid,+4915781377629,DW-E0090,Plant Operations,Maintenance Technician,SC-2026-DE-0076
+DEV-0511,B,EAST,24.9,444.3,2,0,CN,无锡市,无锡市星浦路180号7号楼,214000,林书瑶,shuyao.lin@huachen-service.invalid,+8613958053722,HC-E0071,设备运维部,设备主管,SC-2026-CN-0043
+DEV-0338,A,EAST,17.2,219.6,0,0,CN,杭州市,杭州市清禾路187号2号楼,310000,王明轩,wang_mingxuan@huachen-service.invalid,+8615857230544,HC-E0117,生产技术部,工艺工程师,SC-2026-CN-0029
+DEV-0481,C,EAST,22.7,459.6,3,0,CN,苏州市,苏州市清禾路150号1号楼,215000,高文昊,wenhao.gao@huachen-service.invalid,+8615069468843,HC-E0065,设备运维部,设备工程师,SC-2026-CN-0041
+DEV-0923,A,EAST,20.0,406.1,1,0,CN,无锡市,无锡市锦澜路52号3号楼,214000,林书瑶,shuyao.lin@huachen-service.invalid,+8613958053722,HC-E0071,设备运维部,设备主管,SC-2026-CN-0077
+DEV-0508,C,EAST,26.8,578.2,2,1,CN,宁波市,宁波市锦澜路177号4号楼,315000,徐颖,y.xu11@huachen-service.invalid,+8618680380001,HC-E0059,售后服务部,服务协调员,SC-2026-CN-0043
+DEV-0105,B,EAST,26.8,468.1,0,1,CN,苏州市,苏州市锦澜路134号1号楼,215000,李志强,zhiqiang.li@sz.huachen-service.invalid,+8613826858295,HC-E0001,设备运维部,运维技术员,SC-2026-CN-0009
+DEV-0499,C,EAST,21.3,206.2,3,0,CN,无锡市,无锡市清禾路168号3号楼,214000,李明轩,mli@huachen-service.invalid,+8613954555454,HC-E0091,生产技术部,生产技术员,SC-2026-CN-0042
+DEV-0994,B,EAST,19.5,536.0,5,0,DE,Leipzig,"Lindenwerkstrasse 45, Halle 2, Leipzig",04103,Sabine Becker,sbecker@dewei-service.invalid,+4915191445475,DW-E0046,Production Engineering,Process Engineer,SC-2026-DE-0083
+DEV-0559,B,EAST,22.5,562.4,2,1,CN,无锡市,无锡市星浦路48号7号楼,,王志强,wang.zhiqiang@huachen-service.invalid,+8613835517254,HC-E0119,售后服务部,现场工程师,SC-2026-CN-0047
+DEV-0713,B,EAST,11.7,478.1,3,0,CN,苏州市,苏州市锦澜路202号1号楼,215000,林建国,lin_jianguo@huachen-service.invalid,+8613954202130,HC-E0016,设备运维部,设备工程师,SC-2026-CN-0060
+DEV-0273,A,EAST,28.2,504.9,2,1,CN,苏州市,苏州市清禾路122号1号楼,215000,罗思远,luo.siyuan@huachen-service.invalid,+8615076453710,HC-E0049,生产技术部,工艺工程师,SC-2026-CN-0023
+DEV-0517,A,EAST,28.1,195.5,2,0,CN,苏州市,苏州市云杉路186号5号楼,215000,郑思远,zheng.siyuan@sz.huachen-service.invalid,+8615095302828,HC-E0053,售后服务部,现场工程师,SC-2026-CN-0044
+DEV-0021,B,EAST,24.4,505.2,2,0,CN,苏州市,苏州市云杉路50号5号楼,215000,沈嘉怡,jshen@huachen-service.invalid,+8618630698916,HC-E0061,设备运维部,运维技术员,SC-2026-CN-0002
+DEV-0703,A,EAST,13.7,239.1,1,0,CN,无锡市,无锡市星浦路192号7号楼,214000,王静,jwang@huachen-service.invalid,+8613972196815,HC-E0015,设备运维部,设备工程师,SC-2026-CN-0059
+DEV-0466,B,EAST,16.4,543.3,4,1,CN,杭州市,杭州市清禾路135号2号楼,310000,高晓梅,x.gao64@huachen-service.invalid,+8615083179205,HC-E0088,设备运维部,设备主管,SC-2026-CN-0039
+DEV-0308,A,EAST,23.2,244.1,2,0,CN,宁波市,宁波市清禾路157号4号楼,,林雨桐,yutong.lin@huachen-service.invalid,+8618944944335,HC-E0020,售后服务部,现场工程师,SC-2026-CN-0026
+DEV-0615,B,EAST,9.3,635.4,1,0,CN,无锡市,无锡市云杉路104号7号楼,214000,赵欣悦,xinyue.zhao@hz.huachen-service.invalid,+8615883440162,HC-E0114,设备运维部,运维技术员,SC-2026-CN-0052
+DEV-0973,A,EAST,18.9,543.0,2,0,CN,苏州市,苏州市星浦路102号5号楼,215000,林浩然,hlin@huachen-service.invalid,+8618664742131,HC-E0041,设备运维部,运维技术员,SC-2026-CN-0082
+DEV-0425,C,EAST,13.0,427.8,4,0,CN,苏州市,苏州市锦澜路94号1号楼,215000,郑磊,lei.zheng@sz.huachen-service.invalid,+8615066937047,HC-E0033,设备运维部,设备工程师,SC-2026-CN-0036
+DEV-0033,C,EAST,21.5,328.6,2,0,CN,苏州市,苏州市清禾路62号1号楼,215000,李志强,zhiqiang.li@sz.huachen-service.invalid,+8613826858295,HC-E0001,设备运维部,运维技术员,SC-2026-CN-0003
+DEV-0009,A,EAST,22.3,413.3,1,0,CN,苏州市,苏州市锦澜路38号1号楼,215000,张志强,zhiqiang.zhang@huachen-service.invalid,+8613896716083,HC-E0113,设备运维部,运维技术员,SC-2026-CN-0001
+DEV-0133,A,EAST,18.4,311.6,5,0,CN,苏州市,苏州市云杉路162号5号楼,215000,周晓梅,xiaomei.zhou@huachen-service.invalid,+8615084038269,HC-E0109,生产技术部,工艺工程师,SC-2026-CN-0012
+DEV-0888,A,SOUTH,18.0,493.7,1,1,DE,Stuttgart,"Sonnenparkweg 99, Halle 8, Stuttgart",70173,Felix Wagner,wagner_felix@dewei-service.invalid,+4916080137529,DW-E0116,Plant Operations,Equipment Engineer,SC-2026-DE-0074
+DEV-0373,A,EAST,27.9,635.5,2,1,CN,苏州市,苏州市云杉路42号5号楼,215000,赵晓梅,xzhao@huachen-service.invalid,+8657483332612,HC-E0092,售后服务部,现场工程师,SC-2026-CN-0032
+DEV-0538,B,EAST,19.4,160.7,2,0,CN,杭州市,杭州市锦澜路207号2号楼,310000,林若宁,rlin@hz.huachen-service.invalid,+8618671769289,HC-E0094,售后服务部,服务协调员,SC-2026-CN-0045
+DEV-0604,C,SOUTH,15.2,412.8,1,0,DE,Stuttgart,"Birkenhofstrasse 135, Halle 4, Stuttgart",70173,Michael Neumann,mneumann@dewei-service.invalid,+4915795128942,DW-E0064,Plant Operations,Maintenance Technician,SC-2026-DE-0051
+DEV-0100,B,EAST,21.6,310.4,0,0,CN,宁波市,宁波市清禾路129号4号楼,315000,郑欣悦,xinyue.zheng@nb.huachen-service.invalid,+8615888874262,HC-E0068,设备运维部,设备工程师,SC-2026-CN-0009
+DEV-0126,B,EAST,23.5,483.3,5,1,CN,杭州市,杭州市星浦路155号6号楼,310000,李嘉怡,li.jiayi@hz.huachen-service.invalid,+8615841889492,HC-E0050,售后服务部,现场工程师,SC-2026-CN-0011
+DEV-0208,B,EAST,22.3,319.4,1,0,CN,宁波市,宁波市星浦路57号8号楼,315000,刘颖,ying.liu@huachen-service.invalid,+8618653616276,HC-E0032,生产技术部,生产技术员,SC-2026-CN-0018
+DEV-0003,C,EAST,18.9,412.8,2,0,CN,无锡市,无锡市清禾路32号3号楼,214000,张文昊,wenhao.zhang@huachen-service.invalid,+8613964740657,HC-E0051,生产技术部,生产技术员,SC-2026-CN-0001
+DEV-0707,A,EAST,10.2,231.8,0,0,CN,无锡市,无锡市清禾路196号3号楼,214000,李涛,t.li25@huachen-service.invalid,+8651060731683,HC-E0111,设备运维部,运维技术员,SC-2026-CN-0059
+DEV-0013,B,EAST,21.3,533.8,4,1,CN,苏州市,苏州市星浦路42号5号楼,215000,孙若宁,ruoning.sun@huachen-service.invalid,+8618682204267,HC-E0045,生产技术部,工艺工程师,SC-2026-CN-0002
+DEV-0467,A,EAST,24.5,494.6,7,1,CN,无锡市,无锡市清禾路136号3号楼,214000,林书瑶,shuyao.lin@huachen-service.invalid,+8613958053722,HC-E0071,设备运维部,设备主管,SC-2026-CN-0039
+DEV-0062,A,EAST,24.6,469.4,3,1,CN,杭州市,杭州市星浦路91号6号楼,310000,徐欣悦,xxu@huachen-service.invalid,+8618996692523,HC-E0030,设备运维部,设备主管,SC-2026-CN-0006
+DEV-0602,A,EAST,20.5,413.3,5,0,DE,Leipzig,"Birkenhofstrasse 133, Halle 2, Leipzig",04103,Marie Wagner,wagner.marie@dewei-service.invalid,+4917623800563,DW-E0106,Plant Operations,Maintenance Technician,SC-2026-DE-0051
+DEV-0956,A,SOUTH,18.2,521.6,0,1,DE,Stuttgart,"Birkenhofstrasse 167, Halle 4, Stuttgart",70173,Paul Schmidt,p.schmidt22@st.dewei-service.invalid,+497116045734,DW-E0068,Production Engineering,Process Engineer,SC-2026-DE-0080
+DEV-0745,B,EAST,21.5,457.2,2,0,CN,苏州市,苏州市锦澜路54号1号楼,215000,罗浩然,haoran.luo@huachen-service.invalid,+8651280255656,HC-E0021,生产技术部,生产技术员,SC-2026-CN-0063
+DEV-0573,A,EAST,17.2,628.7,6,0,CN,苏州市,苏州市星浦路62号5号楼,215000,陈书瑶,s.chen42@huachen-service.invalid,+8615063739635,HC-E0105,生产技术部,生产技术员,SC-2026-CN-0048
+DEV-0469,C,EAST,25.4,343.8,4,0,CN,苏州市,苏州市云杉路138号5号楼,215000,刘磊,liu.lei@huachen-service.invalid,+8651221912742,HC-E0057,售后服务部,现场工程师,SC-2026-CN-0040
+DEV-0906,B,EAST,18.7,269.6,2,0,DE,Leipzig,"Birkenhofstrasse 117, Halle 2, Leipzig",04103,Daniel Neumann,daniel.neumann@dd.dewei-service.invalid,+4917631965860,DW-E0041,Plant Operations,Site Supervisor,SC-2026-DE-0076
+DEV-0049,B,EAST,27.2,165.7,1,0,CN,苏州市,苏州市清禾路78号1号楼,215000,刘磊,liu.lei@huachen-service.invalid,+8651221912742,HC-E0057,售后服务部,现场工程师,SC-2026-CN-0005
+DEV-0736,A,SOUTH,13.8,577.6,1,0,DE,Stuttgart,"Wiesenfeldweg 107, Halle 8, Stuttgart",70173,Sabine Mueller,s.mueller31@dewei-service.invalid,+4916026792679,DW-E0104,Field Service,Field Engineer,SC-2026-DE-0062
+DEV-0500,C,EAST,20.0,336.7,0,0,CN,宁波市,宁波市清禾路169号4号楼,315000,罗嘉怡,jiayi.luo@huachen-service.invalid,+8615894759537,HC-E0076,售后服务部,现场工程师,SC-2026-CN-0042
+DEV-0926,C,EAST,16.3,225.1,4,0,DE,Leipzig,"Wiesenfeldweg 137, Halle 6, Leipzig",04103,Stefan Klein,klein.stefan@le.dewei-service.invalid,+4915262818899,DW-E0002,Plant Operations,Maintenance Technician,SC-2026-DE-0078
+DEV-0334,C,EAST,25.8,266.6,5,1,CN,杭州市,杭州市星浦路183号6号楼,310000,林静,j.lin69@hz.huachen-service.invalid,+8615038500032,HC-E0090,生产技术部,生产技术员,SC-2026-CN-0028
+DEV-0657,C,EAST,16.1,418.5,2,0,CN,苏州市,苏州市清禾路146号1号楼,215000,罗思远,luo.siyuan@huachen-service.invalid,+8615076453710,HC-E0049,生产技术部,工艺工程师,SC-2026-CN-0055
+DEV-0174,C,EAST,23.4,367.2,6,0,CN,杭州市,杭州市星浦路203号6号楼,310000,刘涛,tao.liu@huachen-service.invalid,+8657199620173,HC-E0106,设备运维部,设备主管,SC-2026-CN-0015
+DEV-0847,C,EAST,16.6,492.9,3,1,CN,无锡市,无锡市星浦路156号7号楼,214000,高思远,gao.siyuan@huachen-service.invalid,+8618659442573,HC-E0031,设备运维部,设备工程师,SC-2026-CN-0071
+DEV-0311,C,EAST,26.2,537.7,2,1,CN,无锡市,无锡市云杉路160号7号楼,214000,李思远,siyuan.li@huachen-service.invalid,+8618940577225,HC-E0095,生产技术部,工艺工程师,SC-2026-CN-0026
+DEV-0350,C,EAST,19.5,612.8,4,1,CN,杭州市,杭州市星浦路199号6号楼,310000,周雨桐,yzhou@nb.huachen-service.invalid,+8615079223726,HC-E0064,设备运维部,运维技术员,SC-2026-CN-0030
+DEV-0120,B,EAST,23.6,215.9,2,0,CN,宁波市,宁波市云杉路149号8号楼,315000,李晓梅,xiaomei.li@huachen-service.invalid,+8615833090873,HC-E0012,生产技术部,生产技术员,SC-2026-CN-0010
+DEV-0286,B,EAST,21.6,611.0,3,0,CN,杭州市,杭州市星浦路135号6号楼,310000,徐欣悦,xxu@huachen-service.invalid,+8618996692523,HC-E0030,设备运维部,设备主管,SC-2026-CN-0024
+DEV-0595,A,EAST,21.2,492.8,2,0,CN,无锡市,无锡市清禾路84号3号楼,214000,王静,jwang@huachen-service.invalid,+8613972196815,HC-E0015,设备运维部,设备工程师,SC-2026-CN-0050
+DEV-0971,A,EAST,12.1,280.7,1,0,CN,无锡市,无锡市锦澜路100号3号楼,214000,罗书瑶,luo_shuyao@huachen-service.invalid,+8613852480536,HC-E0107,生产技术部,工艺工程师,SC-2026-CN-0081
+DEV-0190,C,EAST,28.7,546.4,2,0,CN,杭州市,杭州市星浦路39号6号楼,310000,林明轩,lin.mingxuan@huachen-service.invalid,+8618641011506,HC-E0046,设备运维部,运维技术员,SC-2026-CN-0016
+DEV-0609,C,EAST,11.2,243.0,2,0,CN,苏州市,苏州市清禾路98号1号楼,215000,李志强,zhiqiang.li@sz.huachen-service.invalid,+8613826858295,HC-E0001,设备运维部,运维技术员,SC-2026-CN-0051
+DEV-0091,B,EAST,23.4,561.0,5,0,CN,无锡市,无锡市锦澜路120号3号楼,214000,王志强,wang.zhiqiang@huachen-service.invalid,+8613835517254,HC-E0119,售后服务部,现场工程师,SC-2026-CN-0008
+DEV-0388,A,EAST,25.4,336.2,2,0,CN,宁波市,宁波市清禾路57号4号楼,315000,陈浩然,chen_haoran@nb.huachen-service.invalid,+8657465903727,HC-E0056,生产技术部,工艺工程师,SC-2026-CN-0033
+DEV-0267,B,EAST,25.8,593.2,2,0,CN,无锡市,无锡市锦澜路116号3号楼,214000,许伟,wxu@huachen-service.invalid,+8618678875780,HC-E0099,设备运维部,设备工程师,SC-2026-CN-0023
+DEV-0408,C,EAST,22.2,298.9,1,0,CN,宁波市,宁波市云杉路77号8号楼,315000,赵雨桐,yzhao@huachen-service.invalid,+8613876616930,HC-E0100,设备运维部,设备工程师,SC-2026-CN-0034
+DEV-0340,A,EAST,17.4,174.0,3,0,CN,宁波市,宁波市清禾路189号4号楼,315000,高晓梅,x.gao64@huachen-service.invalid,+8615083179205,HC-E0088,设备运维部,设备主管,SC-2026-CN-0029
+DEV-0899,A,EAST,18.7,497.7,4,0,CN,无锡市,无锡市清禾路208号3号楼,214000,张晓梅,xiaomei.zhang@huachen-service.invalid,+8613952749208,HC-E0047,设备运维部,设备工程师,SC-2026-CN-0075
+DEV-0942,A,EAST,22.1,528.3,5,1,DE,Leipzig,"Wiesenfeldweg 153, Halle 6, Leipzig",04103,Sabine Fischer,fischer.sabine@dewei-service.invalid,+4916080123125,DW-E0118,Plant Operations,Maintenance Technician,SC-2026-DE-0079
+DEV-0050,C,EAST,22.0,299.8,1,0,CN,杭州市,杭州市清禾路79号2号楼,310000,林静,j.lin69@hz.huachen-service.invalid,+8615038500032,HC-E0090,生产技术部,生产技术员,SC-2026-CN-0005
+DEV-0156,C,EAST,23.3,501.1,6,1,CN,宁波市,宁波市锦澜路185号4号楼,315000,林雨桐,yutong.lin@huachen-service.invalid,+8618944944335,HC-E0020,售后服务部,现场工程师,SC-2026-CN-0013
+DEV-0685,B,EAST,19.0,309.4,0,0,CN,苏州市,苏州市星浦路174号5号楼,215000,罗思远,luo.siyuan@huachen-service.invalid,+8615076453710,HC-E0049,生产技术部,工艺工程师,SC-2026-CN-0058
+DEV-0360,B,EAST,23.6,282.9,3,0,CN,宁波市,宁波市云杉路209号8号楼,315000,周若宁,zhou_ruoning@huachen-service.invalid,+8613980066999,HC-E0040,设备运维部,设备工程师,SC-2026-CN-0030
+DEV-0879,B,EAST,17.8,197.6,3,0,CN,无锡市,无锡市星浦路188号7号楼,214000,赵书瑶,shuyao.zhao@huachen-service.invalid,+8618669715320,HC-E0003,设备运维部,设备工程师,SC-2026-CN-0074
+DEV-0163,A,EAST,18.3,234.4,3,0,CN,无锡市,无锡市清禾路192号3号楼,214000,黄欣悦,xhuang@huachen-service.invalid,+8615042399789,HC-E0023,设备运维部,运维技术员,SC-2026-CN-0014
+DEV-0691,C,EAST,15.2,416.9,2,0,CN,无锡市,无锡市清禾路180号3号楼,214000,沈嘉怡,jshen@huachen-service.invalid,+8618630698916,HC-E0061,设备运维部,运维技术员,SC-2026-CN-0058
+DEV-0484,C,EAST,24.1,509.5,1,0,CN,宁波市,宁波市清禾路153号4号楼,315000,赵敏,min.zhao@huachen-service.invalid,+8613986538771,HC-E0028,生产技术部,生产技术员,SC-2026-CN-0041
+DEV-0144,A,EAST,20.7,589.8,3,0,CN,宁波市,宁波市星浦路173号8号楼,315000,罗嘉怡,jiayi.luo@huachen-service.invalid,+8615894759537,HC-E0076,售后服务部,现场工程师,SC-2026-CN-0012
+DEV-0716,B,SOUTH,11.2,641.0,2,0,DE,Stuttgart,"Birkenhofstrasse 87, Halle 4, Stuttgart",70173,Stefan Zimmermann,stefan.zimmermann@dewei-service.invalid,+4917662400610,DW-E0108,Plant Operations,Equipment Engineer,SC-2026-DE-0060
+DEV-0975,C,EAST,19.4,233.2,4,1,CN,无锡市,无锡市星浦路104号7号楼,214000,周明轩,mzhou@huachen-service.invalid,+8613827234580,HC-E0011,售后服务部,现场工程师,SC-2026-CN-0082
+DEV-0683,C,EAST,15.4,247.3,2,0,CN,无锡市,无锡市锦澜路172号3号楼,214000,张晓梅,xiaomei.zhang@huachen-service.invalid,+8613952749208,HC-E0047,设备运维部,设备工程师,SC-2026-CN-0057
+DEV-0474,A,EAST,24.9,294.2,2,0,CN,杭州市,杭州市锦澜路143号2号楼,310000,吴思远,wu_siyuan@huachen-service.invalid,+8657179874421,HC-E0026,设备运维部,设备主管,SC-2026-CN-0040
+DEV-0211,B,EAST,21.6,414.7,2,0,CN,无锡市,无锡市清禾路60号3号楼,214000,张浩然,haoran.zhang@huachen-service.invalid,+8613827397940,HC-E0055,售后服务部,现场工程师,SC-2026-CN-0018
+DEV-0690,A,EAST,18.5,434.9,4,0,DE,Leipzig,"Lindenwerkstrasse 61, Halle 2, Leipzig",04103,Marie Wagner,wagner.marie@dewei-service.invalid,+4917623800563,DW-E0106,Plant Operations,Maintenance Technician,SC-2026-DE-0058
+DEV-0828,C,SOUTH,18.6,387.3,2,0,DE,Stuttgart,"Birkenhofstrasse 39, Halle 4, Stuttgart",70173,Sabine Mueller,s.mueller31@dewei-service.invalid,+4916026792679,DW-E0104,Field Service,Field Engineer,SC-2026-DE-0069
+DEV-0327,A,EAST,23.8,407.3,2,0,CN,无锡市,无锡市云杉路176号7号楼,214000,张明轩,mingxuan.zhang@huachen-service.invalid,+8657165489495,HC-E0042,设备运维部,设备工程师,SC-2026-CN-0028
+DEV-0051,B,EAST,22.1,518.7,3,0,CN,无锡市,无锡市清禾路80号3号楼,214000,许伟,wxu@huachen-service.invalid,+8618678875780,HC-E0099,设备运维部,设备工程师,SC-2026-CN-0005
+DEV-0078,C,EAST,18.4,633.8,5,1,CN,杭州市,杭州市星浦路107号6号楼,310000,吴思远,wu_siyuan@huachen-service.invalid,+8657179874421,HC-E0026,设备运维部,设备主管,SC-2026-CN-0007
+DEV-0661,A,EAST,17.0,620.4,3,0,CN,苏州市,苏州市云杉路150号5号楼,215000,陈书瑶,s.chen42@huachen-service.invalid,+8615063739635,HC-E0105,生产技术部,生产技术员,SC-2026-CN-0056
+DEV-0884,A,SOUTH,16.6,542.0,4,1,DE,Stuttgart,"Lindenwerkstrasse 95, Halle 4, Stuttgart",70173,Stefan Schneider,stefan.schneider@st.dewei-service.invalid,+4915233259016,DW-E0080,Plant Operations,Maintenance Technician,SC-2026-DE-0074
+DEV-0140,A,EAST,20.9,313.8,1,0,CN,宁波市,宁波市锦澜路169号4号楼,315000,李伟,wei.li@huachen-service.invalid,+8613861799109,HC-E0008,设备运维部,运维技术员,SC-2026-CN-0012
+DEV-0790,B,EAST,23.8,440.4,1,1,DE,Leipzig,"Sonnenparkweg 161, Halle 6, Leipzig",04103,Lukas Schulz,lukas.schulz@dewei-service.invalid,+4915257218389,DW-E0050,Plant Operations,Maintenance Technician,SC-2026-DE-0066
+DEV-0673,C,EAST,16.2,570.3,2,0,CN,苏州市,苏州市清禾路162号1号楼,215000,高文昊,wenhao.gao@huachen-service.invalid,+8615069468843,HC-E0065,设备运维部,设备工程师,SC-2026-CN-0057
+DEV-0214,B,EAST,16.7,187.5,1,0,CN,杭州市,杭州市云杉路63号6号楼,310000,孙晓梅,xsun@huachen-service.invalid,+8615071835140,HC-E0098,设备运维部,设备工程师,SC-2026-CN-0018
+DEV-0006,A,EAST,22.1,413.3,3,0,CN,杭州市,杭州市云杉路35号6号楼,310000,李若宁,li.ruoning@hz.huachen-service.invalid,+8615030729897,HC-E0006,设备运维部,设备工程师,SC-2026-CN-0001
+DEV-0374,A,EAST,24.5,379.4,2,0,CN,杭州市,杭州市云杉路43号6号楼,310000,赵欣悦,xinyue.zhao@hz.huachen-service.invalid,+8615883440162,HC-E0114,设备运维部,运维技术员,SC-2026-CN-0032
+DEV-0527,A,EAST,20.4,223.7,0,0,CN,无锡市,无锡市星浦路196号7号楼,214000,王静,jwang@huachen-service.invalid,+8613972196815,HC-E0015,设备运维部,设备工程师,SC-2026-CN-0044
+DEV-0629,A,EAST,11.3,645.9,6,0,CN,苏州市,苏州市云杉路118号5号楼,215000,张志强,zhiqiang.zhang@huachen-service.invalid,+8613896716083,HC-E0113,设备运维部,运维技术员,SC-2026-CN-0053
+DEV-0339,C,EAST,17.9,303.6,2,0,CN,无锡市,无锡市清禾路188号3号楼,214000,李颖,ying.li@huachen-service.invalid,+8618989540727,HC-E0027,设备运维部,设备工程师,SC-2026-CN-0029
+DEV-0706,C,EAST,17.1,648.2,2,1,DE,Leipzig,"Lindenwerkstrasse 77, Halle 2, Leipzig",04103,Sabine Becker,sbecker@dewei-service.invalid,+4915191445475,DW-E0046,Production Engineering,Process Engineer,SC-2026-DE-0059
+DEV-0087,C,EAST,17.3,199.7,2,0,CN,无锡市,无锡市云杉路116号7号楼,214000,赵书瑶,shuyao.zhao@huachen-service.invalid,+8618669715320,HC-E0003,设备运维部,设备工程师,SC-2026-CN-0008
+DEV-0198,C,EAST,26.7,563.4,5,0,CN,杭州市,杭州市云杉路47号6号楼,310000,沈浩然,haoran.shen@huachen-service.invalid,+8615826230672,HC-E0118,生产技术部,生产技术员,SC-2026-CN-0017
+DEV-0322,C,EAST,23.9,486.1,2,1,CN,杭州市,杭州市清禾路171号2号楼,310000,林静,j.lin69@hz.huachen-service.invalid,+8615038500032,HC-E0090,生产技术部,生产技术员,SC-2026-CN-0027
+DEV-0123,C,EAST,24.3,547.2,2,1,CN,无锡市,无锡市锦澜路152号3号楼,214000,陈涛,tao.chen@sz.huachen-service.invalid,+8613893661794,HC-E0017,设备运维部,设备工程师,SC-2026-CN-0011
+DEV-0867,B,EAST,26.0,593.0,3,1,CN,无锡市,无锡市清禾路176号3号楼,214000,徐颖,y.xu11@huachen-service.invalid,+8618680380001,HC-E0059,售后服务部,服务协调员,SC-2026-CN-0073
+DEV-0814,A,EAST,23.6,531.5,0,0,DE,Leipzig,"Wiesenfeldweg 25, Halle 6, Leipzig",04103,Marie Wagner,wagner.marie@dewei-service.invalid,+4917623800563,DW-E0106,Plant Operations,Maintenance Technician,SC-2026-DE-0068
+DEV-0055,C,EAST,23.2,575.7,7,1,CN,无锡市,无锡市云杉路84号7号楼,214000,李涛,t.li25@huachen-service.invalid,+8651060731683,HC-E0111,设备运维部,运维技术员,SC-2026-CN-0005
+DEV-0110,B,EAST,24.0,226.1,2,0,CN,杭州市,杭州市星浦路139号6号楼,310000,林文昊,lin_wenhao@huachen-service.invalid,+8657130938215,HC-E0058,设备运维部,设备主管,SC-2026-CN-0010
+DEV-0252,C,EAST,17.2,539.9,1,0,CN,宁波市,宁波市锦澜路101号4号楼,315000,沈文昊,shen.wenhao@huachen-service.invalid,+8613955899872,HC-E0081,设备运维部,设备工程师,SC-2026-CN-0021
+DEV-0175,A,EAST,24.3,349.0,4,0,CN,无锡市,无锡市星浦路204号7号楼,214000,刘磊,liu.lei@huachen-service.invalid,+8651221912742,HC-E0057,售后服务部,现场工程师,SC-2026-CN-0015
+DEV-0042,A,EAST,19.2,437.0,3,0,CN,杭州市,,310000,周磊,lei.zhou@huachen-service.invalid,+8613947277328,HC-E0010,设备运维部,设备工程师,SC-2026-CN-0004
+DEV-0773,B,EAST,21.5,226.6,0,0,CN,苏州市,苏州市云杉路82号5号楼,215000,张建国,j.zhang51@huachen-service.invalid,+8613953291090,HC-E0037,生产技术部,生产技术员,SC-2026-CN-0065
+DEV-0756,A,SOUTH,18.1,585.2,2,0,DE,Stuttgart,"Lindenwerkstrasse 127, Halle 4, Stuttgart",70173,Laura Mueller,laura.mueller@dewei-service.invalid,+4915265517273,DW-E0036,Field Service,Service Coordinator,SC-2026-DE-0063
+DEV-0977,C,EAST,15.2,456.0,1,0,CN,苏州市,苏州市清禾路106号1号楼,215000,周建国,j.zhou4@huachen-service.invalid,+8613820054584,HC-E0089,设备运维部,设备工程师,SC-2026-CN-0082
+DEV-0217,C,EAST,26.4,304.6,1,0,CN,苏州市,苏州市锦澜路66号1号楼,215000,罗磊,luo_lei@huachen-service.invalid,+8618967691818,HC-E0097,售后服务部,现场工程师,SC-2026-CN-0019
+DEV-0094,C,EAST,29.7,352.7,5,1,CN,杭州市,杭州市星浦路123号6号楼,310000,周敏,mzhou2@huachen-service.invalid,+8618685855276,HC-E0110,生产技术部,生产技术员,SC-2026-CN-0008
+DEV-0428,A,EAST,20.0,381.4,2,0,CN,宁波市,宁波市锦澜路97号4号楼,315000,郑欣悦,xinyue.zheng@nb.huachen-service.invalid,+8615888874262,HC-E0068,设备运维部,设备工程师,SC-2026-CN-0036
+DEV-0936,C,SOUTH,18.8,505.9,3,1,DE,Stuttgart,"Sonnenparkweg 147, Halle 8, Stuttgart",70173,Clara Klein,cklein@dewei-service.invalid,+4915721197031,DW-E0007,Plant Operations,Maintenance Technician,SC-2026-DE-0078
+DEV-0394,B,EAST,26.8,418.0,6,1,CN,杭州市,杭州市锦澜路63号2号楼,310000,周志强,zhou.zhiqiang@huachen-service.invalid,,HC-E0034,设备运维部,设备工程师,SC-2026-CN-0033
+DEV-0099,B,EAST,23.7,499.1,4,1,CN,无锡市,无锡市清禾路128号3号楼,214000,黄颖,huang_ying@huachen-service.invalid,+8618956756993,HC-E0115,设备运维部,设备主管,SC-2026-CN-0009
+DEV-0020,A,EAST,27.0,559.1,2,0,CN,宁波市,宁波市清禾路49号4号楼,315000,张书瑶,zhang.shuyao@nb.huachen-service.invalid,+8618981845517,HC-E0080,生产技术部,生产技术员,SC-2026-CN-0002
+DEV-0496,A,EAST,28.7,433.1,3,0,CN,宁波市,宁波市星浦路165号8号楼,315000,黄雨桐,huang_yutong@huachen-service.invalid,+8613898447296,HC-E0052,设备运维部,运维技术员,SC-2026-CN-0042
+DEV-0878,A,EAST,23.2,560.4,2,0,DE,Leipzig,"Wiesenfeldweg 89, Halle 6, Leipzig",04103,Julia Richter,jrichter@dewei-service.invalid,+493413404895,DW-E0038,Production Engineering,Production Technician,SC-2026-DE-0074
+DEV-0239,C,EAST,26.2,264.4,1,0,CN,无锡市,无锡市星浦路88号7号楼,214000,周雨桐,yzhou@nb.huachen-service.invalid,+8615079223726,HC-E0064,设备运维部,运维技术员,SC-2026-CN-0020
+DEV-0787,B,EAST,22.0,347.4,3,0,CN,无锡市,无锡市清禾路96号3号楼,214000,张浩然,haoran.zhang@huachen-service.invalid,+8613827397940,HC-E0055,售后服务部,现场工程师,SC-2026-CN-0066
+DEV-0148,C,EAST,20.6,463.2,2,0,CN,宁波市,宁波市清禾路177号4号楼,315000,周若宁,zhou_ruoning@huachen-service.invalid,+8613980066999,HC-E0040,设备运维部,设备工程师,SC-2026-CN-0013
+DEV-0152,C,EAST,21.4,564.6,4,0,CN,宁波市,宁波市云杉路181号8号楼,315000,林建国,lin_jianguo@huachen-service.invalid,+8613954202130,HC-E0016,设备运维部,设备工程师,SC-2026-CN-0013
+DEV-0909,C,EAST,17.2,615.8,3,1,CN,苏州市,苏州市星浦路38号5号楼,215000,罗思远,luo.siyuan@huachen-service.invalid,+8615076453710,HC-E0049,生产技术部,工艺工程师,SC-2026-CN-0076
+DEV-0839,C,EAST,18.0,412.3,0,0,CN,无锡市,无锡市云杉路148号7号楼,214000,郑思远,zheng.siyuan@sz.huachen-service.invalid,+8615095302828,HC-E0053,售后服务部,现场工程师,SC-2026-CN-0070
+DEV-0290,C,EAST,15.2,243.9,2,0,CN,杭州市,杭州市清禾路139号2号楼,310000,陈伟,chen.wei@huachen-service.invalid,+8613835344384,HC-E0066,设备运维部,设备主管,SC-2026-CN-0025
+DEV-0627,B,EAST,17.8,448.6,6,1,CN,无锡市,无锡市清禾路116号3号楼,214000,沈思远,siyuan.shen@huachen-service.invalid,+8618986710403,HC-E0039,设备运维部,运维技术员,SC-2026-CN-0053
+DEV-0343,A,EAST,24.9,459.1,3,0,CN,无锡市,无锡市云杉路192号7号楼,214000,林书瑶,shuyao.lin@huachen-service.invalid,+8613958053722,HC-E0071,设备运维部,设备主管,SC-2026-CN-0029
+DEV-0589,B,EAST,27.4,556.4,4,1,CN,苏州市,苏州市星浦路78号5号楼,215000,王明轩,wang_mingxuan@huachen-service.invalid,+8615857230544,HC-E0117,生产技术部,工艺工程师,SC-2026-CN-0050
+DEV-0053,B,EAST,25.0,364.7,4,0,CN,苏州市,苏州市云杉路82号5号楼,215000,刘书瑶,shuyao.liu@huachen-service.invalid,+8618670826592,HC-E0085,设备运维部,设备工程师,SC-2026-CN-0005
+DEV-0516,C,EAST,24.6,250.8,1,0,CN,宁波市,宁波市清禾路185号4号楼,315000,许文昊,wenhao.xu@huachen-service.invalid,+8613823346237,HC-E0004,设备运维部,运维技术员,SC-2026-CN-0043
+DEV-0096,A,EAST,21.1,405.5,2,0,CN,宁波市,宁波市星浦路125号8号楼,315000,张思远,siyuan.zhang@nb.huachen-service.invalid,+8613953668537,HC-E0024,设备运维部,运维技术员,SC-2026-CN-0008
+DEV-0409,B,EAST,18.4,384.1,1,0,CN,苏州市,苏州市锦澜路78号1号楼,215000,刘浩然,haoran.liu@sz.huachen-service.invalid,+8618970521141,HC-E0069,生产技术部,生产技术员,SC-2026-CN-0035
+DEV-0414,A,EAST,14.0,610.6,3,0,CN,杭州市,杭州市星浦路83号6号楼,310000,郑浩然,zheng_haoran@huachen-service.invalid,+8615093400636,HC-E0062,生产技术部,工艺工程师,SC-2026-CN-0035
+DEV-0823,B,EAST,11.2,271.9,2,0,CN,无锡市,无锡市云杉路132号7号楼,214000,林伟,lin.wei@huachen-service.invalid,+8618978929290,HC-E0103,售后服务部,服务协调员,SC-2026-CN-0069
+DEV-0398,B,EAST,20.0,602.9,4,1,CN,杭州市,杭州市星浦路67号6号楼,310000,何静,jing.he@huachen-service.invalid,+8618947065945,HC-E0038,生产技术部,工艺工程师,SC-2026-CN-0034
+DEV-0741,B,EAST,17.8,641.9,7,1,CN,苏州市,苏州市云杉路50号5号楼,215000,张志强,zhiqiang.zhang@huachen-service.invalid,+8613896716083,HC-E0113,设备运维部,运维技术员,SC-2026-CN-0062
+DEV-0501,A,EAST,22.0,404.4,1,0,CN,苏州市,苏州市云杉路170号5号楼,215000,郑磊,lei.zheng@sz.huachen-service.invalid,+8615066937047,HC-E0033,设备运维部,设备工程师,SC-2026-CN-0042
+DEV-0536,A,EAST,26.6,327.6,2,0,CN,宁波市,宁波市云杉路205号8号楼,315000,许若宁,ruoning.xu@huachen-service.invalid,+8618682475647,HC-E0060,生产技术部,工艺工程师,SC-2026-CN-0045
+DEV-0876,A,SOUTH,15.2,544.3,3,1,DE,Stuttgart,"Birkenhofstrasse 87, Halle 4, Stuttgart",70173,Sabine Mueller,s.mueller31@dewei-service.invalid,+4916026792679,DW-E0104,Field Service,Field Engineer,SC-2026-DE-0073
+DEV-0086,B,EAST,27.3,378.0,2,0,CN,杭州市,杭州市云杉路115号6号楼,310000,吴思远,wu_siyuan@huachen-service.invalid,+8657179874421,HC-E0026,设备运维部,设备主管,SC-2026-CN-0008
+DEV-0645,B,EAST,15.6,541.2,2,0,CN,苏州市,苏州市云杉路134号5号楼,215000,张建国,j.zhang51@huachen-service.invalid,+8613953291090,HC-E0037,生产技术部,生产技术员,SC-2026-CN-0054
+DEV-0958,B,EAST,21.3,492.3,6,0,DE,Leipzig,"Wiesenfeldweg 169, Halle 6, Leipzig",04103,Stefan Fischer,stefan.fischer@dewei-service.invalid,+4915187512011,DW-E0070,Field Service,Field Engineer,SC-2026-DE-0080
+DEV-0856,C,SOUTH,9.2,189.8,1,0,DE,Stuttgart,"Sonnenparkweg 67, Halle 8, Stuttgart",70173,Paul Hartmann,hartmann.paul@st.dewei-service.invalid,+4915269772285,DW-E0004,Plant Operations,Maintenance Technician,SC-2026-DE-0072
+DEV-0233,B,EAST,25.6,727.3,5,0,CN,苏州市,苏州市锦澜路82号1号楼,215000,林浩然,hlin@huachen-service.invalid,+8618664742131,HC-E0041,设备运维部,运维技术员,SC-2026-CN-0020
+DEV-0247,B,EAST,22.3,438.1,4,1,CN,无锡市,无锡市云杉路96号7号楼,214000,张文昊,wenhao.zhang@huachen-service.invalid,+8613964740657,HC-E0051,生产技术部,生产技术员,SC-2026-CN-0021
+DEV-0177,B,EAST,24.5,363.8,1,0,CN,苏州市,苏州市清禾路206号1号楼,215000,李志强,zhiqiang.li@sz.huachen-service.invalid,+8613826858295,HC-E0001,设备运维部,运维技术员,SC-2026-CN-0015
+DEV-0386,A,EAST,14.7,308.1,3,0,CN,杭州市,杭州市清禾路55号2号楼,310000,李建国,jli@hz.huachen-service.invalid,+8615092653467,HC-E0086,设备运维部,设备工程师,SC-2026-CN-0033
+DEV-0320,A,EAST,26.5,413.3,3,1,CN,宁波市,宁波市星浦路169号8号楼,315000,许晓梅,xiaomei.xu@huachen-service.invalid,+8613856068674,HC-E0084,设备运维部,设备主管,SC-2026-CN-0027
+DEV-0887,A,EAST,21.4,605.4,2,0,CN,无锡市,无锡市云杉路196号7号楼,214000,罗书瑶,luo_shuyao@huachen-service.invalid,+8613852480536,HC-E0107,生产技术部,工艺工程师,SC-2026-CN-0074
+DEV-0694,A,EAST,13.5,215.2,2,0,DE,Leipzig,"Sonnenparkweg 65, Halle 6, Leipzig",04103,Sophie Hoffmann,sophie.hoffmann@dewei-service.invalid,+4917660102710,DW-E0082,Production Engineering,Production Technician,SC-2026-DE-0058
+DEV-0985,B,EAST,19.4,234.9,2,0,CN,苏州市,苏州市锦澜路114号1号楼,215000,黄雨桐,huang_yutong@huachen-service.invalid,+8613898447296,HC-E0052,设备运维部,运维技术员,SC-2026-CN-0083
+DEV-0442,B,EAST,21.7,484.5,3,0,CN,杭州市,杭州市锦澜路111号2号楼,310000,高建国,gao.jianguo@hz.huachen-service.invalid,+8613959395417,HC-E0022,售后服务部,现场工程师,SC-2026-CN-0037
+DEV-0312,B,EAST,24.5,414.7,0,0,CN,宁波市,宁波市云杉路161号8号楼,315000,黄建国,jianguo.huang@huachen-service.invalid,+8613831074111,HC-E0067,设备运维部,设备工程师,SC-2026-CN-0026
+DEV-0226,C,EAST,20.0,508.7,3,0,CN,杭州市,杭州市清禾路75号2号楼,310000,赵雨桐,yzhao@huachen-service.invalid,+8613876616930,HC-E0100,设备运维部,设备工程师,SC-2026-CN-0019
+DEV-0770,B,EAST,17.8,373.7,1,0,DE,Leipzig,"Lindenwerkstrasse 141, Halle 2, Leipzig",04103,Stefan Fischer,stefan.fischer@dewei-service.invalid,+4915187512011,DW-E0070,Field Service,Field Engineer,SC-2026-DE-0065
+DEV-0261,A,EAST,22.2,516.8,0,0,CN,苏州市,苏州市云杉路110号5号楼,215000,林思远,siyuan.lin@huachen-service.invalid,+8618922700432,HC-E0005,设备运维部,运维技术员,SC-2026-CN-0022
+DEV-0675,C,EAST,13.7,188.4,2,0,CN,无锡市,无锡市清禾路164号3号楼,214000,李颖,ying.li@huachen-service.invalid,+8618989540727,HC-E0027,设备运维部,设备工程师,SC-2026-CN-0057
+DEV-0762,C,EAST,21.8,237.5,2,0,DE,Leipzig,"Birkenhofstrasse 133, Halle 2, Leipzig",04103,Sabine Klein,sabine.klein@dewei-service.invalid,+4915769297452,DW-E0062,Production Engineering,Process Engineer,SC-2026-DE-0064
+DEV-0195,A,EAST,24.9,318.6,2,0,CN,无锡市,无锡市清禾路44号3号楼,214000,李明轩,mli@huachen-service.invalid,+8613954555454,HC-E0091,生产技术部,生产技术员,SC-2026-CN-0017
+DEV-0699,B,EAST,22.3,393.2,1,0,CN,无锡市,无锡市锦澜路188号3号楼,214000,许若宁,ruoning.xu@huachen-service.invalid,+8618682475647,HC-E0060,生产技术部,工艺工程师,SC-2026-CN-0059
+DEV-0563,C,EAST,21.9,270.9,1,0,CN,无锡市,无锡市清禾路52号3号楼,214000,周明轩,mzhou@huachen-service.invalid,,HC-E0011,售后服务部,现场工程师,SC-2026-CN-0047
+DEV-0019,B,EAST,20.0,264.1,2,0,CN,无锡市,无锡市清禾路48号3号楼,214000,张文昊,wenhao.zhang@huachen-service.invalid,+8613964740657,HC-E0051,生产技术部,生产技术员,SC-2026-CN-0002
+DEV-0618,B,EAST,19.1,578.4,3,1,DE,Leipzig,"Birkenhofstrasse 149, Halle 2, Leipzig",04103,Clara Richter,crichter@le.dewei-service.invalid,+4915787025825,DW-E0074,Plant Operations,Maintenance Technician,SC-2026-DE-0052
+DEV-0038,A,EAST,21.8,362.8,0,0,CN,杭州市,杭州市云杉路67号6号楼,310000,李建国,jli@hz.huachen-service.invalid,+8615092653467,HC-E0086,设备运维部,设备工程师,SC-2026-CN-0004
+DEV-0137,A,EAST,23.9,448.8,3,0,CN,苏州市,苏州市锦澜路166号1号楼,215000,郑思远,zheng.siyuan@sz.huachen-service.invalid,+8615095302828,HC-E0053,售后服务部,现场工程师,SC-2026-CN-0012
+DEV-0945,B,EAST,14.0,530.7,2,1,CN,苏州市,苏州市清禾路74号1号楼,215000,张建国,j.zhang51@huachen-service.invalid,+8613953291090,HC-E0037,生产技术部,生产技术员,SC-2026-CN-0079
+DEV-0571,B,EAST,20.0,587.6,2,0,CN,无锡市,无锡市锦澜路60号3号楼,214000,吴伟,wei.wu@wx.huachen-service.invalid,+8613884726516,HC-E0083,设备运维部,运维技术员,SC-2026-CN-0048
+DEV-0929,A,EAST,19.8,373.5,3,1,CN,苏州市,苏州市清禾路58号1号楼,215000,高磊,lei.gao@sz.huachen-service.invalid,+8615823162680,HC-E0025,设备运维部,设备工程师,SC-2026-CN-0078
+DEV-0724,C,SOUTH,16.1,268.8,2,0,DE,Stuttgart,"Lindenwerkstrasse 95, Halle 4, Stuttgart",70173,Daniel Hoffmann,hoffmann.daniel@dewei-service.invalid,+4915731189716,DW-E0092,Field Service,Field Engineer,SC-2026-DE-0061
+DEV-0697,C,EAST,17.4,359.6,3,0,CN,苏州市,苏州市锦澜路186号1号楼,215000,李志强,zhiqiang.li@sz.huachen-service.invalid,+8613826858295,HC-E0001,设备运维部,运维技术员,SC-2026-CN-0059
+DEV-0444,A,EAST,23.5,343.8,2,1,CN,宁波市,宁波市锦澜路113号4号楼,315000,李志强,li_zhiqiang@huachen-service.invalid,+8615830907487,HC-E0120,生产技术部,工艺工程师,SC-2026-CN-0037
+DEV-0771,A,EAST,20.0,219.0,2,0,CN,无锡市,无锡市清禾路80号3号楼,214000,张思远,siyuan.zhang@nb.huachen-service.invalid,+8613953668537,HC-E0024,设备运维部,运维技术员,SC-2026-CN-0065
+DEV-0379,B,EAST,24.8,631.5,4,0,CN,无锡市,无锡市锦澜路48号3号楼,214000,黄嘉怡,huang.jiayi@huachen-service.invalid,+8615054589231,HC-E0101,售后服务部,现场工程师,SC-2026-CN-0032
+DEV-0237,A,EAST,15.4,744.0,3,1,CN,苏州市,苏州市星浦路86号5号楼,215000,刘浩然,haoran.liu@sz.huachen-service.invalid,+8618970521141,HC-E0069,生产技术部,生产技术员,SC-2026-CN-0020
+DEV-0757,B,EAST,14.7,163.7,2,0,CN,苏州市,苏州市云杉路66号5号楼,215000,刘书瑶,shuyao.liu@huachen-service.invalid,+8618670826592,HC-E0085,设备运维部,设备工程师,SC-2026-CN-0064
+DEV-0344,B,EAST,20.1,238.0,2,0,CN,宁波市,宁波市云杉路193号8号楼,315000,林雨桐,,+8618944944335,HC-E0020,售后服务部,现场工程师,SC-2026-CN-0029
+DEV-0151,C,EAST,28.6,581.1,2,1,CN,无锡市,无锡市云杉路180号7号楼,214000,张晓梅,xiaomei.zhang@huachen-service.invalid,+8613952749208,HC-E0047,设备运维部,设备工程师,SC-2026-CN-0013
+DEV-0202,C,EAST,17.8,383.3,3,0,CN,杭州市,杭州市锦澜路51号2号楼,310000,林明轩,lin.mingxuan@huachen-service.invalid,+8618641011506,HC-E0046,设备运维部,运维技术员,SC-2026-CN-0017
+DEV-0870,C,EAST,23.6,176.2,2,0,DE,Leipzig,"Sonnenparkweg 81, Halle 6, Leipzig",04103,Stefan Klein,klein.stefan@le.dewei-service.invalid,+4915262818899,DW-E0002,Plant Operations,Maintenance Technician,SC-2026-DE-0073
+DEV-0636,A,SOUTH,26.2,201.5,4,1,DE,Stuttgart,"Birkenhofstrasse 167, Halle 4, Stuttgart",70173,Maximilian Schmidt,maximilian.schmidt@dewei-service.invalid,+4915249625949,DW-E0024,Plant Operations,Equipment Engineer,SC-2026-DE-0053
+DEV-0696,C,SOUTH,13.5,565.5,3,0,DE,Stuttgart,"Sonnenparkweg 67, Halle 8, Stuttgart",70173,Paul Richter,paul.richter@dewei-service.invalid,+4915149395076,DW-E0060,Plant Operations,Equipment Engineer,SC-2026-DE-0058
+DEV-0369,B,EAST,22.7,587.1,2,0,CN,苏州市,苏州市清禾路38号1号楼,215000,罗磊,luo_lei@huachen-service.invalid,+8618967691818,HC-E0097,售后服务部,现场工程师,SC-2026-CN-0031
+DEV-0393,B,EAST,29.0,213.7,2,0,CN,苏州市,苏州市锦澜路62号1号楼,215000,林浩然,hlin@huachen-service.invalid,+8618664742131,HC-E0041,设备运维部,运维技术员,SC-2026-CN-0033
+DEV-0456,B,EAST,17.7,623.4,3,0,CN,宁波市,宁波市云杉路125号8号楼,315000,林志强,lin.zhiqiang@huachen-service.invalid,+8613828465423,HC-E0096,设备运维部,运维技术员,SC-2026-CN-0038
+DEV-0849,C,EAST,13.9,408.4,0,0,CN,苏州市,苏州市清禾路158号1号楼,215000,何子涵,he_zihan@huachen-service.invalid,+8615885871331,HC-E0009,设备运维部,设备工程师,SC-2026-CN-0071
+DEV-0332,C,EAST,27.6,218.3,0,0,CN,宁波市,宁波市锦澜路181号4号楼,315000,周若宁,zhou_ruoning@huachen-service.invalid,+8613980066999,HC-E0040,设备运维部,设备工程师,SC-2026-CN-0028
+DEV-0485,B,EAST,21.5,414.7,2,1,CN,苏州市,苏州市云杉路154号5号楼,215000,罗浩然,haoran.luo@huachen-service.invalid,+8651280255656,HC-E0021,生产技术部,生产技术员,SC-2026-CN-0041
+DEV-0232,B,EAST,23.8,345.0,0,0,CN,宁波市,宁波市云杉路81号8号楼,315000,周雨桐,yzhou@nb.huachen-service.invalid,+8615079223726,HC-E0064,设备运维部,运维技术员,SC-2026-CN-0020
+DEV-0738,B,EAST,18.3,314.8,2,1,DE,Leipzig,"Lindenwerkstrasse 109, Halle 2, Leipzig",04103,Maximilian Schroeder,schroeder.maximilian@dewei-service.invalid,+4915294393152,DW-E0058,Plant Operations,Equipment Engineer,SC-2026-DE-0062
+DEV-0667,B,EAST,17.4,549.3,3,1,CN,无锡市,无锡市锦澜路156号3号楼,214000,罗书瑶,luo_shuyao@huachen-service.invalid,+8613852480536,HC-E0107,生产技术部,工艺工程师,SC-2026-CN-0056
+DEV-0027,C,EAST,24.5,539.1,2,0,CN,无锡市,无锡市锦澜路56号3号楼,214000,王静,jwang@huachen-service.invalid,+8613972196815,HC-E0015,设备运维部,设备工程师,SC-2026-CN-0003
+DEV-0323,A,EAST,15.1,217.0,4,1,CN,无锡市,无锡市清禾路172号3号楼,214000,罗书瑶,luo_shuyao@huachen-service.invalid,+8613852480536,HC-E0107,生产技术部,工艺工程师,SC-2026-CN-0027
+DEV-0260,B,EAST,32.3,449.0,4,1,CN,宁波市,宁波市清禾路109号4号楼,315000,张思远,siyuan.zhang@nb.huachen-service.invalid,+8613953668537,HC-E0024,设备运维部,运维技术员,SC-2026-CN-0022
+DEV-0301,B,EAST,21.9,478.7,2,1,CN,苏州市,苏州市星浦路150号5号楼,215000,高文昊,wenhao.gao@huachen-service.invalid,+8615069468843,HC-E0065,设备运维部,设备工程师,SC-2026-CN-0026
+DEV-0037,B,EAST,18.1,534.3,2,0,CN,苏州市,苏州市云杉路66号5号楼,215000,赵敏,min.zhao@huachen-service.invalid,+8613986538771,HC-E0028,生产技术部,生产技术员,SC-2026-CN-0004
+DEV-0115,B,EAST,16.3,319.8,1,0,CN,无锡市,无锡市清禾路144号3号楼,214000,李明轩,mli@huachen-service.invalid,+8613954555454,HC-E0091,生产技术部,生产技术员,SC-2026-CN-0010
+DEV-0940,C,SOUTH,24.2,340.4,0,0,DE,Stuttgart,"Birkenhofstrasse 151, Halle 4, Stuttgart",70173,Sophie Wagner,sophie.wagner@dewei-service.invalid,+4915173191842,DW-E0052,Production Engineering,Production Technician,SC-2026-DE-0079
+DEV-0328,B,EAST,21.0,309.7,4,0,CN,宁波市,宁波市云杉路177号8号楼,315000,林建国,lin_jianguo@huachen-service.invalid,+8613954202130,HC-E0016,设备运维部,设备工程师,SC-2026-CN-0028
+DEV-0542,C,EAST,20.2,363.7,4,0,CN,杭州市,杭州市星浦路31号6号楼,310000,孙晓梅,xsun@huachen-service.invalid,+8615071835140,HC-E0098,设备运维部,设备工程师,SC-2026-CN-0046
+DEV-0504,B,EAST,19.9,215.9,2,1,CN,宁波市,宁波市云杉路173号8号楼,315000,王静,jwang@huachen-service.invalid,+8613972196815,HC-E0015,设备运维部,设备工程师,SC-2026-CN-0042
+DEV-0526,A,EAST,23.4,281.7,2,0,CN,杭州市,杭州市星浦路195号6号楼,310000,林文昊,lin_wenhao@huachen-service.invalid,+8657130938215,HC-E0058,设备运维部,设备主管,SC-2026-CN-0044
+DEV-0036,B,EAST,22.1,645.9,6,1,CN,宁波市,宁波市清禾路65号4号楼,315000,赵晓梅,xzhao@huachen-service.invalid,+8657483332612,HC-E0092,售后服务部,现场工程师,SC-2026-CN-0003
+DEV-0812,B,SOUTH,13.7,413.1,2,0,DE,Stuttgart,"Birkenhofstrasse 23, Halle 4, Stuttgart",70173,Felix Fischer,felix.fischer@st.dewei-service.invalid,+4916050022870,DW-E0072,Production Engineering,Process Engineer,SC-2026-DE-0068
+DEV-0952,A,SOUTH,21.5,306.4,1,1,DE,Stuttgart,"Sonnenparkweg 163, Halle 8, Stuttgart",70173,Sabine Richter,richter_sabine@st.dewei-service.invalid,+4916064228654,DW-E0012,Production Engineering,Production Technician,SC-2026-DE-0080
+DEV-0196,B,EAST,28.0,190.6,0,0,CN,宁波市,宁波市清禾路45号4号楼,315000,周若宁,zhou_ruoning@huachen-service.invalid,+8613980066999,HC-E0040,设备运维部,设备工程师,SC-2026-CN-0017
+DEV-0004,C,EAST,23.4,412.8,4,0,CN,宁波市,宁波市清禾路33号4号楼,315000,高晓梅,x.gao64@huachen-service.invalid,+8615083179205,HC-E0088,设备运维部,设备主管,SC-2026-CN-0001
+DEV-0817,C,EAST,17.3,643.4,3,0,CN,苏州市,苏州市清禾路126号1号楼,215000,周晓梅,xiaomei.zhou@huachen-service.invalid,+8615084038269,HC-E0109,生产技术部,工艺工程师,SC-2026-CN-0069
+DEV-0611,A,EAST,12.9,424.4,3,0,CN,无锡市,无锡市清禾路100号3号楼,214000,黄建国,jianguo.huang@huachen-service.invalid,+8613831074111,HC-E0067,设备运维部,设备工程师,SC-2026-CN-0051
+DEV-0370,B,EAST,24.2,402.2,1,0,CN,杭州市,杭州市清禾路39号2号楼,310000,沈浩然,haoran.shen@huachen-service.invalid,+8615826230672,HC-E0118,生产技术部,生产技术员,SC-2026-CN-0031
+DEV-0632,A,SOUTH,15.4,470.8,4,0,DE,Stuttgart,"Sonnenparkweg 163, Halle 8, Stuttgart",70173,Petra Hartmann,petra.hartmann@dewei-service.invalid,+4915281122459,DW-E0040,Production Engineering,Process Engineer,SC-2026-DE-0053
+DEV-0295,A,EAST,25.9,439.7,2,0,CN,无锡市,无锡市云杉路144号7号楼,214000,赵书瑶,shuyao.zhao@huachen-service.invalid,+8618669715320,HC-E0003,设备运维部,设备工程师,SC-2026-CN-0025
+DEV-0692,C,SOUTH,19.3,172.2,2,0,DE,Stuttgart,"Lindenwerkstrasse 63, Halle 4, Stuttgart",70173,Daniel Hoffmann,hoffmann.daniel@dewei-service.invalid,+4915731189716,DW-E0092,Field Service,Field Engineer,SC-2026-DE-0058
+DEV-0181,C,EAST,17.7,573.7,10,1,CN,苏州市,苏州市云杉路30号5号楼,215000,罗思远,luo.siyuan@huachen-service.invalid,+8615076453710,HC-E0049,生产技术部,工艺工程师,SC-2026-CN-0016
+DEV-0291,A,EAST,28.3,451.9,1,0,CN,无锡市,无锡市清禾路140号3号楼,214000,徐颖,y.xu11@huachen-service.invalid,+8618680380001,HC-E0059,售后服务部,服务协调员,SC-2026-CN-0025
+DEV-0264,B,EAST,28.1,396.5,3,0,CN,宁波市,宁波市云杉路113号8号楼,315000,张思远,siyuan.zhang@nb.huachen-service.invalid,+8613953668537,HC-E0024,设备运维部,运维技术员,SC-2026-CN-0022
+DEV-0283,B,EAST,24.1,326.3,1,0,CN,无锡市,无锡市锦澜路132号3号楼,214000,王志强,wang.zhiqiang@huachen-service.invalid,+8613835517254,HC-E0119,售后服务部,现场工程师,SC-2026-CN-0024
+DEV-0509,C,EAST,27.9,325.5,0,0,CN,苏州市,苏州市星浦路178号5号楼,215000,陈志强,zchen@huachen-service.invalid,+8618966905931,HC-E0029,设备运维部,运维技术员,SC-2026-CN-0043
+DEV-0978,C,EAST,16.3,512.8,3,0,DE,Leipzig,"Lindenwerkstrasse 29, Halle 2, Leipzig",04103,Felix Koch,felix.koch@dewei-service.invalid,+4917620819239,DW-E0042,Production Engineering,Process Engineer,SC-2026-DE-0082
+DEV-0561,A,EAST,24.6,571.2,4,1,CN,苏州市,苏州市清禾路50号1号楼,215000,李志强,li_zhiqiang@huachen-service.invalid,+8615830907487,HC-E0120,生产技术部,工艺工程师,SC-2026-CN-0047
+DEV-0892,A,SOUTH,23.5,620.0,6,1,DE,Stuttgart,"Birkenhofstrasse 103, Halle 4, Stuttgart",70173,Michael Klein,klein_michael@dewei-service.invalid,+497112404171,DW-E0096,Plant Operations,Site Supervisor,SC-2026-DE-0075
+DEV-0455,B,EAST,18.3,255.5,1,0,CN,无锡市,无锡市云杉路124号7号楼,214000,李明轩,mli@huachen-service.invalid,+8613954555454,HC-E0091,生产技术部,生产技术员,SC-2026-CN-0038
+DEV-0268,A,EAST,25.1,460.3,4,0,CN,宁波市,宁波市锦澜路117号4号楼,315000,林建国,lin_jianguo@huachen-service.invalid,+8613954202130,HC-E0016,设备运维部,设备工程师,SC-2026-CN-0023
+DEV-0626,B,EAST,21.6,297.9,0,0,DE,Leipzig,"Lindenwerkstrasse 157, Halle 2, Leipzig",04103,Laura Fischer,laura.fischer@dewei-service.invalid,+4915748562590,DW-E0078,Plant Operations,Maintenance Technician,SC-2026-DE-0053
+DEV-0566,C,EAST,25.1,621.7,6,1,CN,杭州市,杭州市云杉路55号6号楼,310000,李嘉怡,li.jiayi@hz.huachen-service.invalid,+8615841889492,HC-E0050,售后服务部,现场工程师,SC-2026-CN-0048
+DEV-0056,A,EAST,29.4,455.7,4,0,CN,宁波市,宁波市云杉路85号8号楼,315000,周子涵,zhou.zihan@huachen-service.invalid,+8613951667602,HC-E0104,设备运维部,设备工程师,SC-2026-CN-0005
+DEV-0617,A,EAST,13.2,641.0,3,0,CN,苏州市,苏州市锦澜路106号1号楼,215000,罗思远,luo.siyuan@huachen-service.invalid,+8615076453710,HC-E0049,生产技术部,工艺工程师,SC-2026-CN-0052
+DEV-0916,B,SOUTH,12.7,600.1,2,0,DE,Stuttgart,"Lindenwerkstrasse 127, Halle 4, Stuttgart",70173,Lukas Zimmermann,zimmermann.lukas@dewei-service.invalid,+497119306911,DW-E0084,Plant Operations,Maintenance Technician,SC-2026-DE-0077
+DEV-0446,B,EAST,19.8,551.1,2,0,CN,杭州市,杭州市星浦路115号6号楼,310000,周志强,zhou.zhiqiang@huachen-service.invalid,+8613968393685,HC-E0034,设备运维部,设备工程师,SC-2026-CN-0038
+DEV-0266,B,EAST,21.5,510.2,4,0,CN,杭州市,杭州市锦澜路115号2号楼,310000,林欣悦,xlin@huachen-service.invalid,+8615866325514,HC-E0074,设备运维部,设备工程师,SC-2026-CN-0023
+DEV-0911,B,EAST,11.4,252.5,4,0,CN,无锡市,无锡市星浦路40号7号楼,214000,罗书瑶,luo_shuyao@huachen-service.invalid,+8613852480536,HC-E0107,生产技术部,工艺工程师,SC-2026-CN-0076
+DEV-0530,B,EAST,21.9,646.9,5,1,CN,杭州市,杭州市清禾路199号2号楼,310000,何静,jing.he@huachen-service.invalid,+8618947065945,HC-E0038,生产技术部,工艺工程师,SC-2026-CN-0045
+DEV-0922,B,EAST,11.0,411.9,4,0,DE,Leipzig,"Birkenhofstrasse 133, Halle 2, Leipzig",04103,Maximilian Schroeder,schroeder.maximilian@dewei-service.invalid,+4915294393152,DW-E0058,Plant Operations,Equipment Engineer,SC-2026-DE-0077
+DEV-0596,C,EAST,23.8,581.6,1,0,CN,宁波市,宁波市清禾路85号4号楼,315000,赵晓梅,xzhao@huachen-service.invalid,+8657483332612,HC-E0092,售后服务部,现场工程师,SC-2026-CN-0050
+DEV-0638,C,EAST,15.8,567.1,2,1,DE,Leipzig,"Wiesenfeldweg 169, Halle 6, Leipzig",04103,Thomas Schroeder,t.schroeder39@dewei-service.invalid,+4916086582565,DW-E0010,Production Engineering,Process Engineer,SC-2026-DE-0054
+DEV-0574,B,EAST,21.5,447.2,1,0,CN,杭州市,杭州市星浦路63号6号楼,310000,张磊,lei.zhang@hz.huachen-service.invalid,+8615897575939,HC-E0018,售后服务部,现场工程师,SC-2026-CN-0048
+DEV-0129,B,EAST,20.7,468.7,3,1,CN,苏州市,苏州市清禾路158号1号楼,215000,王伟,,+8613841372844,HC-E0073,设备运维部,设备工程师,SC-2026-CN-0011
+DEV-0681,B,EAST,16.5,446.7,2,0,CN,苏州市,苏州市锦澜路170号1号楼,215000,林浩然,hlin@huachen-service.invalid,+8618664742131,HC-E0041,设备运维部,运维技术员,SC-2026-CN-0057
+DEV-0250,C,EAST,24.6,500.3,5,1,CN,杭州市,杭州市锦澜路99号2号楼,310000,王若宁,ruoning.wang@huachen-service.invalid,+8618634677365,HC-E0014,设备运维部,设备工程师,SC-2026-CN-0021
+DEV-0647,C,EAST,11.4,515.1,2,0,CN,无锡市,无锡市云杉路136号7号楼,214000,许伟,wxu@huachen-service.invalid,+8618678875780,HC-E0099,设备运维部,设备工程师,SC-2026-CN-0054
+DEV-0752,C,SOUTH,11.0,556.7,5,1,DE,Stuttgart,"Wiesenfeldweg 123, Halle 8, Stuttgart",70173,Stefan Schneider,stefan.schneider@st.dewei-service.invalid,+4915233259016,DW-E0080,Plant Operations,Maintenance Technician,SC-2026-DE-0063
+DEV-0664,C,SOUTH,9.4,201.8,2,0,DE,Stuttgart,"Sonnenparkweg 35, Halle 8, Stuttgart",70173,Felix Klein,felix.klein@dewei-service.invalid,+4917647913084,DW-E0088,Plant Operations,Maintenance Technician,SC-2026-DE-0056
+DEV-0731,B,EAST,21.3,533.4,0,1,CN,无锡市,无锡市锦澜路40号3号楼,214000,黄志强,zhiqiang.huang@huachen-service.invalid,+8613824154866,HC-E0035,设备运维部,运维技术员,SC-2026-CN-0061
+DEV-0063,B,EAST,17.9,370.0,3,0,CN,无锡市,无锡市星浦路92号7号楼,214000,李涛,t.li25@huachen-service.invalid,+8651060731683,HC-E0111,设备运维部,运维技术员,SC-2026-CN-0006
+DEV-0625,A,EAST,20.8,595.8,5,0,CN,苏州市,苏州市清禾路114号1号楼,215000,王明轩,wang_mingxuan@huachen-service.invalid,+8615857230544,HC-E0117,生产技术部,工艺工程师,SC-2026-CN-0053
+DEV-0733,C,EAST,22.8,508.8,3,0,CN,苏州市,苏州市星浦路42号5号楼,215000,刘书瑶,shuyao.liu@huachen-service.invalid,+8618670826592,HC-E0085,设备运维部,设备工程师,SC-2026-CN-0062
+DEV-0988,C,SOUTH,8.3,195.7,3,0,DE,Stuttgart,"Birkenhofstrasse 39, Halle 4, Stuttgart",70173,Anna Schroeder,anna.schroeder@dewei-service.invalid,+4915169058366,DW-E0028,Field Service,Field Engineer,SC-2026-DE-0083
+DEV-0041,B,EAST,25.9,258.0,0,0,CN,苏州市,苏州市锦澜路70号1号楼,215000,罗浩然,haoran.luo@huachen-service.invalid,+8651280255656,HC-E0021,生产技术部,生产技术员,SC-2026-CN-0004
+DEV-0987,B,EAST,15.3,207.8,2,0,CN,无锡市,无锡市锦澜路116号3号楼,214000,罗书瑶,luo_shuyao@huachen-service.invalid,+8613852480536,HC-E0107,生产技术部,工艺工程师,SC-2026-CN-0083
+DEV-0082,C,EAST,23.7,571.5,3,1,CN,杭州市,杭州市清禾路111号2号楼,310000,刘涛,tao.liu@huachen-service.invalid,+8657199620173,HC-E0106,设备运维部,设备主管,SC-2026-CN-0007
+DEV-0525,C,EAST,19.1,239.0,2,0,CN,苏州市,苏州市星浦路194号5号楼,215000,林思远,siyuan.lin@huachen-service.invalid,+8618922700432,HC-E0005,设备运维部,运维技术员,SC-2026-CN-0044
+DEV-0786,C,EAST,16.7,579.5,5,1,DE,Leipzig,"Lindenwerkstrasse 157, Halle 2, Leipzig",04103,Marie Koch,koch_marie@dewei-service.invalid,+4915786848139,DW-E0066,Field Service,Field Engineer,SC-2026-DE-0066
+DEV-0024,C,EAST,29.5,412.8,6,1,CN,宁波市,宁波市云杉路53号8号楼,315000,张嘉怡,jzhang@huachen-service.invalid,+8615831550435,HC-E0072,生产技术部,生产技术员,SC-2026-CN-0002
+DEV-0529,B,EAST,26.9,372.1,2,0,CN,苏州市,苏州市清禾路198号1号楼,215000,陈书瑶,s.chen42@huachen-service.invalid,+8615063739635,HC-E0105,生产技术部,生产技术员,SC-2026-CN-0045
+DEV-0767,C,EAST,13.0,354.0,2,1,CN,无锡市,无锡市星浦路76号7号楼,214000,郑欣悦,xinyue.zheng@nb.huachen-service.invalid,+8615888874262,HC-E0068,设备运维部,设备工程师,SC-2026-CN-0064
+DEV-0562,B,EAST,23.9,403.7,2,0,CN,杭州市,杭州市清禾路51号2号楼,310000,吴思远,wu_siyuan@huachen-service.invalid,+8657179874421,HC-E0026,设备运维部,设备主管,SC-2026-CN-0047
+DEV-0288,A,EAST,26.2,634.7,6,1,CN,宁波市,宁波市星浦路137号8号楼,315000,周雨桐,yzhou@nb.huachen-service.invalid,+8615079223726,HC-E0064,设备运维部,运维技术员,SC-2026-CN-0024
+DEV-0072,A,EAST,30.0,218.4,4,0,CN,宁波市,宁波市云杉路101号8号楼,315000,李志强,li_zhiqiang@huachen-service.invalid,+8615830907487,HC-E0120,生产技术部,工艺工程师,SC-2026-CN-0006
+DEV-0669,A,EAST,24.0,428.8,2,1,CN,苏州市,苏州市星浦路158号5号楼,215000,沈嘉怡,jshen@huachen-service.invalid,+8618630698916,HC-E0061,设备运维部,运维技术员,SC-2026-CN-0056
+DEV-0253,B,EAST,33.2,531.9,3,0,CN,苏州市,苏州市星浦路102号5号楼,215000,周晓梅,xiaomei.zhou@huachen-service.invalid,+8615084038269,HC-E0109,生产技术部,工艺工程师,SC-2026-CN-0022
+DEV-0114,B,EAST,13.6,401.6,3,0,CN,杭州市,杭州市清禾路143号2号楼,310000,郑浩然,zheng_haoran@huachen-service.invalid,+8615093400636,HC-E0062,生产技术部,工艺工程师,SC-2026-CN-0010
+DEV-0326,B,EAST,18.0,540.8,1,1,CN,杭州市,杭州市云杉路175号6号楼,310000,林静,j.lin69@hz.huachen-service.invalid,+8615038500032,HC-E0090,生产技术部,生产技术员,SC-2026-CN-0028
+DEV-0101,C,EAST,25.0,424.4,3,0,CN,苏州市,苏州市云杉路130号5号楼,215000,李晓梅,xiaomei.li@huachen-service.invalid,+8615833090873,HC-E0012,生产技术部,生产技术员,SC-2026-CN-0009
+DEV-0168,A,EAST,17.8,269.5,2,0,CN,宁波市,宁波市云杉路197号8号楼,315000,张磊,lei.zhang@hz.huachen-service.invalid,+8615897575939,HC-E0018,售后服务部,现场工程师,SC-2026-CN-0014
+DEV-0088,B,EAST,13.3,193.4,3,0,CN,宁波市,宁波市云杉路117号8号楼,315000,李晓梅,xiaomei.li@huachen-service.invalid,+8615833090873,HC-E0012,生产技术部,生产技术员,SC-2026-CN-0008
+DEV-0934,B,EAST,17.8,246.3,2,0,DE,Leipzig,"Sonnenparkweg 145, Halle 6, Leipzig",04103,Stefan Fischer,stefan.fischer@dewei-service.invalid,+4915187512011,DW-E0070,Field Service,Field Engineer,SC-2026-DE-0078
+DEV-0633,B,EAST,15.4,597.2,7,1,CN,苏州市,苏州市锦澜路122号1号楼,215000,黄嘉怡,huang.jiayi@huachen-service.invalid,+8615054589231,HC-E0101,售后服务部,现场工程师,SC-2026-CN-0053
+DEV-0869,C,EAST,16.5,443.4,3,0,CN,苏州市,苏州市云杉路178号5号楼,215000,王建国,jianguo.wang@huachen-service.invalid,+8618925907406,HC-E0043,设备运维部,设备工程师,SC-2026-CN-0073
+DEV-0507,A,EAST,26.0,413.9,4,1,CN,无锡市,无锡市锦澜路176号3号楼,214000,李若宁,li.ruoning@hz.huachen-service.invalid,+8615030729897,HC-E0006,设备运维部,设备工程师,SC-2026-CN-0043
+DEV-0788,C,SOUTH,12.9,569.3,2,0,DE,Stuttgart,"Lindenwerkstrasse 159, Halle 4, Stuttgart",70173,Leon Wolf,leon.wolf@dewei-service.invalid,+497116148255,DW-E0048,Plant Operations,Equipment Engineer,SC-2026-DE-0066
+DEV-0623,C,EAST,14.4,347.9,2,0,CN,无锡市,无锡市星浦路112号7号楼,214000,张文昊,wenhao.zhang@huachen-service.invalid,+8613964740657,HC-E0051,生产技术部,生产技术员,SC-2026-CN-0052
+DEV-0590,A,EAST,28.5,529.8,2,0,CN,杭州市,杭州市星浦路79号6号楼,310000,林明轩,lin.mingxuan@huachen-service.invalid,+8618641011506,HC-E0046,设备运维部,运维技术员,SC-2026-CN-0050
+DEV-0057,C,EAST,25.1,584.7,5,0,CN,苏州市,苏州市锦澜路86号1号楼,215000,沈文昊,shen.wenhao@huachen-service.invalid,+8613955899872,HC-E0081,设备运维部,设备工程师,SC-2026-CN-0005
+DEV-0317,B,EAST,22.5,454.8,4,1,CN,苏州市,苏州市星浦路166号5号楼,215000,陈志强,zchen@huachen-service.invalid,+8618966905931,HC-E0029,设备运维部,运维技术员,SC-2026-CN-0027
+DEV-0356,B,EAST,23.6,299.7,1,0,CN,宁波市,宁波市清禾路205号4号楼,315000,周若宁,zhou_ruoning@huachen-service.invalid,+8613980066999,HC-E0040,设备运维部,设备工程师,SC-2026-CN-0030
+DEV-0433,A,EAST,22.8,613.6,4,0,CN,苏州市,苏州市清禾路102号1号楼,215000,陈志强,zchen@huachen-service.invalid,+8618966905931,HC-E0029,设备运维部,运维技术员,SC-2026-CN-0037
+DEV-0392,C,EAST,24.0,250.8,0,0,CN,宁波市,宁波市云杉路61号8号楼,315000,赵晓梅,xzhao@huachen-service.invalid,+8657483332612,HC-E0092,售后服务部,现场工程师,SC-2026-CN-0033
+DEV-0651,B,EAST,13.4,265.8,2,0,CN,无锡市,无锡市锦澜路140号3号楼,214000,王雨桐,yutong.wang@huachen-service.invalid,+8615852375845,HC-E0063,售后服务部,现场工程师,SC-2026-CN-0055
+DEV-0928,C,SOUTH,18.2,429.0,4,0,DE,Stuttgart,"Wiesenfeldweg 139, Halle 8, Stuttgart",70173,Maximilian Schmidt,maximilian.schmidt@dewei-service.invalid,+4915249625949,DW-E0024,Plant Operations,Equipment Engineer,SC-2026-DE-0078
+DEV-0432,B,EAST,26.4,228.1,5,0,CN,宁波市,宁波市星浦路101号8号楼,315000,张书瑶,zhang.shuyao@nb.huachen-service.invalid,+8618981845517,HC-E0080,生产技术部,生产技术员,SC-2026-CN-0036
+DEV-0874,A,EAST,11.3,179.1,0,0,DE,Leipzig,"Birkenhofstrasse 85, Halle 2, Leipzig",04103,Lukas Schulz,lukas.schulz@dewei-service.invalid,+4915257218389,DW-E0050,Plant Operations,Maintenance Technician,SC-2026-DE-0073
+DEV-0964,B,SOUTH,16.8,160.9,1,0,DE,Stuttgart,"Lindenwerkstrasse 15, Halle 4, Stuttgart",70173,Lukas Zimmermann,zimmermann.lukas@dewei-service.invalid,+497119306911,DW-E0084,Plant Operations,Maintenance Technician,SC-2026-DE-0081
+DEV-0330,A,EAST,21.3,480.1,4,1,CN,杭州市,杭州市锦澜路179号2号楼,310000,林欣悦,xlin@huachen-service.invalid,+8615866325514,HC-E0074,设备运维部,设备工程师,SC-2026-CN-0028
+DEV-0142,C,EAST,21.5,284.9,1,0,CN,杭州市,杭州市星浦路171号6号楼,310000,林文昊,lin_wenhao@huachen-service.invalid,+8657130938215,HC-E0058,设备运维部,设备主管,SC-2026-CN-0012
+DEV-0794,B,EAST,12.8,569.2,3,0,DE,Leipzig,"Birkenhofstrasse 165, Halle 2, Leipzig",04103,Maximilian Schroeder,schroeder.maximilian@dewei-service.invalid,+4915294393152,DW-E0058,Plant Operations,Equipment Engineer,SC-2026-DE-0067
+DEV-0832,B,SOUTH,15.0,553.2,1,0,DE,Stuttgart,"Wiesenfeldweg 43, Halle 8, Stuttgart",70173,Michael Klein,klein_michael@dewei-service.invalid,+497112404171,DW-E0096,Plant Operations,Site Supervisor,SC-2026-DE-0070
+DEV-0405,C,EAST,28.9,555.8,3,0,CN,苏州市,苏州市云杉路74号5号楼,215000,刘书瑶,shuyao.liu@huachen-service.invalid,+8618670826592,HC-E0085,设备运维部,设备工程师,SC-2026-CN-0034
+DEV-0721,C,EAST,14.1,351.2,1,0,CN,苏州市,苏州市清禾路30号1号楼,215000,罗思远,luo.siyuan@huachen-service.invalid,+8615076453710,HC-E0049,生产技术部,工艺工程师,SC-2026-CN-0061
+DEV-0775,C,EAST,21.0,452.1,0,0,CN,无锡市,无锡市云杉路84号7号楼,214000,林书瑶,shuyao.lin@huachen-service.invalid,+8613958053722,HC-E0071,设备运维部,设备主管,SC-2026-CN-0065
+DEV-0686,B,EAST,15.0,285.2,2,0,DE,Leipzig,"Wiesenfeldweg 57, Halle 6, Leipzig",04103,Sabine Klein,sabine.klein@dewei-service.invalid,+4915769297452,DW-E0062,Production Engineering,Process Engineer,SC-2026-DE-0058
+DEV-0783,A,EAST,9.1,283.5,2,0,CN,无锡市,无锡市星浦路92号7号楼,214000,许伟,wxu@huachen-service.invalid,+8618678875780,HC-E0099,设备运维部,设备工程师,SC-2026-CN-0066
+DEV-0257,A,EAST,20.1,561.5,1,0,CN,苏州市,苏州市清禾路106号1号楼,215000,高磊,lei.gao@sz.huachen-service.invalid,+8615823162680,HC-E0025,设备运维部,设备工程师,SC-2026-CN-0022
+DEV-0807,B,EAST,21.3,493.4,3,1,CN,无锡市,无锡市云杉路116号7号楼,214000,陈敏,min.chen@huachen-service.invalid,+8615091721122,HC-E0087,设备运维部,设备工程师,SC-2026-CN-0068
+DEV-0014,A,EAST,13.2,538.9,2,0,CN,杭州市,杭州市星浦路43号6号楼,310000,王若宁,ruoning.wang@huachen-service.invalid,+8618634677365,HC-E0014,设备运维部,设备工程师,SC-2026-CN-0002
+DEV-0010,A,EAST,24.2,558.2,2,1,CN,杭州市,杭州市锦澜路39号2号楼,310000,郑浩然,zheng_haoran@huachen-service.invalid,+8615093400636,HC-E0062,生产技术部,工艺工程师,SC-2026-CN-0001
+DEV-0840,A,SOUTH,19.4,222.4,1,0,DE,Stuttgart,"Sonnenparkweg 51, Halle 8, Stuttgart",70173,Felix Braun,felix.braun@dewei-service.invalid,+4917698695861,DW-E0020,Plant Operations,Maintenance Technician,SC-2026-DE-0070
+DEV-0943,B,EAST,17.0,450.5,0,0,CN,无锡市,无锡市星浦路72号7号楼,214000,何伟,wei.he@huachen-service.invalid,+8613947941770,HC-E0007,设备运维部,运维技术员,SC-2026-CN-0079
+DEV-0729,B,EAST,14.6,465.7,4,0,CN,苏州市,苏州市锦澜路38号1号楼,215000,高文昊,wenhao.gao@huachen-service.invalid,+8615069468843,HC-E0065,设备运维部,设备工程师,SC-2026-CN-0061
+DEV-0534,A,EAST,23.5,224.0,4,0,CN,杭州市,杭州市云杉路203号6号楼,310000,李若宁,li.ruoning@hz.huachen-service.invalid,+8615030729897,HC-E0006,设备运维部,设备工程师,SC-2026-CN-0045
+DEV-0540,A,EAST,26.8,264.6,3,1,CN,宁波市,宁波市锦澜路209号4号楼,315000,赵晓梅,xzhao@huachen-service.invalid,+8657483332612,HC-E0092,售后服务部,现场工程师,SC-2026-CN-0045
+DEV-0725,A,EAST,11.4,642.7,5,0,CN,苏州市,苏州市云杉路34号5号楼,215000,郑磊,lei.zheng@sz.huachen-service.invalid,+8615066937047,HC-E0033,设备运维部,设备工程师,SC-2026-CN-0061
+DEV-0506,A,EAST,31.4,341.3,1,0,CN,杭州市,杭州市锦澜路175号2号楼,310000,赵文昊,wenhao.zhao@hz.huachen-service.invalid,+8615870776981,HC-E0002,设备运维部,运维技术员,SC-2026-CN-0043
+DEV-0169,C,EAST,27.6,412.8,2,0,CN,苏州市,苏州市锦澜路198号1号楼,215000,高文昊,wenhao.gao@huachen-service.invalid,+8615069468843,HC-E0065,设备运维部,设备工程师,SC-2026-CN-0015
+DEV-1000,A,SOUTH,23.8,260.0,2,0,DE,Stuttgart,"Sonnenparkweg 51, Halle 8, Stuttgart",70173,Felix Wagner,wagner_felix@dewei-service.invalid,+4916080137529,DW-E0116,Plant Operations,Equipment Engineer,SC-2026-DE-0084
+DEV-0982,A,EAST,15.6,401.3,6,1,DE,Leipzig,"Sonnenparkweg 33, Halle 6, Leipzig",04103,Johanna Schneider,johanna.schneider@dewei-service.invalid,+4916070027612,DW-E0094,Production Engineering,Process Engineer,SC-2026-DE-0082
+DEV-0837,A,EAST,13.4,571.4,2,0,CN,苏州市,苏州市云杉路146号5号楼,215000,高磊,lei.gao@sz.huachen-service.invalid,+8615823162680,HC-E0025,设备运维部,设备工程师,SC-2026-CN-0070
+DEV-0478,B,EAST,26.7,242.1,2,0,CN,杭州市,杭州市星浦路147号6号楼,310000,李建国,jli@hz.huachen-service.invalid,+8615092653467,HC-E0086,设备运维部,设备工程师,SC-2026-CN-0040
+DEV-0222,C,EAST,22.4,421.1,3,0,CN,杭州市,杭州市星浦路71号6号楼,310000,林静,,+8615038500032,HC-E0090,生产技术部,生产技术员,SC-2026-CN-0019
+DEV-0621,A,EAST,22.4,415.0,5,0,CN,苏州市,苏州市星浦路110号5号楼,215000,王伟,wei.wang@huachen-service.invalid,+8613841372844,HC-E0073,设备运维部,设备工程师,SC-2026-CN-0052
+DEV-0495,A,EAST,28.3,625.8,3,1,CN,无锡市,无锡市星浦路164号7号楼,214000,陈敏,min.chen@huachen-service.invalid,+8615091721122,HC-E0087,设备运维部,设备工程师,SC-2026-CN-0042
+DEV-0440,B,EAST,23.1,165.7,2,1,CN,宁波市,宁波市云杉路109号8号楼,315000,林思远,siyuan.lin@huachen-service.invalid,+8618922700432,HC-E0005,设备运维部,运维技术员,SC-2026-CN-0037
+DEV-0801,A,EAST,20.5,579.3,4,1,CN,苏州市,苏州市清禾路110号1号楼,215000,何子涵,he_zihan@huachen-service.invalid,+8615885871331,HC-E0009,设备运维部,设备工程师,SC-2026-CN-0067
+DEV-0179,A,EAST,22.8,496.3,6,1,CN,无锡市,无锡市清禾路208号3号楼,214000,郑嘉怡,j.zheng75@sz.huachen-service.invalid,+8615099679666,HC-E0013,设备运维部,设备主管,SC-2026-CN-0015
+DEV-0531,C,EAST,22.4,504.7,3,0,CN,无锡市,无锡市清禾路200号3号楼,214000,黄颖,huang_ying@huachen-service.invalid,+8618956756993,HC-E0115,设备运维部,设备主管,SC-2026-CN-0045
+DEV-0746,B,EAST,16.7,437.1,5,0,DE,Leipzig,"Birkenhofstrasse 117, Halle 2, Leipzig",04103,Sophie Hoffmann,sophie.hoffmann@dewei-service.invalid,+4917660102710,DW-E0082,Production Engineering,Production Technician,SC-2026-DE-0063
+DEV-0154,A,EAST,24.6,371.1,3,1,CN,杭州市,杭州市锦澜路183号2号楼,310000,李若宁,li.ruoning@hz.huachen-service.invalid,+8615030729897,HC-E0006,设备运维部,设备工程师,SC-2026-CN-0013
+DEV-0616,A,SOUTH,6.6,198.3,2,0,DE,Stuttgart,"Sonnenparkweg 147, Halle 8, Stuttgart",70173,Felix Braun,felix.braun@dewei-service.invalid,+4917698695861,DW-E0020,Plant Operations,Maintenance Technician,SC-2026-DE-0052
+DEV-0819,A,EAST,18.5,637.3,3,1,CN,无锡市,无锡市清禾路128号3号楼,214000,张文昊,wenhao.zhang@huachen-service.invalid,+8613964740657,HC-E0051,生产技术部,生产技术员,SC-2026-CN-0069
+DEV-0225,B,EAST,18.2,438.3,2,0,CN,苏州市,苏州市清禾路74号1号楼,215000,罗磊,luo_lei@huachen-service.invalid,+8618967691818,HC-E0097,售后服务部,现场工程师,SC-2026-CN-0019
+DEV-0215,B,EAST,25.0,476.5,4,0,CN,无锡市,无锡市云杉路64号7号楼,214000,黄欣悦,xhuang@huachen-service.invalid,+8615042399789,HC-E0023,设备运维部,运维技术员,SC-2026-CN-0018
+DEV-0418,A,EAST,29.4,183.0,3,0,CN,杭州市,杭州市清禾路87号2号楼,310000,林静,j.lin69@hz.huachen-service.invalid,+8615038500032,HC-E0090,生产技术部,生产技术员,SC-2026-CN-0035
+DEV-0449,B,EAST,20.3,553.5,3,0,CN,苏州市,苏州市清禾路118号1号楼,215000,林浩然,hlin@huachen-service.invalid,+8618664742131,HC-E0041,设备运维部,运维技术员,SC-2026-CN-0038
+DEV-0281,B,EAST,19.4,292.8,1,0,CN,苏州市,苏州市锦澜路130号1号楼,215000,郑磊,lei.zheng@sz.huachen-service.invalid,+8615066937047,HC-E0033,设备运维部,设备工程师,SC-2026-CN-0024
+DEV-0145,A,EAST,20.1,647.2,2,0,CN,苏州市,苏州市清禾路174号1号楼,215000,张建国,j.zhang51@huachen-service.invalid,+8613953291090,HC-E0037,生产技术部,生产技术员,SC-2026-CN-0013
+DEV-0564,C,EAST,21.7,359.2,4,1,CN,宁波市,宁波市清禾路53号4号楼,315000,周若宁,zhou_ruoning@huachen-service.invalid,+8613980066999,HC-E0040,设备运维部,设备工程师,SC-2026-CN-0047
+DEV-0735,A,EAST,15.6,420.8,4,1,CN,无锡市,无锡市星浦路44号7号楼,214000,何伟,wei.he@huachen-service.invalid,+8613947941770,HC-E0007,设备运维部,运维技术员,SC-2026-CN-0062
+DEV-0263,A,EAST,21.0,413.3,2,0,CN,无锡市,无锡市云杉路112号7号楼,214000,李颖,ying.li@huachen-service.invalid,+8618989540727,HC-E0027,设备运维部,设备工程师,SC-2026-CN-0022
+DEV-0992,B,SOUTH,13.9,179.2,0,0,DE,Stuttgart,"Wiesenfeldweg 43, Halle 8, Stuttgart",70173,Stefan Schneider,stefan.schneider@st.dewei-service.invalid,+4915233259016,DW-E0080,Plant Operations,Maintenance Technician,SC-2026-DE-0083
+DEV-0180,A,EAST,31.9,524.4,2,1,CN,宁波市,宁波市清禾路209号4号楼,315000,赵敏,min.zhao@huachen-service.invalid,+8613986538771,HC-E0028,生产技术部,生产技术员,SC-2026-CN-0015
+DEV-0170,B,EAST,27.8,173.9,1,0,CN,杭州市,杭州市锦澜路199号2号楼,310000,林欣悦,xlin@huachen-service.invalid,+8615866325514,HC-E0074,设备运维部,设备工程师,SC-2026-CN-0015
+DEV-0676,B,SOUTH,17.9,241.7,0,0,DE,Stuttgart,"Lindenwerkstrasse 47, Halle 4, Stuttgart",70173,Felix Klein,felix.klein@dewei-service.invalid,+4917647913084,DW-E0088,Plant Operations,Maintenance Technician,SC-2026-DE-0057
+DEV-0577,A,EAST,25.7,345.9,1,0,CN,苏州市,苏州市清禾路66号1号楼,215000,李志强,zhiqiang.li@sz.huachen-service.invalid,+8613826858295,HC-E0001,设备运维部,运维技术员,SC-2026-CN-0049
+DEV-0528,C,EAST,21.7,267.7,2,0,CN,宁波市,宁波市星浦路197号8号楼,315000,罗嘉怡,jiayi.luo@huachen-service.invalid,+8615894759537,HC-E0076,售后服务部,现场工程师,SC-2026-CN-0044
+DEV-0437,C,EAST,21.7,411.4,0,0,CN,苏州市,苏州市云杉路106号5号楼,215000,陈涛,tao.chen@sz.huachen-service.invalid,+8613893661794,HC-E0017,设备运维部,设备工程师,SC-2026-CN-0037
+DEV-0164,C,EAST,29.1,427.5,3,1,CN,宁波市,宁波市清禾路193号4号楼,315000,罗嘉怡,jiayi.luo@huachen-service.invalid,+8615894759537,HC-E0076,售后服务部,现场工程师,SC-2026-CN-0014
+DEV-0505,A,EAST,22.9,291.1,3,0,CN,苏州市,苏州市锦澜路174号1号楼,215000,陈志强,zchen@huachen-service.invalid,+8618966905931,HC-E0029,设备运维部,运维技术员,SC-2026-CN-0043
+DEV-0341,A,EAST,24.4,547.5,1,0,CN,苏州市,苏州市云杉路190号5号楼,215000,王明轩,wang_mingxuan@huachen-service.invalid,+8615857230544,HC-E0117,生产技术部,工艺工程师,SC-2026-CN-0029
+DEV-0470,C,EAST,20.0,555.2,2,0,CN,杭州市,杭州市云杉路139号6号楼,310000,周若宁,zhou_ruoning@huachen-service.invalid,+8613980066999,HC-E0040,设备运维部,设备工程师,SC-2026-CN-0040
+DEV-0136,C,EAST,25.9,250.0,0,0,CN,宁波市,宁波市云杉路165号8号楼,315000,张思远,siyuan.zhang@nb.huachen-service.invalid,+8613953668537,HC-E0024,设备运维部,运维技术员,SC-2026-CN-0012
+DEV-0410,A,EAST,18.9,482.0,4,0,CN,杭州市,杭州市锦澜路79号2号楼,310000,李若宁,li.ruoning@hz.huachen-service.invalid,+8615030729897,HC-E0006,设备运维部,设备工程师,SC-2026-CN-0035
+DEV-0241,A,EAST,19.5,400.1,1,0,CN,苏州市,苏州市清禾路90号1号楼,215000,周建国,j.zhou4@huachen-service.invalid,+8613820054584,HC-E0089,设备运维部,设备工程师,SC-2026-CN-0021
+DEV-0460,C,EAST,25.8,290.6,3,0,CN,宁波市,宁波市锦澜路129号4号楼,315000,李伟,wei.li@huachen-service.invalid,+8613861799109,HC-E0008,设备运维部,运维技术员,SC-2026-CN-0039
+DEV-0265,B,EAST,25.4,608.5,7,1,CN,苏州市,,215000,李志强,zhiqiang.li@sz.huachen-service.invalid,+8613826858295,HC-E0001,设备运维部,运维技术员,SC-2026-CN-0023
+DEV-0039,B,EAST,22.8,554.9,1,0,CN,无锡市,无锡市云杉路68号7号楼,214000,林书瑶,shuyao.lin@huachen-service.invalid,+8613958053722,HC-E0071,设备运维部,设备主管,SC-2026-CN-0004
+DEV-0927,A,EAST,21.1,521.3,7,0,CN,无锡市,无锡市星浦路56号7号楼,214000,张浩然,haoran.zhang@huachen-service.invalid,+8613827397940,HC-E0055,售后服务部,现场工程师,SC-2026-CN-0078
+DEV-0351,A,EAST,20.1,594.9,5,0,CN,无锡市,无锡市星浦路200号7号楼,214000,黄颖,huang_ying@huachen-service.invalid,+8618956756993,HC-E0115,设备运维部,设备主管,SC-2026-CN-0030
+DEV-0800,A,SOUTH,13.3,534.7,4,0,DE,Stuttgart,"Wiesenfeldweg 171, Halle 8, Stuttgart",70173,Michael Hartmann,mhartmann@dewei-service.invalid,+4917663048940,DW-E0076,Field Service,Field Engineer,SC-2026-DE-0067
+DEV-0829,B,EAST,16.0,343.4,3,0,CN,苏州市,苏州市星浦路138号5号楼,215000,孙若宁,ruoning.sun@huachen-service.invalid,+8618682204267,HC-E0045,生产技术部,工艺工程师,SC-2026-CN-0070
+DEV-0570,C,EAST,22.2,621.2,1,0,CN,杭州市,杭州市锦澜路59号2号楼,310000,罗明轩,mingxuan.luo@huachen-service.invalid,+8618667984503,HC-E0102,生产技术部,生产技术员,SC-2026-CN-0048
+DEV-0243,A,EAST,27.2,367.4,3,0,CN,无锡市,无锡市清禾路92号3号楼,214000,李颖,ying.li@huachen-service.invalid,+8618989540727,HC-E0027,设备运维部,设备工程师,SC-2026-CN-0021
+DEV-0274,B,EAST,11.0,610.1,1,0,CN,杭州市,杭州市清禾路123号2号楼,310000,周欣悦,xinyue.zhou@huachen-service.invalid,+8618672681826,HC-E0054,生产技术部,生产技术员,SC-2026-CN-0023
+DEV-0258,A,EAST,23.3,645.1,5,1,CN,杭州市,杭州市清禾路107号2号楼,310000,林静,j.lin69@hz.huachen-service.invalid,+8615038500032,HC-E0090,生产技术部,生产技术员,SC-2026-CN-0022
+DEV-0750,B,EAST,18.0,635.4,4,0,DE,Leipzig,"Wiesenfeldweg 121, Halle 6, Leipzig",04103,Felix Mueller,fmueller@dewei-service.invalid,+493415138519,DW-E0034,Plant Operations,Equipment Engineer,SC-2026-DE-0063
+DEV-0688,C,SOUTH,20.8,290.1,3,0,DE,Stuttgart,"Wiesenfeldweg 59, Halle 8, Stuttgart",70173,Maximilian Richter,richter.maximilian@dewei-service.invalid,+4915796232958,DW-E0112,Plant Operations,Maintenance Technician,SC-2026-DE-0058
+DEV-0001,C,EAST,25.3,412.8,1,0,CN,苏州市,苏州市清禾路30号1号楼,215000,周子涵,,+8613951667602,HC-E0104,设备运维部,设备工程师,SC-2026-CN-0001
+DEV-0652,C,SOUTH,18.1,413.9,3,0,DE,Stuttgart,"Birkenhofstrasse 23, Halle 4, Stuttgart",70173,Maximilian Schmidt,maximilian.schmidt@dewei-service.invalid,+4915249625949,DW-E0024,Plant Operations,Equipment Engineer,SC-2026-DE-0055
+DEV-0404,B,EAST,20.9,373.8,1,0,CN,宁波市,宁波市清禾路73号4号楼,315000,林雨桐,yutong.lin@huachen-service.invalid,+8618944944335,HC-E0020,售后服务部,现场工程师,SC-2026-CN-0034
+DEV-0272,C,EAST,24.0,628.9,2,1,CN,宁波市,宁波市星浦路121号8号楼,315000,郑欣悦,xinyue.zheng@nb.huachen-service.invalid,+8615888874262,HC-E0068,设备运维部,设备工程师,SC-2026-CN-0023
+DEV-0171,C,EAST,20.0,401.9,3,0,CN,无锡市,无锡市锦澜路200号3号楼,214000,徐颖,y.xu11@huachen-service.invalid,+8618680380001,HC-E0059,售后服务部,服务协调员,SC-2026-CN-0015
+DEV-0656,B,SOUTH,14.0,337.9,1,0,DE,Stuttgart,"Wiesenfeldweg 27, Halle 8, Stuttgart",70173,Felix Fischer,felix.fischer@st.dewei-service.invalid,+4916050022870,DW-E0072,Production Engineering,Process Engineer,SC-2026-DE-0055
+DEV-0597,A,EAST,25.5,566.7,1,0,CN,苏州市,苏州市云杉路86号5号楼,215000,王欣悦,xinyue.wang@huachen-service.invalid,+8615874221435,HC-E0077,设备运维部,运维技术员,SC-2026-CN-0050
+DEV-0968,A,SOUTH,9.0,603.6,2,0,DE,Stuttgart,"Sonnenparkweg 19, Halle 8, Stuttgart",70173,Sabine Hoffmann,sabine.hoffmann@dewei-service.invalid,+4915299086444,DW-E0044,Field Service,Service Coordinator,SC-2026-DE-0081
+DEV-0416,B,EAST,22.5,211.9,0,0,CN,宁波市,宁波市星浦路85号8号楼,315000,许文昊,wenhao.xu@huachen-service.invalid,+8613823346237,HC-E0004,设备运维部,运维技术员,SC-2026-CN-0035
+DEV-0679,A,EAST,10.3,487.1,1,0,CN,无锡市,无锡市云杉路168号7号楼,214000,张思远,siyuan.zhang@nb.huachen-service.invalid,+8613953668537,HC-E0024,设备运维部,运维技术员,SC-2026-CN-0057
+DEV-0781,A,EAST,25.1,610.9,2,0,CN,苏州市,苏州市星浦路90号5号楼,215000,王伟,wei.wang@huachen-service.invalid,+8613841372844,HC-E0073,设备运维部,设备工程师,SC-2026-CN-0066
+DEV-0191,B,EAST,23.0,539.8,4,0,CN,无锡市,无锡市星浦路40号7号楼,214000,罗书瑶,luo_shuyao@huachen-service.invalid,+8613852480536,HC-E0107,生产技术部,工艺工程师,SC-2026-CN-0016
+DEV-0205,B,EAST,21.8,208.0,1,0,CN,苏州市,苏州市星浦路54号5号楼,215000,沈文昊,shen.wenhao@huachen-service.invalid,+8613955899872,HC-E0081,设备运维部,设备工程师,SC-2026-CN-0018
+DEV-0620,C,SOUTH,18.8,336.3,3,1,DE,Stuttgart,"Birkenhofstrasse 151, Halle 4, Stuttgart",70173,Felix Klein,felix.klein@dewei-service.invalid,+4917647913084,DW-E0088,Plant Operations,Maintenance Technician,SC-2026-DE-0052
+DEV-0223,C,EAST,23.8,275.5,2,1,CN,无锡市,无锡市星浦路72号7号楼,214000,张书瑶,zhang.shuyao@nb.huachen-service.invalid,+8618981845517,HC-E0080,生产技术部,生产技术员,SC-2026-CN-0019
+DEV-0430,B,EAST,21.3,563.6,4,1,CN,杭州市,杭州市星浦路99号6号楼,310000,徐欣悦,xxu@huachen-service.invalid,+8618996692523,HC-E0030,设备运维部,设备主管,SC-2026-CN-0036
+DEV-0966,B,EAST,13.7,238.1,1,0,DE,Leipzig,"Sonnenparkweg 17, Halle 6, Leipzig",04103,Johanna Schneider,johanna.schneider@dewei-service.invalid,+4916070027612,DW-E0094,Production Engineering,Process Engineer,SC-2026-DE-0081
+DEV-0512,C,EAST,24.1,547.9,7,1,CN,宁波市,宁波市星浦路181号8号楼,315000,林思远,siyuan.lin@huachen-service.invalid,+8618922700432,HC-E0005,设备运维部,运维技术员,SC-2026-CN-0043
+DEV-0074,B,EAST,13.7,199.2,2,0,CN,杭州市,杭州市锦澜路103号2号楼,310000,李若宁,li.ruoning@hz.huachen-service.invalid,+8615030729897,HC-E0006,设备运维部,设备工程师,SC-2026-CN-0007
+DEV-0411,C,EAST,26.1,179.8,3,0,CN,无锡市,无锡市锦澜路80号3号楼,214000,张浩然,haoran.zhang@huachen-service.invalid,+8613827397940,HC-E0055,售后服务部,现场工程师,SC-2026-CN-0035
+DEV-0479,B,EAST,26.1,188.7,3,0,CN,无锡市,无锡市星浦路148号7号楼,214000,黄建国,jianguo.huang@huachen-service.invalid,+8613831074111,HC-E0067,设备运维部,设备工程师,SC-2026-CN-0040
+DEV-0256,A,EAST,23.7,374.9,1,0,CN,宁波市,宁波市星浦路105号8号楼,315000,陈浩然,chen_haoran@nb.huachen-service.invalid,+8657465903727,HC-E0056,生产技术部,工艺工程师,SC-2026-CN-0022
+DEV-0299,C,EAST,25.8,326.7,3,0,CN,无锡市,无锡市锦澜路148号3号楼,214000,陈涛,tao.chen@sz.huachen-service.invalid,+8613893661794,HC-E0017,设备运维部,设备工程师,SC-2026-CN-0025
+DEV-0921,C,EAST,18.7,600.6,6,1,CN,苏州市,苏州市锦澜路50号1号楼,215000,沈文昊,shen.wenhao@huachen-service.invalid,+8613955899872,HC-E0081,设备运维部,设备工程师,SC-2026-CN-0077
+DEV-0896,B,SOUTH,17.1,439.8,1,0,DE,Stuttgart,"Wiesenfeldweg 107, Halle 8, Stuttgart",70173,Maximilian Hoffmann,hoffmann.maximilian@dewei-service.invalid,+4917697722215,DW-E0120,Plant Operations,Maintenance Technician,SC-2026-DE-0075
+DEV-0293,B,EAST,22.5,371.3,3,0,CN,苏州市,苏州市云杉路142号5号楼,215000,周明轩,mzhou@huachen-service.invalid,+8613827234580,HC-E0011,售后服务部,现场工程师,SC-2026-CN-0025
+DEV-0751,C,EAST,15.4,212.6,1,0,CN,无锡市,无锡市星浦路60号7号楼,214000,李涛,t.li25@huachen-service.invalid,+8651060731683,HC-E0111,设备运维部,运维技术员,SC-2026-CN-0063
+DEV-0073,A,EAST,20.0,464.1,4,0,CN,苏州市,苏州市锦澜路102号1号楼,215000,周晓梅,xiaomei.zhou@huachen-service.invalid,+8615084038269,HC-E0109,生产技术部,工艺工程师,SC-2026-CN-0007
+DEV-0172,B,EAST,22.8,356.5,2,0,CN,宁波市,宁波市锦澜路201号4号楼,315000,张嘉怡,jzhang@huachen-service.invalid,+8615831550435,HC-E0072,生产技术部,生产技术员,SC-2026-CN-0015
+DEV-0774,C,EAST,23.7,432.9,4,1,DE,Leipzig,"Sonnenparkweg 145, Halle 6, Leipzig",04103,Stefan Fischer,stefan.fischer@dewei-service.invalid,+4915187512011,DW-E0070,Field Service,Field Engineer,SC-2026-DE-0065
+DEV-0116,B,EAST,24.5,336.4,5,0,CN,宁波市,宁波市清禾路145号4号楼,315000,林志强,lin.zhiqiang@huachen-service.invalid,+8613828465423,HC-E0096,设备运维部,运维技术员,SC-2026-CN-0010
+DEV-0475,B,EAST,38.6,445.8,3,1,CN,无锡市,无锡市锦澜路144号3号楼,214000,王建国,jianguo.wang@huachen-service.invalid,+8618925907406,HC-E0043,设备运维部,设备工程师,SC-2026-CN-0040
+DEV-0178,A,EAST,24.4,257.3,0,0,CN,杭州市,杭州市清禾路207号2号楼,310000,周志强,zhou.zhiqiang@huachen-service.invalid,+8613968393685,HC-E0034,设备运维部,设备工程师,SC-2026-CN-0015
+DEV-0705,C,EAST,18.9,558.1,2,0,CN,苏州市,苏州市清禾路194号1号楼,215000,罗浩然,haoran.luo@huachen-service.invalid,+8651280255656,HC-E0021,生产技术部,生产技术员,SC-2026-CN-0059
+DEV-0372,B,EAST,27.1,496.2,3,0,CN,宁波市,宁波市清禾路41号4号楼,315000,许晓梅,xiaomei.xu@huachen-service.invalid,+8613856068674,HC-E0084,设备运维部,设备主管,SC-2026-CN-0031
+DEV-0619,C,EAST,22.5,262.9,4,0,CN,无锡市,无锡市锦澜路108号3号楼,214000,何浩然,haoran.he@huachen-service.invalid,+8615025606551,HC-E0019,设备运维部,设备主管,SC-2026-CN-0052
+DEV-0693,B,EAST,20.6,203.4,1,0,CN,苏州市,苏州市云杉路182号5号楼,215000,王欣悦,xinyue.wang@huachen-service.invalid,+8615874221435,HC-E0077,设备运维部,运维技术员,SC-2026-CN-0058
+DEV-0944,A,SOUTH,22.4,597.5,3,0,DE,Stuttgart,"Wiesenfeldweg 155, Halle 8, Stuttgart",70173,Felix Fischer,felix.fischer@st.dewei-service.invalid,+4916050022870,DW-E0072,Production Engineering,Process Engineer,SC-2026-DE-0079
+DEV-0246,A,EAST,21.9,279.4,3,0,CN,杭州市,杭州市云杉路95号6号楼,310000,王若宁,,+8618634677365,HC-E0014,设备运维部,设备工程师,SC-2026-CN-0021
+DEV-0421,A,EAST,29.6,300.2,0,0,CN,苏州市,苏州市云杉路90号5号楼,215000,沈文昊,shen.wenhao@huachen-service.invalid,+8613955899872,HC-E0081,设备运维部,设备工程师,SC-2026-CN-0036
+DEV-0852,A,SOUTH,13.7,646.9,2,1,DE,Stuttgart,"Lindenwerkstrasse 63, Halle 4, Stuttgart",70173,Thomas Hoffmann,hoffmann.thomas@dewei-service.invalid,+497112219945,DW-E0032,Plant Operations,Equipment Engineer,SC-2026-DE-0071
+DEV-0920,A,SOUTH,22.0,261.8,2,1,DE,Stuttgart,"Sonnenparkweg 131, Halle 8, Stuttgart",70173,Anna Schroeder,anna.schroeder@dewei-service.invalid,+4915169058366,DW-E0028,Field Service,Field Engineer,SC-2026-DE-0077
+DEV-0584,B,EAST,23.2,544.9,5,1,CN,宁波市,宁波市云杉路73号8号楼,315000,陈磊,lei.chen@huachen-service.invalid,+8615851623043,HC-E0108,设备运维部,运维技术员,SC-2026-CN-0049
+DEV-0108,A,EAST,22.3,258.7,1,0,CN,宁波市,宁波市锦澜路137号4号楼,315000,林雨桐,yutong.lin@huachen-service.invalid,+8618944944335,HC-E0020,售后服务部,现场工程师,SC-2026-CN-0009
+DEV-0748,B,SOUTH,18.4,291.3,4,0,DE,Stuttgart,"Birkenhofstrasse 119, Halle 4, Stuttgart",70173,Petra Hartmann,petra.hartmann@dewei-service.invalid,+4915281122459,DW-E0040,Production Engineering,Process Engineer,SC-2026-DE-0063
+DEV-0866,A,EAST,21.0,189.1,1,0,DE,Leipzig,"Lindenwerkstrasse 77, Halle 2, Leipzig",04103,Sabine Becker,sbecker@dewei-service.invalid,+4915191445475,DW-E0046,Production Engineering,Process Engineer,SC-2026-DE-0073
+DEV-0403,B,EAST,23.2,525.5,3,0,CN,无锡市,无锡市清禾路72号3号楼,214000,黄建国,jianguo.huang@huachen-service.invalid,+8613831074111,HC-E0067,设备运维部,设备工程师,SC-2026-CN-0034
+DEV-0069,C,EAST,22.7,166.1,2,0,CN,苏州市,苏州市云杉路98号5号楼,215000,郑思远,zheng.siyuan@sz.huachen-service.invalid,+8615095302828,HC-E0053,售后服务部,现场工程师,SC-2026-CN-0006
+DEV-0153,B,EAST,24.0,573.3,5,0,CN,苏州市,苏州市锦澜路182号1号楼,215000,陈志强,zchen@huachen-service.invalid,+8618966905931,HC-E0029,设备运维部,运维技术员,SC-2026-CN-0013
+DEV-0465,C,EAST,28.0,475.6,6,1,CN,苏州市,苏州市清禾路134号1号楼,215000,周晓梅,xiaomei.zhou@huachen-service.invalid,+8615084038269,HC-E0109,生产技术部,工艺工程师,SC-2026-CN-0039
+DEV-0547,A,EAST,27.9,371.3,4,0,CN,无锡市,无锡市清禾路36号3号楼,214000,王静,jwang@huachen-service.invalid,+8613972196815,HC-E0015,设备运维部,设备工程师,SC-2026-CN-0046
+DEV-0497,C,EAST,27.8,395.2,2,0,CN,苏州市,苏州市清禾路166号1号楼,215000,郑思远,zheng.siyuan@sz.huachen-service.invalid,+8615095302828,HC-E0053,售后服务部,现场工程师,SC-2026-CN-0042
+DEV-0962,B,EAST,12.8,203.8,2,0,DE,Leipzig,"Lindenwerkstrasse 13, Halle 2, Leipzig",04103,Sabine Klein,sabine.klein@dewei-service.invalid,+4915769297452,DW-E0062,Production Engineering,Process Engineer,SC-2026-DE-0081
+DEV-0150,B,EAST,18.9,255.7,0,0,CN,杭州市,杭州市云杉路179号6号楼,310000,沈浩然,haoran.shen@huachen-service.invalid,+8615826230672,HC-E0118,生产技术部,生产技术员,SC-2026-CN-0013
+DEV-0473,A,EAST,20.7,362.1,1,0,CN,苏州市,苏州市锦澜路142号1号楼,215000,郑磊,lei.zheng@sz.huachen-service.invalid,+8615066937047,HC-E0033,设备运维部,设备工程师,SC-2026-CN-0040
+DEV-0213,B,EAST,21.1,456.5,1,0,CN,苏州市,苏州市云杉路62号5号楼,215000,陈书瑶,s.chen42@huachen-service.invalid,+8615063739635,HC-E0105,生产技术部,生产技术员,SC-2026-CN-0018
+DEV-0391,B,EAST,17.2,488.1,2,1,CN,无锡市,无锡市云杉路60号7号楼,214000,何浩然,haoran.he@huachen-service.invalid,+8615025606551,HC-E0019,设备运维部,设备主管,SC-2026-CN-0033
+DEV-0047,A,EAST,25.5,521.5,6,0,CN,无锡市,,214000,黄志强,zhiqiang.huang@huachen-service.invalid,+8613824154866,HC-E0035,设备运维部,运维技术员,SC-2026-CN-0004
+DEV-0883,A,EAST,13.3,313.3,1,0,CN,无锡市,无锡市清禾路192号3号楼,214000,张晓梅,xiaomei.zhang@huachen-service.invalid,+8613952749208,HC-E0047,设备运维部,设备工程师,SC-2026-CN-0074
+DEV-0533,C,EAST,17.0,238.4,0,0,CN,苏州市,苏州市云杉路202号5号楼,215000,王志强,wang.zhiqiang@huachen-service.invalid,+8613835517254,HC-E0119,售后服务部,现场工程师,SC-2026-CN-0045
+DEV-0825,C,EAST,19.1,307.9,2,0,CN,苏州市,苏州市锦澜路134号1号楼,215000,何子涵,he_zihan@huachen-service.invalid,+8615885871331,HC-E0009,设备运维部,设备工程师,SC-2026-CN-0069
+DEV-0520,C,EAST,16.1,504.0,6,1,CN,宁波市,宁波市云杉路189号8号楼,315000,罗嘉怡,jiayi.luo@huachen-service.invalid,+8615894759537,HC-E0076,售后服务部,现场工程师,SC-2026-CN-0044
+DEV-0925,C,EAST,12.3,364.4,2,1,CN,苏州市,苏州市星浦路54号5号楼,215000,沈文昊,shen.wenhao@huachen-service.invalid,+8613955899872,HC-E0081,设备运维部,设备工程师,SC-2026-CN-0078
+DEV-0845,B,EAST,14.2,308.7,1,0,CN,苏州市,苏州市星浦路154号5号楼,215000,何子涵,he_zihan@huachen-service.invalid,+8615885871331,HC-E0009,设备运维部,设备工程师,SC-2026-CN-0071
+DEV-0979,C,EAST,15.0,348.0,5,0,CN,无锡市,无锡市清禾路108号3号楼,214000,徐颖,y.xu11@huachen-service.invalid,+8618680380001,HC-E0059,售后服务部,服务协调员,SC-2026-CN-0082
+DEV-0159,C,EAST,29.1,207.7,0,0,CN,无锡市,无锡市星浦路188号7号楼,214000,何伟,wei.he@huachen-service.invalid,+8613947941770,HC-E0007,设备运维部,运维技术员,SC-2026-CN-0014
+DEV-0551,A,EAST,29.5,228.0,3,0,CN,无锡市,无锡市云杉路40号7号楼,214000,张晓梅,xiaomei.zhang@huachen-service.invalid,+8613952749208,HC-E0047,设备运维部,设备工程师,SC-2026-CN-0046
+DEV-0890,C,EAST,10.6,498.9,0,0,DE,Leipzig,"Birkenhofstrasse 101, Halle 2, Leipzig",04103,Clara Klein,cklein@dewei-service.invalid,+4915721197031,DW-E0007,Plant Operations,Maintenance Technician,SC-2026-DE-0075
+DEV-0739,C,EAST,20.1,213.1,1,0,CN,无锡市,无锡市清禾路48号3号楼,214000,张晓梅,xiaomei.zhang@huachen-service.invalid,+8613952749208,HC-E0047,设备运维部,设备工程师,SC-2026-CN-0062
+DEV-0439,A,EAST,20.9,387.6,3,0,CN,无锡市,无锡市云杉路108号7号楼,214000,许伟,wxu@huachen-service.invalid,+8618678875780,HC-E0099,设备运维部,设备工程师,SC-2026-CN-0037
+DEV-0893,B,EAST,15.3,273.3,2,0,CN,苏州市,苏州市星浦路202号5号楼,215000,林雨桐,yutong.lin@huachen-service.invalid,+8618944944335,HC-E0020,售后服务部,现场工程师,SC-2026-CN-0075
+DEV-0018,A,EAST,18.8,703.5,6,0,CN,杭州市,杭州市清禾路47号2号楼,310000,孙晓梅,xsun@huachen-service.invalid,+8615071835140,HC-E0098,设备运维部,设备工程师,SC-2026-CN-0002
+DEV-0898,B,EAST,20.2,645.2,3,0,DE,Leipzig,"Lindenwerkstrasse 109, Halle 2, Leipzig",04103,Laura Neumann,l.neumann39@dewei-service.invalid,+4915146970791,DW-E0017,Plant Operations,Equipment Engineer,SC-2026-DE-0075
+DEV-0064,C,EAST,26.0,603.7,6,1,CN,宁波市,宁波市星浦路93号8号楼,315000,黄雨桐,huang_yutong@huachen-service.invalid,+8613898447296,HC-E0052,设备运维部,运维技术员,SC-2026-CN-0006
+DEV-0653,B,EAST,13.5,206.2,0,0,CN,苏州市,苏州市星浦路142号5号楼,215000,李志强,zhiqiang.li@sz.huachen-service.invalid,+8613826858295,HC-E0001,设备运维部,运维技术员,SC-2026-CN-0055
+DEV-0385,A,EAST,27.3,315.5,3,1,CN,苏州市,苏州市清禾路54号1号楼,215000,刘浩然,haoran.liu@sz.huachen-service.invalid,+8618970521141,HC-E0069,生产技术部,生产技术员,SC-2026-CN-0033
+DEV-0095,C,EAST,21.1,452.8,0,0,CN,无锡市,无锡市星浦路124号7号楼,214000,徐颖,y.xu11@huachen-service.invalid,+8618680380001,HC-E0059,售后服务部,服务协调员,SC-2026-CN-0008
+DEV-0759,C,EAST,21.8,343.9,3,0,CN,无锡市,无锡市云杉路68号7号楼,214000,何伟,wei.he@huachen-service.invalid,+8613947941770,HC-E0007,设备运维部,运维技术员,SC-2026-CN-0064
+DEV-0946,B,EAST,13.9,645.6,4,1,DE,Leipzig,"Lindenwerkstrasse 157, Halle 2, Leipzig",04103,Felix Koch,felix.koch@dewei-service.invalid,+4917620819239,DW-E0042,Production Engineering,Process Engineer,SC-2026-DE-0079
+DEV-0513,B,EAST,25.6,398.7,0,0,CN,苏州市,苏州市清禾路182号1号楼,215000,李明轩,mli@huachen-service.invalid,+8613954555454,HC-E0091,生产技术部,生产技术员,SC-2026-CN-0043
+DEV-0184,B,EAST,25.1,608.5,4,0,CN,宁波市,宁波市云杉路33号8号楼,315000,赵晓梅,xzhao@huachen-service.invalid,+8657483332612,HC-E0092,售后服务部,现场工程师,SC-2026-CN-0016
+DEV-0665,C,EAST,15.1,522.6,1,0,CN,苏州市,苏州市锦澜路154号1号楼,215000,张建国,j.zhang51@huachen-service.invalid,+8613953291090,HC-E0037,生产技术部,生产技术员,SC-2026-CN-0056
+DEV-0396,C,EAST,25.2,617.6,2,1,CN,宁波市,宁波市锦澜路65号4号楼,315000,林志强,lin.zhiqiang@huachen-service.invalid,+8613828465423,HC-E0096,设备运维部,运维技术员,SC-2026-CN-0033
+DEV-0017,B,EAST,21.3,330.0,2,0,CN,苏州市,苏州市清禾路46号1号楼,215000,黄嘉怡,huang.jiayi@huachen-service.invalid,+8615054589231,HC-E0101,售后服务部,现场工程师,SC-2026-CN-0002
+DEV-0777,B,EAST,20.0,385.8,4,1,CN,苏州市,苏州市锦澜路86号1号楼,215000,赵文昊,wenhao.zhao@hz.huachen-service.invalid,+8615870776981,HC-E0002,设备运维部,运维技术员,SC-2026-CN-0065
+DEV-0719,B,EAST,30.7,331.8,5,0,CN,无锡市,无锡市星浦路208号7号楼,214000,何浩然,haoran.he@huachen-service.invalid,+8615025606551,HC-E0019,设备运维部,设备主管,SC-2026-CN-0060
+DEV-0121,C,EAST,24.5,353.1,0,1,CN,苏州市,苏州市锦澜路150号1号楼,215000,李志强,zhiqiang.li@sz.huachen-service.invalid,+8613826858295,HC-E0001,设备运维部,运维技术员,SC-2026-CN-0011
+DEV-0165,C,EAST,25.3,273.8,3,0,CN,苏州市,苏州市云杉路194号5号楼,215000,孙若宁,ruoning.sun@huachen-service.invalid,+8618682204267,HC-E0045,生产技术部,工艺工程师,SC-2026-CN-0014
+DEV-0199,B,EAST,22.3,233.4,2,0,CN,无锡市,无锡市云杉路48号7号楼,214000,陈敏,min.chen@huachen-service.invalid,+8615091721122,HC-E0087,设备运维部,设备工程师,SC-2026-CN-0017
+DEV-0822,A,EAST,18.1,318.1,2,0,DE,Leipzig,"Sonnenparkweg 33, Halle 6, Leipzig",04103,Lukas Schulz,lukas.schulz@dewei-service.invalid,+4915257218389,DW-E0050,Plant Operations,Maintenance Technician,SC-2026-DE-0069
+DEV-0826,C,EAST,11.0,424.4,3,1,DE,Leipzig,"Birkenhofstrasse 37, Halle 2, Leipzig",04103,Lukas Becker,becker.lukas@dewei-service.invalid,+4915297893652,DW-E0086,Plant Operations,Maintenance Technician,SC-2026-DE-0069
+DEV-0660,A,SOUTH,16.7,509.8,3,0,DE,Stuttgart,"Lindenwerkstrasse 31, Halle 4, Stuttgart",70173,Felix Wagner,wagner_felix@dewei-service.invalid,+4916080137529,DW-E0116,Plant Operations,Equipment Engineer,SC-2026-DE-0055
+DEV-0420,C,EAST,26.6,273.9,1,0,CN,宁波市,宁波市清禾路89号4号楼,315000,张浩然,haoran.zhang@huachen-service.invalid,+8613827397940,HC-E0055,售后服务部,现场工程师,SC-2026-CN-0035
+DEV-0210,C,EAST,17.2,433.0,5,0,CN,杭州市,杭州市清禾路59号2号楼,310000,李志强,li_zhiqiang@huachen-service.invalid,+8615830907487,HC-E0120,生产技术部,工艺工程师,SC-2026-CN-0018
+DEV-0568,B,EAST,18.2,310.0,2,0,CN,宁波市,宁波市云杉路57号8号楼,315000,张嘉怡,jzhang@huachen-service.invalid,+8615831550435,HC-E0072,生产技术部,生产技术员,SC-2026-CN-0048
+DEV-0307,C,EAST,20.0,247.4,0,1,CN,无锡市,无锡市清禾路156号3号楼,214000,王雨桐,yutong.wang@huachen-service.invalid,+8615852375845,HC-E0063,售后服务部,现场工程师,SC-2026-CN-0026
+DEV-0161,A,EAST,33.2,537.9,3,1,CN,苏州市,苏州市清禾路190号1号楼,215000,刘磊,liu.lei@huachen-service.invalid,+8651221912742,HC-E0057,售后服务部,现场工程师,SC-2026-CN-0014
+DEV-0118,C,EAST,22.8,517.7,2,0,CN,杭州市,杭州市云杉路147号6号楼,310000,赵文昊,wenhao.zhao@hz.huachen-service.invalid,+8615870776981,HC-E0002,设备运维部,运维技术员,SC-2026-CN-0010
+DEV-0776,B,SOUTH,19.5,482.8,3,1,DE,Stuttgart,"Sonnenparkweg 147, Halle 8, Stuttgart",70173,Stefan Schulz,stefan.schulz@st.dewei-service.invalid,+4916052978300,DW-E0100,Field Service,Field Engineer,SC-2026-DE-0065
+DEV-0579,C,EAST,24.7,393.7,5,0,CN,无锡市,无锡市清禾路68号3号楼,214000,李涛,t.li25@huachen-service.invalid,+8651060731683,HC-E0111,设备运维部,运维技术员,SC-2026-CN-0049
+DEV-0998,C,EAST,21.7,433.1,1,0,DE,Leipzig,"Sonnenparkweg 49, Halle 6, Leipzig",04103,Julia Richter,jrichter@dewei-service.invalid,+493413404895,DW-E0038,Production Engineering,Production Technician,SC-2026-DE-0084
+DEV-0860,A,SOUTH,15.6,308.9,1,0,DE,Stuttgart,"Birkenhofstrasse 71, Halle 4, Stuttgart",70173,Maximilian Schmidt,maximilian.schmidt@dewei-service.invalid,+4915249625949,DW-E0024,Plant Operations,Equipment Engineer,SC-2026-DE-0072
+DEV-0941,C,EAST,11.5,173.7,3,0,CN,苏州市,苏州市星浦路70号5号楼,215000,郑思远,zheng.siyuan@sz.huachen-service.invalid,+8615095302828,HC-E0053,售后服务部,现场工程师,SC-2026-CN-0079
+DEV-0402,C,EAST,23.4,287.1,3,0,CN,杭州市,杭州市清禾路71号2号楼,310000,刘涛,tao.liu@huachen-service.invalid,+8657199620173,HC-E0106,设备运维部,设备主管,SC-2026-CN-0034
+DEV-0204,C,EAST,21.0,360.3,2,1,CN,宁波市,宁波市锦澜路53号4号楼,315000,高志强,gao.zhiqiang@nb.huachen-service.invalid,+8613996831648,HC-E0048,设备运维部,运维技术员,SC-2026-CN-0017
+DEV-0028,B,EAST,25.3,281.8,5,1,CN,宁波市,宁波市锦澜路57号4号楼,315000,高书瑶,shuyao.gao@huachen-service.invalid,+8657477413474,HC-E0044,生产技术部,生产技术员,SC-2026-CN-0003
+DEV-0658,B,EAST,18.8,737.8,5,1,DE,Leipzig,"Lindenwerkstrasse 29, Halle 2, Leipzig",04103,Thomas Schroeder,t.schroeder39@dewei-service.invalid,+4916086582565,DW-E0010,Production Engineering,Process Engineer,SC-2026-DE-0055
+DEV-0413,B,EAST,22.4,733.7,2,0,CN,苏州市,苏州市星浦路82号5号楼,215000,李志强,zhiqiang.li@sz.huachen-service.invalid,+8613826858295,HC-E0001,设备运维部,运维技术员,SC-2026-CN-0035
+DEV-0352,A,EAST,24.7,265.4,1,0,CN,宁波市,宁波市星浦路201号8号楼,315000,赵敏,min.zhao@huachen-service.invalid,+8613986538771,HC-E0028,生产技术部,生产技术员,SC-2026-CN-0030
+DEV-0726,A,EAST,18.6,213.8,2,0,DE,Leipzig,"Sonnenparkweg 97, Halle 6, Leipzig",04103,Clara Richter,crichter@le.dewei-service.invalid,+4915787025825,DW-E0074,Plant Operations,Maintenance Technician,SC-2026-DE-0061
+DEV-0066,A,EAST,21.6,586.3,4,0,CN,杭州市,杭州市清禾路95号2号楼,310000,郑浩然,zheng_haoran@huachen-service.invalid,+8615093400636,HC-E0062,生产技术部,工艺工程师,SC-2026-CN-0006
+DEV-0448,B,EAST,30.0,611.0,3,1,CN,宁波市,宁波市星浦路117号8号楼,315000,郑欣悦,xinyue.zheng@nb.huachen-service.invalid,+8615888874262,HC-E0068,设备运维部,设备工程师,SC-2026-CN-0038
+DEV-0744,C,SOUTH,21.7,649.4,2,0,DE,Stuttgart,"Sonnenparkweg 115, Halle 8, Stuttgart",70173,Marie Wolf,m.wolf43@dewei-service.invalid,+4915158349437,DW-E0016,Production Engineering,Production Technician,SC-2026-DE-0062
+DEV-0872,A,SOUTH,19.9,489.7,0,1,DE,Stuttgart,"Sonnenparkweg 83, Halle 8, Stuttgart",70173,Anna Schroeder,anna.schroeder@dewei-service.invalid,+4915169058366,DW-E0028,Field Service,Field Engineer,SC-2026-DE-0073
+DEV-0600,A,EAST,26.8,227.0,4,0,CN,宁波市,宁波市云杉路89号8号楼,315000,李晓梅,xiaomei.li@huachen-service.invalid,+8615833090873,HC-E0012,生产技术部,生产技术员,SC-2026-CN-0050
+DEV-0451,A,EAST,17.2,226.3,1,0,CN,无锡市,无锡市清禾路120号3号楼,214000,何伟,wei.he@huachen-service.invalid,+8613947941770,HC-E0007,设备运维部,运维技术员,SC-2026-CN-0038
+DEV-0853,A,EAST,19.2,646.9,1,0,CN,苏州市,苏州市云杉路162号5号楼,215000,周建国,j.zhou4@huachen-service.invalid,+8613820054584,HC-E0089,设备运维部,设备工程师,SC-2026-CN-0072
+DEV-0780,A,SOUTH,15.9,327.8,4,0,DE,Stuttgart,"Birkenhofstrasse 151, Halle 4, Stuttgart",70173,Sabine Mueller,s.mueller31@dewei-service.invalid,+4916026792679,DW-E0104,Field Service,Field Engineer,SC-2026-DE-0065
+DEV-0206,C,EAST,11.3,531.8,6,0,CN,杭州市,杭州市星浦路55号6号楼,310000,王晓梅,xwang@hz.huachen-service.invalid,+8618646067204,HC-E0070,生产技术部,工艺工程师,SC-2026-CN-0018
+DEV-0753,B,EAST,11.1,459.6,3,0,CN,苏州市,苏州市清禾路62号1号楼,215000,刘书瑶,shuyao.liu@huachen-service.invalid,+8618670826592,HC-E0085,设备运维部,设备工程师,SC-2026-CN-0063
+DEV-0383,A,EAST,19.4,220.0,3,0,CN,无锡市,无锡市星浦路52号7号楼,214000,李颖,ying.li@huachen-service.invalid,+8618989540727,HC-E0027,设备运维部,设备工程师,SC-2026-CN-0032
+DEV-0518,A,EAST,33.5,291.3,1,0,CN,杭州市,杭州市云杉路187号6号楼,310000,赵欣悦,xinyue.zhao@hz.huachen-service.invalid,+8615883440162,HC-E0114,设备运维部,运维技术员,SC-2026-CN-0044
+DEV-0646,C,EAST,15.3,267.7,1,1,DE,Leipzig,"Sonnenparkweg 17, Halle 6, Leipzig",04103,Johanna Schneider,johanna.schneider@dewei-service.invalid,+4916070027612,DW-E0094,Production Engineering,Process Engineer,SC-2026-DE-0054
+DEV-0279,C,EAST,23.6,632.9,4,0,CN,无锡市,无锡市云杉路128号7号楼,214000,何浩然,haoran.he@huachen-service.invalid,+8615025606551,HC-E0019,设备运维部,设备主管,SC-2026-CN-0024
+DEV-0324,C,EAST,16.7,587.1,5,0,CN,宁波市,宁波市清禾路173号4号楼,315000,许文昊,wenhao.xu@huachen-service.invalid,+8613823346237,HC-E0004,设备运维部,运维技术员,SC-2026-CN-0027
+DEV-0303,B,EAST,31.6,162.1,4,0,CN,无锡市,无锡市星浦路152号7号楼,214000,李颖,ying.li@huachen-service.invalid,+8618989540727,HC-E0027,设备运维部,设备工程师,SC-2026-CN-0026
+DEV-0668,C,SOUTH,8.5,316.4,1,0,DE,Stuttgart,"Birkenhofstrasse 39, Halle 4, Stuttgart",70173,Paul Schmidt,p.schmidt22@st.dewei-service.invalid,+497116045734,DW-E0068,Production Engineering,Process Engineer,SC-2026-DE-0056
+DEV-0755,A,EAST,21.2,632.0,1,1,CN,无锡市,无锡市清禾路64号3号楼,214000,徐颖,y.xu11@huachen-service.invalid,+8618680380001,HC-E0059,售后服务部,服务协调员,SC-2026-CN-0063
+DEV-0613,A,EAST,20.7,323.9,2,0,CN,苏州市,苏州市云杉路102号5号楼,215000,何子涵,he_zihan@huachen-service.invalid,+8615885871331,HC-E0009,设备运维部,设备工程师,SC-2026-CN-0052
+DEV-0811,C,EAST,17.5,397.5,4,0,CN,无锡市,无锡市锦澜路120号3号楼,214000,李涛,t.li25@huachen-service.invalid,+8651060731683,HC-E0111,设备运维部,运维技术员,SC-2026-CN-0068
+DEV-0848,C,SOUTH,23.2,589.5,2,0,DE,Stuttgart,"Wiesenfeldweg 59, Halle 8, Stuttgart",70173,Leon Wolf,leon.wolf@dewei-service.invalid,+497116148255,DW-E0048,Plant Operations,Equipment Engineer,SC-2026-DE-0071
+DEV-0458,C,EAST,30.8,541.8,1,1,CN,杭州市,杭州市锦澜路127号2号楼,310000,黄志强,zhiqiang.huang@huachen-service.invalid,+8613824154866,HC-E0035,设备运维部,运维技术员,SC-2026-CN-0039
+DEV-0477,C,EAST,13.0,216.9,0,0,CN,苏州市,苏州市星浦路146号5号楼,215000,沈嘉怡,jshen@huachen-service.invalid,+8618630698916,HC-E0061,设备运维部,运维技术员,SC-2026-CN-0040
+DEV-0229,B,EAST,22.9,583.8,0,0,CN,苏州市,苏州市云杉路78号5号楼,215000,吴思远,,+8657179874421,HC-E0026,设备运维部,设备主管,SC-2026-CN-0020
+DEV-0098,C,EAST,23.1,390.6,2,0,CN,杭州市,杭州市清禾路127号2号楼,310000,林文昊,lin_wenhao@huachen-service.invalid,+8657130938215,HC-E0058,设备运维部,设备主管,SC-2026-CN-0009
+DEV-0368,B,EAST,16.0,211.6,3,0,CN,宁波市,宁波市星浦路37号8号楼,315000,刘晓梅,liu.xiaomei@huachen-service.invalid,+8615079391175,HC-E0112,生产技术部,工艺工程师,SC-2026-CN-0031
+DEV-0804,A,SOUTH,23.5,304.2,1,1,DE,Stuttgart,"Lindenwerkstrasse 15, Halle 4, Stuttgart",70173,Marie Wolf,m.wolf43@dewei-service.invalid,+4915158349437,DW-E0016,Production Engineering,Production Technician,SC-2026-DE-0067
+DEV-0702,C,EAST,21.3,300.5,3,0,DE,Leipzig,"Wiesenfeldweg 73, Halle 6, Leipzig",04103,Lukas Schulz,lukas.schulz@dewei-service.invalid,+4915257218389,DW-E0050,Plant Operations,Maintenance Technician,SC-2026-DE-0059
+DEV-0255,C,EAST,18.6,428.3,1,1,CN,无锡市,,214000,李思远,siyuan.li@huachen-service.invalid,+8618940577225,HC-E0095,生产技术部,工艺工程师,SC-2026-CN-0022
+DEV-0851,C,EAST,11.4,609.4,4,1,CN,无锡市,无锡市清禾路160号3号楼,214000,黄建国,jianguo.huang@huachen-service.invalid,+8613831074111,HC-E0067,设备运维部,设备工程师,SC-2026-CN-0071
+DEV-0077,B,EAST,16.7,407.8,3,1,CN,苏州市,苏州市星浦路106号5号楼,215000,赵书瑶,shuyao.zhao@huachen-service.invalid,+8618669715320,HC-E0003,设备运维部,设备工程师,SC-2026-CN-0007
+DEV-0950,C,EAST,17.5,260.6,1,1,DE,Leipzig,"Sonnenparkweg 161, Halle 6, Leipzig",04103,Leon Wagner,leon.wagner@dewei-service.invalid,+493419056700,DW-E0054,Field Service,Field Engineer,SC-2026-DE-0080
+DEV-0548,A,EAST,18.9,420.5,3,0,CN,宁波市,宁波市清禾路37号4号楼,315000,高晓梅,x.gao64@huachen-service.invalid,+8615083179205,HC-E0088,设备运维部,设备主管,SC-2026-CN-0046
+DEV-0603,C,EAST,16.7,412.8,1,1,CN,无锡市,无锡市锦澜路92号3号楼,214000,徐颖,y.xu11@huachen-service.invalid,+8618680380001,HC-E0059,售后服务部,服务协调员,SC-2026-CN-0051
+DEV-0302,C,EAST,20.4,523.0,5,0,CN,杭州市,杭州市星浦路151号6号楼,310000,赵文昊,wenhao.zhao@hz.huachen-service.invalid,+8615870776981,HC-E0002,设备运维部,运维技术员,SC-2026-CN-0026
+DEV-0331,A,EAST,34.4,644.5,3,1,CN,无锡市,无锡市锦澜路180号3号楼,214000,林书瑶,shuyao.lin@huachen-service.invalid,+8613958053722,HC-E0071,设备运维部,设备主管,SC-2026-CN-0028
+DEV-0901,C,EAST,18.2,420.0,3,0,CN,苏州市,苏州市云杉路30号5号楼,215000,张志强,zhiqiang.zhang@huachen-service.invalid,+8613896716083,HC-E0113,设备运维部,运维技术员,SC-2026-CN-0076
+DEV-0957,B,EAST,15.2,420.6,1,0,CN,苏州市,苏州市星浦路86号5号楼,215000,刘浩然,haoran.liu@sz.huachen-service.invalid,+8618970521141,HC-E0069,生产技术部,生产技术员,SC-2026-CN-0080
+DEV-0567,C,EAST,25.7,224.7,2,0,CN,无锡市,无锡市云杉路56号7号楼,214000,黄建国,jianguo.huang@huachen-service.invalid,+8613831074111,HC-E0067,设备运维部,设备工程师,SC-2026-CN-0048
+DEV-0321,A,EAST,23.4,581.7,2,0,CN,苏州市,苏州市清禾路170号1号楼,215000,李晓梅,xiaomei.li@huachen-service.invalid,+8615833090873,HC-E0012,生产技术部,生产技术员,SC-2026-CN-0027
+DEV-0464,B,EAST,21.3,375.9,0,0,CN,宁波市,宁波市星浦路133号8号楼,315000,李志强,li_zhiqiang@huachen-service.invalid,+8615830907487,HC-E0120,生产技术部,工艺工程师,SC-2026-CN-0039
+DEV-0820,C,SOUTH,19.7,506.6,4,1,DE,Stuttgart,"Lindenwerkstrasse 31, Halle 4, Stuttgart",70173,Laura Mueller,laura.mueller@dewei-service.invalid,+4915265517273,DW-E0036,Field Service,Service Coordinator,SC-2026-DE-0069
+DEV-0881,C,EAST,16.1,215.2,3,0,CN,苏州市,苏州市清禾路190号1号楼,215000,周建国,j.zhou4@huachen-service.invalid,+8613820054584,HC-E0089,设备运维部,设备工程师,SC-2026-CN-0074
+DEV-0722,B,EAST,12.3,525.4,0,0,DE,Leipzig,"Lindenwerkstrasse 93, Halle 2, Leipzig",04103,Daniel Wagner,daniel.wagner@dewei-service.invalid,+4916088485585,DW-E0014,Plant Operations,Equipment Engineer,SC-2026-DE-0061
+DEV-0189,A,EAST,26.1,396.6,4,1,CN,苏州市,苏州市星浦路38号5号楼,215000,孙若宁,ruoning.sun@huachen-service.invalid,+8618682204267,HC-E0045,生产技术部,工艺工程师,SC-2026-CN-0016
+DEV-0553,A,EAST,19.0,266.7,0,0,CN,苏州市,苏州市锦澜路42号1号楼,215000,刘颖,ying.liu@huachen-service.invalid,+8618653616276,HC-E0032,生产技术部,生产技术员,SC-2026-CN-0047
+DEV-0863,A,EAST,15.6,379.1,2,0,CN,无锡市,无锡市星浦路172号7号楼,214000,赵书瑶,shuyao.zhao@huachen-service.invalid,+8618669715320,HC-E0003,设备运维部,设备工程师,SC-2026-CN-0072
+DEV-0167,B,EAST,16.7,330.4,4,0,CN,无锡市,无锡市云杉路196号7号楼,214000,李颖,ying.li@huachen-service.invalid,+8618989540727,HC-E0027,设备运维部,设备工程师,SC-2026-CN-0014
+DEV-0269,C,EAST,23.7,236.2,1,0,CN,苏州市,苏州市星浦路118号5号楼,215000,郑磊,lei.zheng@sz.huachen-service.invalid,+8615066937047,HC-E0033,设备运维部,设备工程师,SC-2026-CN-0023
+DEV-0587,A,EAST,23.2,535.9,4,0,CN,无锡市,无锡市锦澜路76号3号楼,214000,周思远,zhou.siyuan@huachen-service.invalid,+8613896687963,HC-E0079,设备运维部,设备工程师,SC-2026-CN-0049
+DEV-0858,A,EAST,12.7,210.2,1,0,DE,Leipzig,"Birkenhofstrasse 69, Halle 2, Leipzig",04103,Johanna Schneider,johanna.schneider@dewei-service.invalid,+4916070027612,DW-E0094,Production Engineering,Process Engineer,SC-2026-DE-0072
+DEV-0687,C,EAST,21.4,564.8,4,0,CN,无锡市,无锡市星浦路176号7号楼,214000,许磊,lei.xu@huachen-service.invalid,+8651092622802,HC-E0075,设备运维部,设备工程师,SC-2026-CN-0058
+DEV-0742,C,EAST,19.5,459.9,2,0,DE,Leipzig,"Sonnenparkweg 113, Halle 6, Leipzig",04103,Daniel Schmidt,dschmidt@dewei-service.invalid,+493412875259,DW-E0006,Plant Operations,Maintenance Technician,SC-2026-DE-0062
+DEV-0846,A,EAST,23.4,298.7,3,0,DE,Leipzig,"Wiesenfeldweg 57, Halle 6, Leipzig",04103,Leon Wagner,leon.wagner@dewei-service.invalid,+493419056700,DW-E0054,Field Service,Field Engineer,SC-2026-DE-0071
+DEV-0139,C,EAST,20.4,312.5,1,1,CN,无锡市,无锡市锦澜路168号3号楼,214000,林伟,lin.wei@huachen-service.invalid,+8618978929290,HC-E0103,售后服务部,服务协调员,SC-2026-CN-0012
+DEV-0450,C,EAST,23.0,352.4,3,0,CN,杭州市,杭州市清禾路119号2号楼,310000,徐欣悦,xxu@huachen-service.invalid,+8618996692523,HC-E0030,设备运维部,设备主管,SC-2026-CN-0038
+DEV-0803,C,EAST,10.9,301.9,3,0,CN,无锡市,无锡市清禾路112号3号楼,214000,黄志强,zhiqiang.huang@huachen-service.invalid,+8613824154866,HC-E0035,设备运维部,运维技术员,SC-2026-CN-0067
+DEV-0996,A,SOUTH,13.2,343.3,5,0,DE,Stuttgart,"Lindenwerkstrasse 47, Halle 4, Stuttgart",70173,Anna Schroeder,anna.schroeder@dewei-service.invalid,+4915169058366,DW-E0028,Field Service,Field Engineer,SC-2026-DE-0083
+DEV-0831,B,EAST,12.8,387.5,1,0,CN,无锡市,无锡市星浦路140号7号楼,214000,高书瑶,shuyao.gao@huachen-service.invalid,+8657477413474,HC-E0044,生产技术部,生产技术员,SC-2026-CN-0070
+DEV-0084,A,EAST,32.9,289.1,1,0,CN,宁波市,宁波市清禾路113号4号楼,315000,赵敏,min.zhao@huachen-service.invalid,+8613986538771,HC-E0028,生产技术部,生产技术员,SC-2026-CN-0007
+DEV-0183,B,EAST,20.4,296.2,2,0,CN,无锡市,无锡市云杉路32号7号楼,214000,黄欣悦,xhuang@huachen-service.invalid,+8615042399789,HC-E0023,设备运维部,运维技术员,SC-2026-CN-0016
+DEV-0015,A,EAST,25.0,526.8,1,0,CN,无锡市,无锡市星浦路44号7号楼,214000,徐颖,y.xu11@huachen-service.invalid,+8618680380001,HC-E0059,售后服务部,服务协调员,SC-2026-CN-0002
+DEV-0932,A,SOUTH,19.6,334.5,3,0,DE,Stuttgart,"Lindenwerkstrasse 143, Halle 4, Stuttgart",70173,Lukas Zimmermann,zimmermann.lukas@dewei-service.invalid,+497119306911,DW-E0084,Plant Operations,Maintenance Technician,SC-2026-DE-0078
+DEV-0275,B,EAST,24.0,714.4,4,0,CN,无锡市,无锡市清禾路124号3号楼,214000,黄志强,zhiqiang.huang@huachen-service.invalid,+8613824154866,HC-E0035,设备运维部,运维技术员,SC-2026-CN-0023
+DEV-0855,B,EAST,18.3,604.2,2,0,CN,无锡市,无锡市云杉路164号7号楼,214000,何浩然,haoran.he@huachen-service.invalid,+8615025606551,HC-E0019,设备运维部,设备主管,SC-2026-CN-0072
+DEV-0891,A,EAST,16.8,370.8,8,1,CN,无锡市,无锡市锦澜路200号3号楼,214000,张浩然,haoran.zhang@huachen-service.invalid,+8613827397940,HC-E0055,售后服务部,现场工程师,SC-2026-CN-0075
+DEV-0378,C,EAST,20.4,461.5,1,0,CN,杭州市,杭州市锦澜路47号2号楼,310000,张磊,lei.zhang@hz.huachen-service.invalid,+8615897575939,HC-E0018,售后服务部,现场工程师,SC-2026-CN-0032
+DEV-0628,A,SOUTH,12.2,576.4,1,0,DE,Stuttgart,"Lindenwerkstrasse 159, Halle 4, Stuttgart",70173,Michael Hartmann,mhartmann@dewei-service.invalid,+4917663048940,DW-E0076,Field Service,Field Engineer,SC-2026-DE-0053
+DEV-0552,A,EAST,24.6,563.8,2,0,CN,宁波市,宁波市云杉路41号8号楼,315000,陈磊,lei.chen@huachen-service.invalid,+8615851623043,HC-E0108,设备运维部,运维技术员,SC-2026-CN-0046
+DEV-0277,B,EAST,26.1,414.5,1,0,CN,苏州市,苏州市云杉路126号5号楼,215000,沈嘉怡,jshen@huachen-service.invalid,+8618630698916,HC-E0061,设备运维部,运维技术员,SC-2026-CN-0024
+DEV-0919,C,EAST,16.5,291.5,0,0,CN,无锡市,无锡市云杉路48号7号楼,214000,陈敏,min.chen@huachen-service.invalid,+8615091721122,HC-E0087,设备运维部,设备工程师,SC-2026-CN-0077
+DEV-0631,B,EAST,14.3,179.5,5,0,CN,无锡市,无锡市云杉路120号7号楼,214000,林书瑶,shuyao.lin@huachen-service.invalid,+8613958053722,HC-E0071,设备运维部,设备主管,SC-2026-CN-0053
+DEV-0080,B,EAST,28.0,639.1,5,0,CN,宁波市,宁波市星浦路109号8号楼,315000,张思远,siyuan.zhang@nb.huachen-service.invalid,+8613953668537,HC-E0024,设备运维部,运维技术员,SC-2026-CN-0007
+DEV-0766,B,EAST,11.5,192.9,0,0,DE,Leipzig,"Wiesenfeldweg 137, Halle 6, Leipzig",04103,Daniel Wagner,daniel.wagner@dewei-service.invalid,+4916088485585,DW-E0014,Plant Operations,Equipment Engineer,SC-2026-DE-0064
+DEV-0844,A,SOUTH,20.9,646.2,3,0,DE,Stuttgart,"Birkenhofstrasse 55, Halle 4, Stuttgart",70173,Daniel Hoffmann,hoffmann.daniel@dewei-service.invalid,+4915731189716,DW-E0092,Field Service,Field Engineer,SC-2026-DE-0071
+DEV-0659,C,EAST,15.4,279.5,3,0,CN,无锡市,无锡市清禾路148号3号楼,214000,李颖,ying.li@huachen-service.invalid,+8618989540727,HC-E0027,设备运维部,设备工程师,SC-2026-CN-0055
+DEV-0244,A,EAST,23.1,340.1,4,0,CN,宁波市,宁波市清禾路93号4号楼,315000,刘颖,ying.liu@huachen-service.invalid,+8618653616276,HC-E0032,生产技术部,生产技术员,SC-2026-CN-0021
+DEV-0207,A,EAST,21.7,435.7,1,0,CN,无锡市,无锡市星浦路56号7号楼,214000,黄颖,huang_ying@huachen-service.invalid,+8618956756993,HC-E0115,设备运维部,设备主管,SC-2026-CN-0018
+DEV-0065,C,EAST,19.5,245.7,3,0,CN,苏州市,苏州市清禾路94号1号楼,215000,孙若宁,ruoning.sun@huachen-service.invalid,+8618682204267,HC-E0045,生产技术部,工艺工程师,SC-2026-CN-0006
+DEV-0364,B,EAST,23.7,192.1,4,0,CN,宁波市,宁波市锦澜路33号4号楼,315000,刘颖,,+8618653616276,HC-E0032,生产技术部,生产技术员,SC-2026-CN-0031
+DEV-0924,B,SOUTH,8.6,608.7,1,0,DE,Stuttgart,"Birkenhofstrasse 135, Halle 4, Stuttgart",70173,Anna Schroeder,anna.schroeder@dewei-service.invalid,+4915169058366,DW-E0028,Field Service,Field Engineer,SC-2026-DE-0077
+DEV-0310,B,EAST,23.5,557.9,3,1,CN,杭州市,杭州市云杉路159号6号楼,310000,周敏,mzhou2@huachen-service.invalid,+8618685855276,HC-E0110,生产技术部,生产技术员,SC-2026-CN-0026
+DEV-0276,B,EAST,21.1,533.5,6,0,CN,宁波市,宁波市清禾路125号4号楼,315000,黄雨桐,huang_yutong@huachen-service.invalid,+8613898447296,HC-E0052,设备运维部,运维技术员,SC-2026-CN-0023
+DEV-0390,A,EAST,21.2,231.1,2,0,CN,杭州市,杭州市云杉路59号6号楼,310000,孙晓梅,xsun@huachen-service.invalid,+8615071835140,HC-E0098,设备运维部,设备工程师,SC-2026-CN-0033
+DEV-0643,B,EAST,14.3,475.5,1,0,CN,无锡市,无锡市清禾路132号3号楼,214000,沈思远,siyuan.shen@huachen-service.invalid,+8618986710403,HC-E0039,设备运维部,运维技术员,SC-2026-CN-0054
+DEV-0544,B,EAST,19.2,171.3,2,1,CN,宁波市,宁波市星浦路33号8号楼,315000,林雨桐,yutong.lin@huachen-service.invalid,+8618944944335,HC-E0020,售后服务部,现场工程师,SC-2026-CN-0046
+DEV-0218,A,EAST,25.6,260.9,0,0,CN,杭州市,杭州市锦澜路67号2号楼,310000,郑嘉怡,j.zheng75@sz.huachen-service.invalid,+8615099679666,HC-E0013,设备运维部,设备主管,SC-2026-CN-0019
+DEV-0313,C,EAST,27.0,485.9,3,1,CN,苏州市,苏州市锦澜路162号1号楼,215000,王欣悦,xinyue.wang@huachen-service.invalid,+8615874221435,HC-E0077,设备运维部,运维技术员,SC-2026-CN-0027
+DEV-0983,C,EAST,18.1,516.5,2,1,CN,无锡市,无锡市云杉路112号7号楼,214000,林书瑶,shuyao.lin@huachen-service.invalid,+8613958053722,HC-E0071,设备运维部,设备主管,SC-2026-CN-0082
+DEV-0304,C,EAST,24.4,365.3,3,0,CN,宁波市,宁波市星浦路153号8号楼,315000,许晓梅,xiaomei.xu@huachen-service.invalid,+8613856068674,HC-E0084,设备运维部,设备主管,SC-2026-CN-0026
+DEV-0083,B,EAST,28.1,449.0,1,0,CN,无锡市,无锡市清禾路112号3号楼,214000,徐颖,y.xu11@huachen-service.invalid,+8618680380001,HC-E0059,售后服务部,服务协调员,SC-2026-CN-0007
+DEV-0415,A,EAST,22.8,225.2,2,0,CN,无锡市,无锡市星浦路84号7号楼,214000,赵书瑶,shuyao.zhao@huachen-service.invalid,+8618669715320,HC-E0003,设备运维部,设备工程师,SC-2026-CN-0035
+DEV-0429,B,EAST,22.8,521.5,3,0,CN,苏州市,苏州市星浦路98号5号楼,215000,周敏,mzhou2@huachen-service.invalid,+8618685855276,HC-E0110,生产技术部,生产技术员,SC-2026-CN-0036
+DEV-0380,A,EAST,22.3,291.9,3,0,CN,宁波市,宁波市锦澜路49号4号楼,315000,林建国,lin_jianguo@huachen-service.invalid,+8613954202130,HC-E0016,设备运维部,设备工程师,SC-2026-CN-0032
+DEV-0976,A,SOUTH,19.7,191.2,2,0,DE,Stuttgart,"Wiesenfeldweg 27, Halle 8, Stuttgart",70173,Leon Wolf,leon.wolf@dewei-service.invalid,+497116148255,DW-E0048,Plant Operations,Equipment Engineer,SC-2026-DE-0082
+DEV-0912,A,SOUTH,16.1,404.9,2,0,DE,Stuttgart,"Wiesenfeldweg 123, Halle 8, Stuttgart",70173,Laura Mueller,laura.mueller@dewei-service.invalid,+4915265517273,DW-E0036,Field Service,Service Coordinator,SC-2026-DE-0076
+DEV-0399,B,EAST,25.3,180.5,2,0,CN,无锡市,无锡市星浦路68号7号楼,214000,李思远,siyuan.li@huachen-service.invalid,+8618940577225,HC-E0095,生产技术部,工艺工程师,SC-2026-CN-0034
+DEV-0915,B,EAST,19.6,160.7,2,0,CN,无锡市,无锡市清禾路44号3号楼,214000,罗书瑶,luo_shuyao@huachen-service.invalid,+8613852480536,HC-E0107,生产技术部,工艺工程师,SC-2026-CN-0077
+DEV-0271,B,EAST,22.5,270.7,1,0,CN,无锡市,无锡市星浦路120号7号楼,214000,沈思远,siyuan.shen@huachen-service.invalid,+8618986710403,HC-E0039,设备运维部,运维技术员,SC-2026-CN-0023
+DEV-0298,A,EAST,17.9,518.0,2,1,CN,杭州市,杭州市锦澜路147号2号楼,310000,李嘉怡,li.jiayi@hz.huachen-service.invalid,+8615841889492,HC-E0050,售后服务部,现场工程师,SC-2026-CN-0025
+DEV-0614,B,EAST,14.6,368.1,1,0,DE,Leipzig,"Sonnenparkweg 145, Halle 6, Leipzig",04103,Lukas Becker,becker.lukas@dewei-service.invalid,+4915297893652,DW-E0086,Plant Operations,Maintenance Technician,SC-2026-DE-0052
+DEV-0792,A,SOUTH,15.1,247.7,1,0,DE,Stuttgart,"Sonnenparkweg 163, Halle 8, Stuttgart",70173,Clara Schulz,clara.schulz@dewei-service.invalid,+4915759271694,DW-E0008,Production Engineering,Production Technician,SC-2026-DE-0066
+DEV-0824,B,SOUTH,20.9,272.2,4,0,DE,Stuttgart,"Sonnenparkweg 35, Halle 8, Stuttgart",70173,Stefan Schneider,stefan.schneider@st.dewei-service.invalid,+4915233259016,DW-E0080,Plant Operations,Maintenance Technician,SC-2026-DE-0069
+DEV-0654,A,EAST,13.8,375.8,6,0,DE,Leipzig,"Wiesenfeldweg 25, Halle 6, Leipzig",04103,Lukas Becker,becker.lukas@dewei-service.invalid,+4915297893652,DW-E0086,Plant Operations,Maintenance Technician,SC-2026-DE-0055
+DEV-0480,C,EAST,23.8,260.3,4,1,CN,宁波市,宁波市星浦路149号8号楼,315000,陈浩然,chen_haoran@nb.huachen-service.invalid,+8657465903727,HC-E0056,生产技术部,工艺工程师,SC-2026-CN-0040
+DEV-0850,B,EAST,13.5,340.8,4,0,DE,Leipzig,"Lindenwerkstrasse 61, Halle 2, Leipzig",04103,Lukas Schulz,lukas.schulz@dewei-service.invalid,+4915257218389,DW-E0050,Plant Operations,Maintenance Technician,SC-2026-DE-0071
+DEV-0917,A,EAST,19.8,435.2,3,0,CN,苏州市,苏州市云杉路46号5号楼,215000,沈嘉怡,jshen@huachen-service.invalid,+8618630698916,HC-E0061,设备运维部,运维技术员,SC-2026-CN-0077
+DEV-0723,B,EAST,17.8,300.4,2,0,CN,无锡市,无锡市清禾路32号3号楼,214000,许磊,lei.xu@huachen-service.invalid,+8651092622802,HC-E0075,设备运维部,设备工程师,SC-2026-CN-0061
+DEV-0362,A,EAST,25.5,329.4,2,0,CN,杭州市,杭州市锦澜路31号2号楼,310000,林若宁,rlin@hz.huachen-service.invalid,+8618671769289,HC-E0094,售后服务部,服务协调员,SC-2026-CN-0031
+DEV-0289,B,EAST,32.8,359.7,2,0,CN,苏州市,苏州市清禾路138号1号楼,215000,罗欣悦,xluo@huachen-service.invalid,+8615092697656,HC-E0093,生产技术部,工艺工程师,SC-2026-CN-0025
+DEV-0680,A,SOUTH,21.8,250.0,4,1,DE,Stuttgart,"Sonnenparkweg 51, Halle 8, Stuttgart",70173,Felix Wagner,wagner_felix@dewei-service.invalid,+4916080137529,DW-E0116,Plant Operations,Equipment Engineer,SC-2026-DE-0057
+DEV-0607,B,EAST,16.0,513.0,3,0,CN,无锡市,无锡市星浦路96号7号楼,214000,许磊,lei.xu@huachen-service.invalid,+8651092622802,HC-E0075,设备运维部,设备工程师,SC-2026-CN-0051
+DEV-0254,C,EAST,22.0,324.1,2,1,CN,杭州市,杭州市星浦路103号6号楼,310000,周敏,mzhou2@huachen-service.invalid,+8618685855276,HC-E0110,生产技术部,生产技术员,SC-2026-CN-0022
+DEV-0875,B,EAST,15.9,419.9,1,0,CN,无锡市,无锡市锦澜路184号3号楼,214000,徐颖,y.xu11@huachen-service.invalid,+8618680380001,HC-E0059,售后服务部,服务协调员,SC-2026-CN-0073
+DEV-0076,A,EAST,21.8,334.3,3,1,CN,宁波市,宁波市锦澜路105号4号楼,315000,周雨桐,yzhou@nb.huachen-service.invalid,+8615079223726,HC-E0064,设备运维部,运维技术员,SC-2026-CN-0007
+DEV-0712,B,SOUTH,14.3,716.6,2,0,DE,Stuttgart,"Sonnenparkweg 83, Halle 8, Stuttgart",70173,Maximilian Schmidt,maximilian.schmidt@dewei-service.invalid,+4915249625949,DW-E0024,Plant Operations,Equipment Engineer,SC-2026-DE-0060
+DEV-0857,A,EAST,14.1,247.0,3,0,CN,苏州市,苏州市锦澜路166号1号楼,215000,王欣悦,xinyue.wang@huachen-service.invalid,+8615874221435,HC-E0077,设备运维部,运维技术员,SC-2026-CN-0072
+DEV-0227,A,EAST,25.9,532.8,3,0,CN,无锡市,无锡市清禾路76号3号楼,214000,王建国,jianguo.wang@huachen-service.invalid,+8618925907406,HC-E0043,设备运维部,设备工程师,SC-2026-CN-0019
+DEV-0720,B,SOUTH,14.8,464.2,2,0,DE,Stuttgart,"Wiesenfeldweg 91, Halle 8, Stuttgart",70173,Sabine Mueller,s.mueller31@dewei-service.invalid,+4916026792679,DW-E0104,Field Service,Field Engineer,SC-2026-DE-0060
+DEV-0539,B,EAST,20.0,297.6,2,0,CN,无锡市,无锡市锦澜路208号3号楼,214000,黄欣悦,xhuang@huachen-service.invalid,+8615042399789,HC-E0023,设备运维部,运维技术员,SC-2026-CN-0045
+DEV-0635,B,EAST,11.3,215.2,1,0,CN,无锡市,无锡市锦澜路124号3号楼,214000,王雨桐,yutong.wang@huachen-service.invalid,+8615852375845,HC-E0063,售后服务部,现场工程师,SC-2026-CN-0053
+DEV-0836,B,SOUTH,23.7,614.2,2,0,DE,Stuttgart,"Lindenwerkstrasse 47, Halle 4, Stuttgart",70173,Sabine Richter,richter_sabine@st.dewei-service.invalid,+4916064228654,DW-E0012,Production Engineering,Production Technician,SC-2026-DE-0070
+DEV-0292,C,EAST,19.5,226.6,2,0,CN,宁波市,,315000,刘颖,ying.liu@huachen-service.invalid,+8618653616276,HC-E0032,生产技术部,生产技术员,SC-2026-CN-0025
+DEV-0358,A,EAST,19.2,318.4,1,0,CN,杭州市,杭州市云杉路207号6号楼,310000,陈建国,jianguo.chen@huachen-service.invalid,+8618949226406,HC-E0078,设备运维部,运维技术员,SC-2026-CN-0030
+DEV-0984,C,SOUTH,14.0,473.1,5,0,DE,Stuttgart,"Sonnenparkweg 35, Halle 8, Stuttgart",70173,Maximilian Hoffmann,hoffmann.maximilian@dewei-service.invalid,+4917697722215,DW-E0120,Plant Operations,Maintenance Technician,SC-2026-DE-0082
+DEV-0655,B,EAST,20.4,205.1,1,0,CN,无锡市,无锡市星浦路144号7号楼,214000,周明轩,mzhou@huachen-service.invalid,+8613827234580,HC-E0011,售后服务部,现场工程师,SC-2026-CN-0055
+DEV-0624,B,SOUTH,20.4,206.3,3,0,DE,Stuttgart,"Wiesenfeldweg 155, Halle 8, Stuttgart",70173,Felix Braun,felix.braun@dewei-service.invalid,+4917698695861,DW-E0020,Plant Operations,Maintenance Technician,SC-2026-DE-0052
+DEV-0523,C,EAST,31.7,537.1,3,0,CN,无锡市,无锡市锦澜路192号3号楼,214000,何伟,wei.he@huachen-service.invalid,+8613947941770,HC-E0007,设备运维部,运维技术员,SC-2026-CN-0044
+DEV-0130,B,EAST,23.6,328.3,1,0,CN,杭州市,杭州市清禾路159号2号楼,310000,林静,j.lin69@hz.huachen-service.invalid,+8615038500032,HC-E0090,生产技术部,生产技术员,SC-2026-CN-0011
+DEV-0670,A,EAST,18.9,360.3,1,0,DE,Leipzig,"Wiesenfeldweg 41, Halle 6, Leipzig",04103,Maximilian Schmidt,maximilian.schmidt@dewei-service.invalid,+4915249625949,DW-E0024,Plant Operations,Equipment Engineer,SC-2026-DE-0056
+DEV-0674,B,EAST,16.2,316.8,2,0,DE,Leipzig,"Lindenwerkstrasse 45, Halle 2, Leipzig",04103,Maximilian Schroeder,schroeder.maximilian@dewei-service.invalid,+4915294393152,DW-E0058,Plant Operations,Equipment Engineer,SC-2026-DE-0057
+DEV-0287,B,EAST,24.6,178.6,5,0,CN,无锡市,无锡市星浦路136号7号楼,214000,高书瑶,shuyao.gao@huachen-service.invalid,+8657477413474,HC-E0044,生产技术部,生产技术员,SC-2026-CN-0024
+DEV-0830,A,EAST,12.0,243.1,0,0,DE,Leipzig,"Wiesenfeldweg 41, Halle 6, Leipzig",04103,Thomas Neumann,thomas.neumann@dewei-service.invalid,+4917680532759,DW-E0075,Production Engineering,Process Engineer,SC-2026-DE-0070
+DEV-0188,A,EAST,28.1,633.5,6,0,CN,宁波市,宁波市锦澜路37号4号楼,,陈浩然,chen_haoran@nb.huachen-service.invalid,+8657465903727,HC-E0056,生产技术部,工艺工程师,SC-2026-CN-0016
+DEV-0454,B,EAST,35.3,240.7,3,0,CN,杭州市,杭州市云杉路123号6号楼,310000,林静,j.lin69@hz.huachen-service.invalid,+8615038500032,HC-E0090,生产技术部,生产技术员,SC-2026-CN-0038
+DEV-0785,C,EAST,15.8,262.2,1,0,CN,苏州市,苏州市清禾路94号1号楼,215000,刘浩然,haoran.liu@sz.huachen-service.invalid,+8618970521141,HC-E0069,生产技术部,生产技术员,SC-2026-CN-0066
+DEV-0472,B,EAST,26.1,197.8,1,0,CN,宁波市,宁波市云杉路141号8号楼,315000,刘晓梅,liu.xiaomei@huachen-service.invalid,+8615079391175,HC-E0112,生产技术部,工艺工程师,SC-2026-CN-0040
+DEV-0245,A,EAST,17.8,351.0,2,0,CN,苏州市,苏州市云杉路94号5号楼,215000,李颖,ying.li@huachen-service.invalid,+8618989540727,HC-E0027,设备运维部,设备工程师,SC-2026-CN-0021
+DEV-0297,C,EAST,22.8,596.1,2,0,CN,苏州市,苏州市锦澜路146号1号楼,215000,何子涵,he_zihan@huachen-service.invalid,+8615885871331,HC-E0009,设备运维部,设备工程师,SC-2026-CN-0025
+DEV-0419,C,EAST,27.8,628.4,4,0,CN,无锡市,无锡市清禾路88号3号楼,214000,陈敏,min.chen@huachen-service.invalid,+8615091721122,HC-E0087,设备运维部,设备工程师,SC-2026-CN-0035
+DEV-0035,B,EAST,22.6,437.4,2,0,CN,无锡市,无锡市清禾路64号3号楼,214000,许磊,lei.xu@huachen-service.invalid,+8651092622802,HC-E0075,设备运维部,设备工程师,SC-2026-CN-0003
+DEV-0005,B,EAST,27.8,414.7,3,0,CN,苏州市,苏州市云杉路34号5号楼,215000,罗思远,luo.siyuan@huachen-service.invalid,+8615076453710,HC-E0049,生产技术部,工艺工程师,SC-2026-CN-0001
+DEV-0821,A,EAST,24.1,265.2,1,0,CN,苏州市,苏州市云杉路130号5号楼,215000,刘书瑶,shuyao.liu@huachen-service.invalid,+8618670826592,HC-E0085,设备运维部,设备工程师,SC-2026-CN-0069
+DEV-0763,C,EAST,14.2,350.4,4,0,CN,无锡市,无锡市锦澜路72号3号楼,214000,李建国,jli@hz.huachen-service.invalid,+8615092653467,HC-E0086,设备运维部,设备工程师,SC-2026-CN-0064
+DEV-0068,A,EAST,17.2,206.4,2,0,CN,宁波市,宁波市清禾路97号4号楼,315000,罗嘉怡,jiayi.luo@huachen-service.invalid,+8615894759537,HC-E0076,售后服务部,现场工程师,SC-2026-CN-0006
+DEV-0284,B,EAST,26.6,581.5,3,0,CN,宁波市,宁波市锦澜路133号4号楼,315000,张书瑶,zhang.shuyao@nb.huachen-service.invalid,+8618981845517,HC-E0080,生产技术部,生产技术员,SC-2026-CN-0024
+DEV-0641,B,EAST,15.7,265.1,1,0,CN,苏州市,苏州市清禾路130号1号楼,215000,沈嘉怡,jshen@huachen-service.invalid,+8618630698916,HC-E0061,设备运维部,运维技术员,SC-2026-CN-0054
+DEV-0122,C,EAST,29.4,489.2,0,0,CN,杭州市,杭州市锦澜路151号2号楼,310000,王若宁,ruoning.wang@huachen-service.invalid,+8618634677365,HC-E0014,设备运维部,设备工程师,SC-2026-CN-0011
+DEV-0734,B,EAST,15.1,238.1,1,1,DE,Leipzig,"Wiesenfeldweg 105, Halle 6, Leipzig",04103,Maximilian Becker,m.becker5@dewei-service.invalid,+493419004619,DW-E0114,Production Engineering,Production Technician,SC-2026-DE-0062
+DEV-0510,A,EAST,22.0,392.6,5,0,CN,杭州市,杭州市星浦路179号6号楼,310000,陈伟,chen.wei@huachen-service.invalid,+8613835344384,HC-E0066,设备运维部,设备主管,SC-2026-CN-0043
+DEV-0877,A,EAST,15.0,278.6,3,0,CN,苏州市,苏州市星浦路186号5号楼,215000,高文昊,wenhao.gao@huachen-service.invalid,+8615069468843,HC-E0065,设备运维部,设备工程师,SC-2026-CN-0074
+DEV-0453,B,EAST,16.5,503.0,5,0,CN,苏州市,苏州市云杉路122号5号楼,215000,黄嘉怡,huang.jiayi@huachen-service.invalid,+8615054589231,HC-E0101,售后服务部,现场工程师,SC-2026-CN-0038
+DEV-0389,B,EAST,20.0,620.5,4,0,CN,苏州市,苏州市云杉路58号5号楼,215000,罗欣悦,xluo@huachen-service.invalid,+8615092697656,HC-E0093,生产技术部,工艺工程师,SC-2026-CN-0033
+DEV-0761,A,EAST,19.4,510.6,2,0,CN,苏州市,苏州市锦澜路70号1号楼,215000,刘磊,liu.lei@huachen-service.invalid,+8651221912742,HC-E0057,售后服务部,现场工程师,SC-2026-CN-0064
+DEV-0377,C,EAST,29.3,387.8,3,0,CN,苏州市,苏州市锦澜路46号1号楼,215000,张志强,zhiqiang.zhang@huachen-service.invalid,+8613896716083,HC-E0113,设备运维部,运维技术员,SC-2026-CN-0032
+DEV-0995,C,EAST,14.7,199.6,1,0,CN,无锡市,无锡市清禾路124号3号楼,214000,罗书瑶,luo_shuyao@huachen-service.invalid,+8613852480536,HC-E0107,生产技术部,工艺工程师,SC-2026-CN-0083
+DEV-0079,A,EAST,22.0,286.4,0,0,CN,无锡市,无锡市星浦路108号7号楼,214000,许磊,lei.xu@huachen-service.invalid,+8651092622802,HC-E0075,设备运维部,设备工程师,SC-2026-CN-0007
+DEV-0146,C,EAST,16.3,234.0,2,0,CN,杭州市,杭州市清禾路175号2号楼,310000,王晓梅,xwang@hz.huachen-service.invalid,+8618646067204,HC-E0070,生产技术部,工艺工程师,SC-2026-CN-0013
+DEV-0677,B,EAST,19.0,406.5,5,1,CN,苏州市,苏州市云杉路166号5号楼,215000,郑磊,lei.zheng@sz.huachen-service.invalid,+8615066937047,HC-E0033,设备运维部,设备工程师,SC-2026-CN-0057
+DEV-0969,B,EAST,19.5,168.7,0,0,CN,苏州市,苏州市锦澜路98号1号楼,215000,刘书瑶,shuyao.liu@huachen-service.invalid,+8618670826592,HC-E0085,设备运维部,设备工程师,SC-2026-CN-0081
+DEV-0012,C,EAST,22.9,551.8,2,0,CN,宁波市,宁波市锦澜路41号4号楼,315000,许晓梅,xiaomei.xu@huachen-service.invalid,+8613856068674,HC-E0084,设备运维部,设备主管,SC-2026-CN-0001
+DEV-0981,A,EAST,13.8,361.5,2,0,CN,苏州市,苏州市云杉路110号5号楼,215000,罗磊,luo_lei@huachen-service.invalid,+8618967691818,HC-E0097,售后服务部,现场工程师,SC-2026-CN-0082
+DEV-0715,B,EAST,14.9,555.3,0,0,CN,无锡市,无锡市锦澜路204号3号楼,214000,黄颖,huang_ying@huachen-service.invalid,+8618956756993,HC-E0115,设备运维部,设备主管,SC-2026-CN-0060
+DEV-0634,A,EAST,12.9,578.3,4,0,DE,Leipzig,"Birkenhofstrasse 165, Halle 2, Leipzig",04103,Daniel Wagner,daniel.wagner@dewei-service.invalid,+4916088485585,DW-E0014,Plant Operations,Equipment Engineer,SC-2026-DE-0053
+DEV-0489,C,EAST,27.0,466.8,1,0,CN,苏州市,苏州市锦澜路158号1号楼,215000,高磊,lei.gao@sz.huachen-service.invalid,+8615823162680,HC-E0025,设备运维部,设备工程师,SC-2026-CN-0041
+DEV-0382,A,EAST,17.7,380.0,6,1,CN,杭州市,杭州市星浦路51号6号楼,,林明轩,lin.mingxuan@huachen-service.invalid,+8618641011506,HC-E0046,设备运维部,运维技术员,SC-2026-CN-0032
+DEV-0216,A,EAST,23.5,509.1,5,0,CN,宁波市,宁波市云杉路65号8号楼,315000,陈磊,lei.chen@huachen-service.invalid,+8615851623043,HC-E0108,设备运维部,运维技术员,SC-2026-CN-0018
+DEV-0986,A,EAST,19.3,207.7,2,0,DE,Leipzig,"Birkenhofstrasse 37, Halle 2, Leipzig",04103,Sabine Klein,sabine.klein@dewei-service.invalid,+4915769297452,DW-E0062,Production Engineering,Process Engineer,SC-2026-DE-0083
+DEV-0262,A,EAST,26.3,647.9,5,1,CN,杭州市,杭州市云杉路111号6号楼,310000,高建国,gao.jianguo@hz.huachen-service.invalid,+8613959395417,HC-E0022,售后服务部,现场工程师,SC-2026-CN-0022
+DEV-0918,B,EAST,8.9,280.5,0,0,DE,Leipzig,"Sonnenparkweg 129, Halle 6, Leipzig",04103,Thomas Schroeder,t.schroeder39@dewei-service.invalid,+4916086582565,DW-E0010,Production Engineering,Process Engineer,SC-2026-DE-0077
+DEV-0991,A,EAST,17.8,636.4,1,0,CN,无锡市,无锡市星浦路120号7号楼,214000,张浩然,haoran.zhang@huachen-service.invalid,+8613827397940,HC-E0055,售后服务部,现场工程师,SC-2026-CN-0083
+DEV-0160,A,EAST,23.5,178.3,1,0,CN,宁波市,宁波市星浦路189号8号楼,315000,高思远,gao.siyuan@huachen-service.invalid,+8618659442573,HC-E0031,设备运维部,设备工程师,SC-2026-CN-0014
+DEV-0119,A,EAST,25.8,249.5,1,0,CN,无锡市,无锡市云杉路148号7号楼,214000,陈敏,min.chen@huachen-service.invalid,+8615091721122,HC-E0087,设备运维部,设备工程师,SC-2026-CN-0010
+DEV-0294,A,EAST,26.9,506.8,5,1,CN,杭州市,杭州市云杉路143号6号楼,310000,沈浩然,haoran.shen@huachen-service.invalid,+8615826230672,HC-E0118,生产技术部,生产技术员,SC-2026-CN-0025
+DEV-0515,B,EAST,22.0,624.8,1,0,CN,无锡市,无锡市清禾路184号3号楼,214000,王志强,wang.zhiqiang@huachen-service.invalid,+8613835517254,HC-E0119,售后服务部,现场工程师,SC-2026-CN-0043
+DEV-0913,C,EAST,16.0,239.3,1,0,CN,苏州市,苏州市清禾路42号1号楼,215000,罗欣悦,xluo@huachen-service.invalid,+8615092697656,HC-E0093,生产技术部,工艺工程师,SC-2026-CN-0077
+DEV-0868,B,SOUTH,25.4,163.7,2,0,DE,Stuttgart,"Lindenwerkstrasse 79, Halle 4, Stuttgart",70173,Julia Braun,julia.braun@dewei-service.invalid,+4915197956895,DW-E0055,Field Service,Service Coordinator,SC-2026-DE-0073
+DEV-0462,C,EAST,26.3,419.4,5,1,CN,杭州市,杭州市星浦路131号6号楼,310000,刘涛,tao.liu@huachen-service.invalid,+8657199620173,HC-E0106,设备运维部,设备主管,SC-2026-CN-0039
+DEV-0046,B,EAST,27.0,331.8,3,0,CN,杭州市,杭州市星浦路75号6号楼,310000,沈浩然,haoran.shen@huachen-service.invalid,+8615826230672,HC-E0118,生产技术部,生产技术员,SC-2026-CN-0004
+DEV-0401,C,EAST,30.8,467.4,1,0,CN,苏州市,苏州市清禾路70号1号楼,215000,王伟,wei.wang@huachen-service.invalid,+8613841372844,HC-E0073,设备运维部,设备工程师,SC-2026-CN-0034
+DEV-0280,A,EAST,23.0,431.6,2,0,CN,宁波市,宁波市云杉路129号8号楼,315000,李志强,li_zhiqiang@huachen-service.invalid,+8615830907487,HC-E0120,生产技术部,工艺工程师,SC-2026-CN-0024
+DEV-0789,C,EAST,14.1,317.4,1,1,CN,苏州市,苏州市云杉路98号5号楼,215000,高磊,lei.gao@sz.huachen-service.invalid,+8615823162680,HC-E0025,设备运维部,设备工程师,SC-2026-CN-0066
+DEV-0061,B,EAST,21.0,272.4,1,0,CN,苏州市,苏州市星浦路90号5号楼,215000,郑磊,lei.zheng@sz.huachen-service.invalid,+8615066937047,HC-E0033,设备运维部,设备工程师,SC-2026-CN-0006
+DEV-0865,C,EAST,14.0,641.6,3,1,CN,苏州市,苏州市清禾路174号1号楼,215000,何子涵,he_zihan@huachen-service.invalid,+8615885871331,HC-E0009,设备运维部,设备工程师,SC-2026-CN-0073
+DEV-0583,B,EAST,29.5,0.0,0,1,CN,无锡市,无锡市云杉路72号7号楼,214000,赵书瑶,shuyao.zhao@huachen-service.invalid,+8618669715320,HC-E0003,设备运维部,设备工程师,SC-2026-CN-0049
+DEV-0885,A,EAST,14.2,317.0,2,0,CN,苏州市,苏州市云杉路194号5号楼,215000,刘书瑶,shuyao.liu@huachen-service.invalid,+8618670826592,HC-E0085,设备运维部,设备工程师,SC-2026-CN-0074
+DEV-0346,C,EAST,22.0,234.9,3,0,CN,杭州市,杭州市锦澜路195号2号楼,310000,林静,j.lin69@hz.huachen-service.invalid,+8615038500032,HC-E0090,生产技术部,生产技术员,SC-2026-CN-0029
+DEV-0486,A,EAST,23.5,643.9,3,0,CN,杭州市,杭州市云杉路155号6号楼,310000,赵欣悦,xinyue.zhao@hz.huachen-service.invalid,+8615883440162,HC-E0114,设备运维部,运维技术员,SC-2026-CN-0041
+DEV-0644,C,SOUTH,20.8,257.7,2,0,DE,Stuttgart,"Lindenwerkstrasse 15, Halle 4, Stuttgart",70173,Anna Schroeder,anna.schroeder@dewei-service.invalid,+4915169058366,DW-E0028,Field Service,Field Engineer,SC-2026-DE-0054
+DEV-0895,B,EAST,15.0,545.3,3,0,CN,无锡市,无锡市星浦路204号7号楼,214000,王志强,wang.zhiqiang@huachen-service.invalid,+8613835517254,HC-E0119,售后服务部,现场工程师,SC-2026-CN-0075
+DEV-0007,B,EAST,26.4,414.7,2,0,CN,无锡市,无锡市云杉路36号7号楼,214000,王建国,jianguo.wang@huachen-service.invalid,+8618925907406,HC-E0043,设备运维部,设备工程师,SC-2026-CN-0001
+DEV-0031,A,EAST,28.8,477.1,1,0,CN,无锡市,无锡市星浦路60号7号楼,214000,黄建国,jianguo.huang@huachen-service.invalid,+8613831074111,HC-E0067,设备运维部,设备工程师,SC-2026-CN-0003
+DEV-0423,C,EAST,27.0,543.9,4,0,CN,无锡市,无锡市云杉路92号7号楼,214000,黄志强,zhiqiang.huang@huachen-service.invalid,+8613824154866,HC-E0035,设备运维部,运维技术员,SC-2026-CN-0036
+DEV-0441,C,EAST,20.3,522.1,5,1,CN,苏州市,苏州市锦澜路110号1号楼,215000,沈嘉怡,jshen@huachen-service.invalid,+8618630698916,HC-E0061,设备运维部,运维技术员,SC-2026-CN-0037
+DEV-0427,C,EAST,27.1,416.1,0,0,CN,无锡市,无锡市锦澜路96号3号楼,214000,李明轩,mli@huachen-service.invalid,+8613954555454,HC-E0091,生产技术部,生产技术员,SC-2026-CN-0036
+DEV-0106,C,EAST,26.8,644.5,3,0,CN,杭州市,,310000,何晓梅,xiaomei.he@huachen-service.invalid,+8618943908593,HC-E0082,设备运维部,运维技术员,SC-2026-CN-0009
+DEV-0089,A,EAST,18.2,200.5,0,0,CN,苏州市,苏州市锦澜路118号1号楼,215000,张建国,j.zhang51@huachen-service.invalid,+8613953291090,HC-E0037,生产技术部,生产技术员,SC-2026-CN-0008
+DEV-0961,B,EAST,22.1,399.6,0,0,CN,苏州市,苏州市清禾路90号1号楼,215000,王明轩,wang_mingxuan@huachen-service.invalid,+8615857230544,HC-E0117,生产技术部,工艺工程师,SC-2026-CN-0081
+DEV-0212,C,EAST,21.6,603.8,7,1,CN,宁波市,宁波市清禾路61号4号楼,315000,周若宁,zhou_ruoning@huachen-service.invalid,+8613980066999,HC-E0040,设备运维部,设备工程师,SC-2026-CN-0018
+DEV-0131,A,EAST,23.4,555.6,2,0,CN,无锡市,无锡市清禾路160号3号楼,214000,徐颖,y.xu11@huachen-service.invalid,+8618680380001,HC-E0059,售后服务部,服务协调员,SC-2026-CN-0011
+DEV-0554,C,EAST,28.4,240.8,3,0,CN,杭州市,杭州市锦澜路43号2号楼,310000,林文昊,lin_wenhao@huachen-service.invalid,+8657130938215,HC-E0058,设备运维部,设备主管,SC-2026-CN-0047
+DEV-0503,B,EAST,17.6,310.9,3,0,CN,无锡市,无锡市云杉路172号7号楼,214000,周明轩,,+8613827234580,HC-E0011,售后服务部,现场工程师,SC-2026-CN-0042
+DEV-0157,A,EAST,16.4,648.8,3,0,CN,苏州市,苏州市星浦路186号5号楼,215000,李志强,zhiqiang.li@sz.huachen-service.invalid,+8613826858295,HC-E0001,设备运维部,运维技术员,SC-2026-CN-0014
+DEV-0797,C,EAST,18.6,298.7,1,0,CN,苏州市,苏州市星浦路106号5号楼,215000,高文昊,wenhao.gao@huachen-service.invalid,+8615069468843,HC-E0065,设备运维部,设备工程师,SC-2026-CN-0067
+DEV-0717,A,EAST,15.2,276.9,2,0,CN,苏州市,苏州市星浦路206号5号楼,215000,张建国,j.zhang51@huachen-service.invalid,+8613953291090,HC-E0037,生产技术部,生产技术员,SC-2026-CN-0060
+DEV-0468,B,EAST,19.2,339.2,2,1,CN,宁波市,宁波市清禾路137号4号楼,315000,林志强,lin.zhiqiang@huachen-service.invalid,+8613828465423,HC-E0096,设备运维部,运维技术员,SC-2026-CN-0039
+DEV-0601,B,EAST,14.4,414.7,5,0,CN,苏州市,苏州市锦澜路90号1号楼,215000,沈嘉怡,jshen@huachen-service.invalid,+8618630698916,HC-E0061,设备运维部,运维技术员,SC-2026-CN-0051
+DEV-0220,A,EAST,24.2,403.0,3,0,CN,宁波市,宁波市锦澜路69号4号楼,315000,许文昊,wenhao.xu@huachen-service.invalid,+8613823346237,HC-E0004,设备运维部,运维技术员,SC-2026-CN-0019
+DEV-0610,B,EAST,20.9,270.9,1,0,DE,Leipzig,"Lindenwerkstrasse 141, Halle 2, Leipzig",04103,Marie Becker,marie.becker@dewei-service.invalid,+493412943795,DW-E0102,Plant Operations,Equipment Engineer,SC-2026-DE-0051
+DEV-0882,A,EAST,13.6,537.3,4,0,DE,Leipzig,"Lindenwerkstrasse 93, Halle 2, Leipzig",04103,Paul Fischer,p.fischer72@dewei-service.invalid,+4915781377629,DW-E0090,Plant Operations,Maintenance Technician,SC-2026-DE-0074
+DEV-0793,B,EAST,11.4,312.1,1,0,CN,苏州市,苏州市锦澜路102号1号楼,215000,罗思远,luo.siyuan@huachen-service.invalid,+8615076453710,HC-E0049,生产技术部,工艺工程师,SC-2026-CN-0067
+DEV-0772,A,SOUTH,17.8,543.7,2,0,DE,Stuttgart,"Lindenwerkstrasse 143, Halle 4, Stuttgart",70173,Lukas Zimmermann,zimmermann.lukas@dewei-service.invalid,+497119306911,DW-E0084,Plant Operations,Maintenance Technician,SC-2026-DE-0065
+DEV-0125,A,EAST,27.9,181.8,3,0,CN,苏州市,苏州市星浦路154号5号楼,215000,王明轩,wang_mingxuan@huachen-service.invalid,+8615857230544,HC-E0117,生产技术部,工艺工程师,SC-2026-CN-0011
+DEV-0186,B,EAST,21.9,492.6,4,1,CN,杭州市,杭州市锦澜路35号2号楼,310000,高建国,gao.jianguo@hz.huachen-service.invalid,+8613959395417,HC-E0022,售后服务部,现场工程师,SC-2026-CN-0016
+DEV-0714,A,EAST,18.3,319.4,5,0,DE,Leipzig,"Birkenhofstrasse 85, Halle 2, Leipzig",04103,Marie Koch,koch_marie@dewei-service.invalid,+4915786848139,DW-E0066,Field Service,Field Engineer,SC-2026-DE-0060
+DEV-0113,C,EAST,19.2,564.7,0,0,CN,苏州市,苏州市清禾路142号1号楼,215000,刘浩然,haoran.liu@sz.huachen-service.invalid,+8618970521141,HC-E0069,生产技术部,生产技术员,SC-2026-CN-0010
+DEV-0112,C,EAST,18.9,414.9,1,0,CN,宁波市,宁波市星浦路141号8号楼,315000,赵晓梅,xzhao@huachen-service.invalid,+8657483332612,HC-E0092,售后服务部,现场工程师,SC-2026-CN-0010
+DEV-0834,A,EAST,18.9,616.3,4,1,DE,Leipzig,"Lindenwerkstrasse 45, Halle 2, Leipzig",04103,Sabine Weber,weber_sabine@le.dewei-service.invalid,+4915790191361,DW-E0022,Plant Operations,Maintenance Technician,SC-2026-DE-0070
+DEV-0970,C,EAST,20.4,573.3,5,0,DE,Leipzig,"Birkenhofstrasse 21, Halle 2, Leipzig",04103,Sabine Weber,weber_sabine@le.dewei-service.invalid,+4915790191361,DW-E0022,Plant Operations,Maintenance Technician,SC-2026-DE-0081
+DEV-0907,A,EAST,19.3,420.2,2,0,CN,无锡市,无锡市锦澜路36号3号楼,214000,李涛,t.li25@huachen-service.invalid,+8651060731683,HC-E0111,设备运维部,运维技术员,SC-2026-CN-0076
+DEV-0376,B,EAST,21.4,394.2,3,0,CN,宁波市,宁波市云杉路45号8号楼,315000,许文昊,wenhao.xu@huachen-service.invalid,+8613823346237,HC-E0004,设备运维部,运维技术员,SC-2026-CN-0032
+DEV-0873,B,EAST,9.8,185.5,0,0,CN,苏州市,苏州市锦澜路182号1号楼,215000,黄嘉怡,huang.jiayi@huachen-service.invalid,+8615054589231,HC-E0101,售后服务部,现场工程师,SC-2026-CN-0073
+DEV-0593,B,EAST,23.2,444.8,2,0,CN,苏州市,苏州市清禾路82号1号楼,215000,林伟,lin.wei@huachen-service.invalid,+8618978929290,HC-E0103,售后服务部,服务协调员,SC-2026-CN-0050
+DEV-0029,B,EAST,22.1,432.3,5,1,CN,苏州市,苏州市星浦路58号5号楼,215000,郑思远,zheng.siyuan@sz.huachen-service.invalid,+8615095302828,HC-E0053,售后服务部,现场工程师,SC-2026-CN-0003

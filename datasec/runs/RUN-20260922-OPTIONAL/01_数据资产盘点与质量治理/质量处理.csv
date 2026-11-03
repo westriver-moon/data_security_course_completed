@@ -1,0 +1,282 @@
+﻿来源表,原始行号,记录编号,字段,原值,处理后值,处理方式,是否待复核,处理原因,复核原因
+cn_devices.csv,0,DEV-0102,contact_phone,+86 (186) 72681826,+8618672681826,格式规范,否,规范已有内容的表示格式,
+cn_devices.csv,7,DEV-0149,site_address,,,保持原值,是,尚未修改，保持原值；具体问题见复核原因,值缺失或已剔除，需核实；不编造联系资料
+cn_devices.csv,33,DEV-0070,contact_phone,+49-call-me,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+cn_devices.csv,37,DEV-0249,temperature_c,,20.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+cn_devices.csv,49,DEV-0491,contact_phone,+49-call-me,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+cn_devices.csv,81,DEV-0490,contact_email,jianguo.chen[at]huachen-service.invalid,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+cn_devices.csv,89,DEV-0502,site_postcode,??,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+cn_devices.csv,94,DEV-0200,site_address,,,保持原值,是,尚未修改，保持原值；具体问题见复核原因,值缺失或已剔除，需核实；不编造联系资料
+cn_devices.csv,137,DEV-0711,ROW,DUPLICATE,REMOVED,删除重复行,否,去除完全相同的重复记录,
+cn_devices.csv,143,DEV-0282,contact_phone,+86 (158) 26230672,+8615826230672,格式规范,否,规范已有内容的表示格式,
+cn_devices.csv,145,DEV-0008,operating_hours,,413.3,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+cn_devices.csv,152,DEV-0367,contact_name,  赵书瑶  ,赵书瑶,格式规范,否,规范已有内容的表示格式,
+cn_devices.csv,156,DEV-0605,operating_hours,-inf,413.3,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+cn_devices.csv,163,DEV-0138,temperature_c,,20.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+cn_devices.csv,164,DEV-0043,contact_phone,+86 (158) 52375845,+8615852375845,格式规范,否,规范已有内容的表示格式,
+cn_devices.csv,165,DEV-0522,operating_hours,-3.0,414.7,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+cn_devices.csv,166,DEV-0058,operating_hours,-0.5,412.8,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+cn_devices.csv,177,DEV-0025,temperature_c,,20.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+cn_devices.csv,184,DEV-0347,contact_email,haoran.he[at]huachen-service.invalid,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+cn_devices.csv,196,DEV-0128,contact_name,  赵雨桐  ,赵雨桐,格式规范,否,规范已有内容的表示格式,
+cn_devices.csv,199,DEV-0359,contact_phone,+86 (138) 24154866,+8613824154866,格式规范,否,规范已有内容的表示格式,
+cn_devices.csv,201,DEV-0032,temperature_c,,20.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+cn_devices.csv,222,DEV-0016,contact_email,zhou.zihan[at]huachen-service.invalid,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+cn_devices.csv,223,DEV-0103,contact_phone,+86 (150) 25606551,+8615025606551,格式规范,否,规范已有内容的表示格式,
+cn_devices.csv,225,DEV-0194,site_address,,,保持原值,是,尚未修改，保持原值；具体问题见复核原因,值缺失或已剔除，需核实；不编造联系资料
+cn_devices.csv,251,DEV-0002,operating_hours,待核实,413.3,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+cn_devices.csv,256,DEV-0606,operating_hours,744.1,413.3,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+cn_devices.csv,257,DEV-0575,ROW,DUPLICATE,REMOVED,删除重复行,否,去除完全相同的重复记录,
+cn_devices.csv,265,DEV-0586,operating_hours,-12.0,412.8,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+cn_devices.csv,273,DEV-0588,operating_hours,-36.0,414.7,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+cn_devices.csv,277,DEV-0329,site_address,,,保持原值,是,尚未修改，保持原值；具体问题见复核原因,值缺失或已剔除，需核实；不编造联系资料
+cn_devices.csv,287,DEV-0318,contact_email,ruoning.wang[at]huachen-service.invalid,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+cn_devices.csv,324,DEV-0559,site_postcode,??,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+cn_devices.csv,327,DEV-0517,contact_name,  郑思远  ,郑思远,格式规范,否,规范已有内容的表示格式,
+cn_devices.csv,331,DEV-0308,site_postcode,??,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+cn_devices.csv,336,DEV-0009,operating_hours,744.5,413.3,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+cn_devices.csv,341,DEV-0604,operating_hours,inf,412.8,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+cn_devices.csv,343,DEV-0126,contact_name,  李嘉怡  ,李嘉怡,格式规范,否,规范已有内容的表示格式,
+cn_devices.csv,345,DEV-0003,operating_hours,,412.8,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+cn_devices.csv,350,DEV-0602,operating_hours,unknown,413.3,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+cn_devices.csv,358,DEV-0500,temperature_c,,20.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+cn_devices.csv,366,DEV-0120,contact_name,  李晓梅  ,李晓梅,格式规范,否,规范已有内容的表示格式,
+cn_devices.csv,392,DEV-0211,operating_hours,-12.0,414.7,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+cn_devices.csv,404,DEV-0006,operating_hours,-inf,413.3,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+cn_devices.csv,420,DEV-0042,site_address,,,保持原值,是,尚未修改，保持原值；具体问题见复核原因,值缺失或已剔除，需核实；不编造联系资料
+cn_devices.csv,426,DEV-0428,temperature_c,,20.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+cn_devices.csv,428,DEV-0394,contact_phone,+49-call-me,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+cn_devices.csv,446,DEV-0409,contact_phone,+86 (189) 70521141,+8618970521141,格式规范,否,规范已有内容的表示格式,
+cn_devices.csv,449,DEV-0398,temperature_c,,20.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+cn_devices.csv,461,DEV-0386,contact_phone,+86 (150) 92653467,+8615092653467,格式规范,否,规范已有内容的表示格式,
+cn_devices.csv,462,DEV-0320,operating_hours,800.0,413.3,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+cn_devices.csv,467,DEV-0312,operating_hours,-0.5,414.7,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+cn_devices.csv,468,DEV-0226,temperature_c,,20.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+cn_devices.csv,475,DEV-0563,contact_phone,+49-call-me,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+cn_devices.csv,476,DEV-0019,temperature_c,,20.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+cn_devices.csv,481,DEV-0571,temperature_c,,20.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+cn_devices.csv,490,DEV-0344,contact_email,yutong.lin[at]huachen-service.invalid,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+cn_devices.csv,501,DEV-0485,operating_hours,900.0,414.7,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+cn_devices.csv,520,DEV-0004,contact_name,  高晓梅  ,高晓梅,格式规范,否,规范已有内容的表示格式,
+cn_devices.csv,520,DEV-0004,operating_hours,unknown,412.8,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+cn_devices.csv,530,DEV-0137,ROW,DUPLICATE,REMOVED,删除重复行,否,去除完全相同的重复记录,
+cn_devices.csv,551,DEV-0129,contact_email,wei.wang[at]huachen-service.invalid,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+cn_devices.csv,567,DEV-0024,operating_hours,750.0,412.8,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+cn_devices.csv,570,DEV-0562,contact_name,  吴思远  ,吴思远,格式规范,否,规范已有内容的表示格式,
+cn_devices.csv,578,DEV-0168,contact_phone,+86 (158) 97575939,+8615897575939,格式规范,否,规范已有内容的表示格式,
+cn_devices.csv,587,DEV-0057,contact_name,  沈文昊  ,沈文昊,格式规范,否,规范已有内容的表示格式,
+cn_devices.csv,617,DEV-0169,operating_hours,-3.0,412.8,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+cn_devices.csv,622,DEV-0222,contact_email,j.lin69[at]hz.huachen-service.invalid,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+cn_devices.csv,635,DEV-0418,contact_phone,+86 (150) 38500032,+8615038500032,格式规范,否,规范已有内容的表示格式,
+cn_devices.csv,641,DEV-0263,operating_hours,-36.0,413.3,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+cn_devices.csv,652,DEV-0470,temperature_c,,20.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+cn_devices.csv,657,DEV-0265,site_address,,,保持原值,是,尚未修改，保持原值；具体问题见复核原因,值缺失或已剔除，需核实；不编造联系资料
+cn_devices.csv,665,DEV-0282,ROW,DUPLICATE,REMOVED,删除重复行,否,去除完全相同的重复记录,
+cn_devices.csv,670,DEV-0001,contact_email,zhou.zihan[at]huachen-service.invalid,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+cn_devices.csv,670,DEV-0001,operating_hours,,412.8,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+cn_devices.csv,674,DEV-0171,temperature_c,,20.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+cn_devices.csv,697,DEV-0073,temperature_c,,20.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+cn_devices.csv,702,DEV-0178,contact_phone,+86 (139) 68393685,+8613968393685,格式规范,否,规范已有内容的表示格式,
+cn_devices.csv,708,DEV-0611,ROW,DUPLICATE,REMOVED,删除重复行,否,去除完全相同的重复记录,
+cn_devices.csv,709,DEV-0246,contact_email,ruoning.wang[at]huachen-service.invalid,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+cn_devices.csv,728,DEV-0047,site_address,,,保持原值,是,尚未修改，保持原值；具体问题见复核原因,值缺失或已剔除，需核实；不编造联系资料
+cn_devices.csv,732,DEV-0221,ROW,DUPLICATE,REMOVED,删除重复行,否,去除完全相同的重复记录,
+cn_devices.csv,760,DEV-0506,ROW,DUPLICATE,REMOVED,删除重复行,否,去除完全相同的重复记录,
+cn_devices.csv,768,DEV-0307,temperature_c,,20.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+cn_devices.csv,781,DEV-0352,contact_name,  赵敏  ,赵敏,格式规范,否,规范已有内容的表示格式,
+cn_devices.csv,787,DEV-0600,contact_phone,+86 (158) 33090873,+8615833090873,格式规范,否,规范已有内容的表示格式,
+cn_devices.csv,804,DEV-0181,ROW,DUPLICATE,REMOVED,删除重复行,否,去除完全相同的重复记录,
+cn_devices.csv,807,DEV-0229,contact_email,wu_siyuan[at]huachen-service.invalid,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+cn_devices.csv,812,DEV-0255,site_address,,,保持原值,是,尚未修改，保持原值；具体问题见复核原因,值缺失或已剔除，需核实；不编造联系资料
+cn_devices.csv,817,DEV-0603,operating_hours,,412.8,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+cn_devices.csv,819,DEV-0473,ROW,DUPLICATE,REMOVED,删除重复行,否,去除完全相同的重复记录,
+cn_devices.csv,834,DEV-0653,ROW,DUPLICATE,REMOVED,删除重复行,否,去除完全相同的重复记录,
+cn_devices.csv,835,DEV-0587,contact_phone,+86 (138) 96687963,+8613896687963,格式规范,否,规范已有内容的表示格式,
+cn_devices.csv,865,DEV-0364,contact_email,ying.liu[at]huachen-service.invalid,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+cn_devices.csv,905,DEV-0539,temperature_c,,20.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+cn_devices.csv,908,DEV-0292,site_address,,,保持原值,是,尚未修改，保持原值；具体问题见复核原因,值缺失或已剔除，需核实；不编造联系资料
+cn_devices.csv,919,DEV-0188,site_postcode,??,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+cn_devices.csv,927,DEV-0005,operating_hours,inf,414.7,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+cn_devices.csv,951,DEV-0382,site_postcode,??,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+cn_devices.csv,976,DEV-0007,operating_hours,744.1,414.7,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+cn_devices.csv,981,DEV-0106,site_address,,,保持原值,是,尚未修改，保持原值；具体问题见复核原因,值缺失或已剔除，需核实；不编造联系资料
+cn_devices.csv,982,DEV-0089,contact_name,  张建国  ,张建国,格式规范,否,规范已有内容的表示格式,
+cn_devices.csv,987,DEV-0503,contact_email,mzhou[at]huachen-service.invalid,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+cn_devices.csv,992,DEV-0601,operating_hours,,414.7,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+de_devices.csv,17,DEV-1135,site_address,,,保持原值,是,尚未修改，保持原值；具体问题见复核原因,值缺失或已剔除，需核实；不编造联系资料
+de_devices.csv,19,DEV-1177,contact_phone,+49-call-me,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+de_devices.csv,21,DEV-1275,contact_phone,+49 (157) 71873940,+4915771873940,格式规范,否,规范已有内容的表示格式,
+de_devices.csv,27,DEV-1086,contact_phone,+49 (157) 86848139,+4915786848139,格式规范,否,规范已有内容的表示格式,
+de_devices.csv,40,DEV-1285,contact_phone,+49 (152) 79982641,+4915279982641,格式规范,否,规范已有内容的表示格式,
+de_devices.csv,41,DEV-1477,site_address,,,保持原值,是,尚未修改，保持原值；具体问题见复核原因,值缺失或已剔除，需核实；不编造联系资料
+de_devices.csv,44,DEV-1450,contact_email,laura.fischer[at]dewei-service.invalid,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+de_devices.csv,59,DEV-1424,operating_hours,-3.0,412.8,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+de_devices.csv,79,DEV-1578,contact_phone,+49 (152) 94393152,+4915294393152,格式规范,否,规范已有内容的表示格式,
+de_devices.csv,84,DEV-1426,operating_hours,-12.0,412.8,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+de_devices.csv,100,DEV-0622,ROW,DUPLICATE,REMOVED,删除重复行,否,去除完全相同的重复记录,
+de_devices.csv,101,DEV-1109,site_address,,,保持原值,是,尚未修改，保持原值；具体问题见复核原因,值缺失或已剔除，需核实；不编造联系资料
+de_devices.csv,114,DEV-1001,operating_hours,待核实,412.8,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+de_devices.csv,141,DEV-0601,operating_hours,,414.7,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+de_devices.csv,156,DEV-1003,operating_hours,inf,414.7,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+de_devices.csv,171,DEV-1430,contact_name,  Felix Mueller  ,Felix Mueller,格式规范,否,规范已有内容的表示格式,
+de_devices.csv,181,DEV-1345,site_postcode,??,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+de_devices.csv,191,DEV-1294,site_address,,,保持原值,是,尚未修改，保持原值；具体问题见复核原因,值缺失或已剔除，需核实；不编造联系资料
+de_devices.csv,202,DEV-1330,contact_name,  Laura Fischer  ,Laura Fischer,格式规范,否,规范已有内容的表示格式,
+de_devices.csv,211,DEV-1362,contact_name,  Lukas Schulz  ,Lukas Schulz,格式规范,否,规范已有内容的表示格式,
+de_devices.csv,214,DEV-1043,contact_email,petra.klein[at]dewei-service.invalid,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+de_devices.csv,214,DEV-1043,operating_hours,unknown,413.3,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+de_devices.csv,239,DEV-1084,temperature_c,,20.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+de_devices.csv,242,DEV-1462,contact_email,marie.becker[at]dewei-service.invalid,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+de_devices.csv,243,DEV-1118,temperature_c,,20.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+de_devices.csv,262,DEV-1422,contact_phone,+49 (341) 3404895,+493413404895,格式规范,否,规范已有内容的表示格式,
+de_devices.csv,277,DEV-1062,operating_hours,750.0,414.7,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+de_devices.csv,293,DEV-1201,temperature_c,,20.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+de_devices.csv,306,DEV-1394,operating_hours,800.0,413.3,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+de_devices.csv,324,DEV-1531,temperature_c,,20.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+de_devices.csv,327,DEV-1217,operating_hours,-12.0,413.3,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+de_devices.csv,337,DEV-1281,contact_email,michael.weber[at]dd.dewei-service.invalid,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+de_devices.csv,345,DEV-1083,contact_name,  Marie Braun  ,Marie Braun,格式规范,否,规范已有内容的表示格式,
+de_devices.csv,355,DEV-1588,temperature_c,,20.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+de_devices.csv,370,DEV-1211,site_address,,,保持原值,是,尚未修改，保持原值；具体问题见复核原因,值缺失或已剔除，需核实；不编造联系资料
+de_devices.csv,371,DEV-1523,contact_phone,+49-call-me,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+de_devices.csv,387,DEV-1120,contact_phone,+49 (176) 74466320,+4917674466320,格式规范,否,规范已有内容的表示格式,
+de_devices.csv,405,DEV-0602,operating_hours,unknown,413.3,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+de_devices.csv,410,DEV-1399,contact_name,  Julia Wagner  ,Julia Wagner,格式规范,否,规范已有内容的表示格式,
+de_devices.csv,416,DEV-1222,contact_name,  Thomas Schroeder  ,Thomas Schroeder,格式规范,否,规范已有内容的表示格式,
+de_devices.csv,418,DEV-1378,contact_phone,+49-call-me,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+de_devices.csv,462,DEV-1239,contact_phone,+49 (176) 84876400,+4917684876400,格式规范,否,规范已有内容的表示格式,
+de_devices.csv,487,DEV-1221,operating_hours,-36.0,412.8,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+de_devices.csv,506,DEV-1534,site_address,,,保持原值,是,尚未修改，保持原值；具体问题见复核原因,值缺失或已剔除，需核实；不编造联系资料
+de_devices.csv,533,DEV-1007,operating_hours,744.5,413.3,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+de_devices.csv,552,DEV-1577,contact_email,l.neumann39[at]dewei-service.invalid,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+de_devices.csv,560,DEV-0689,ROW,DUPLICATE,REMOVED,删除重复行,否,去除完全相同的重复记录,
+de_devices.csv,567,DEV-1159,contact_email,thomas.schulz[at]dewei-service.invalid,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+de_devices.csv,573,DEV-1122,contact_email,johanna.schneider[at]dewei-service.invalid,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+de_devices.csv,575,DEV-1457,site_address,,,保持原值,是,尚未修改，保持原值；具体问题见复核原因,值缺失或已剔除，需核实；不编造联系资料
+de_devices.csv,599,DEV-1499,contact_phone,+49-call-me,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+de_devices.csv,609,DEV-0944,ROW,DUPLICATE,REMOVED,删除重复行,否,去除完全相同的重复记录,
+de_devices.csv,619,DEV-1361,contact_name,  Paul Klein  ,Paul Klein,格式规范,否,规范已有内容的表示格式,
+de_devices.csv,629,DEV-1243,contact_phone,+49 (176) 20110473,+4917620110473,格式规范,否,规范已有内容的表示格式,
+de_devices.csv,637,DEV-1447,contact_name,  Lukas Hoffmann  ,Lukas Hoffmann,格式规范,否,规范已有内容的表示格式,
+de_devices.csv,647,DEV-1425,operating_hours,900.0,413.3,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+de_devices.csv,648,DEV-1005,operating_hours,,414.7,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+de_devices.csv,653,DEV-1257,contact_email,felix.neumann[at]dewei-service.invalid,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+de_devices.csv,657,DEV-1466,ROW,DUPLICATE,REMOVED,删除重复行,否,去除完全相同的重复记录,
+de_devices.csv,658,DEV-1357,temperature_c,,20.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+de_devices.csv,669,DEV-1342,temperature_c,,20.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+de_devices.csv,692,DEV-1265,site_postcode,??,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+de_devices.csv,697,DEV-1069,contact_email,paul.weber[at]dewei-service.invalid,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+de_devices.csv,700,DEV-1366,contact_name,  Lukas Schulz  ,Lukas Schulz,格式规范,否,规范已有内容的表示格式,
+de_devices.csv,702,DEV-0605,operating_hours,-inf,413.3,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+de_devices.csv,708,DEV-1188,temperature_c,,20.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+de_devices.csv,719,DEV-1163,contact_email,fischer.petra[at]hh.dewei-service.invalid,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+de_devices.csv,722,DEV-1504,operating_hours,-36.0,414.7,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+de_devices.csv,729,DEV-1246,contact_email,dschmidt[at]dewei-service.invalid,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+de_devices.csv,732,DEV-0973,ROW,DUPLICATE,REMOVED,删除重复行,否,去除完全相同的重复记录,
+de_devices.csv,734,DEV-0604,operating_hours,inf,412.8,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+de_devices.csv,735,DEV-1047,operating_hours,-3.0,412.8,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+de_devices.csv,747,DEV-1423,operating_hours,-0.5,414.7,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+de_devices.csv,751,DEV-1497,site_address,,,保持原值,是,尚未修改，保持原值；具体问题见复核原因,值缺失或已剔除，需核实；不编造联系资料
+de_devices.csv,772,DEV-1091,site_postcode,??,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+de_devices.csv,773,DEV-1152,contact_phone,+49 (160) 26792679,+4916026792679,格式规范,否,规范已有内容的表示格式,
+de_devices.csv,774,DEV-0606,operating_hours,744.1,413.3,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+de_devices.csv,780,DEV-1184,contact_phone,+49 (152) 69772285,+4915269772285,格式规范,否,规范已有内容的表示格式,
+de_devices.csv,781,DEV-1562,contact_email,m.becker5[at]dewei-service.invalid,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+de_devices.csv,789,DEV-1185,temperature_c,,20.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+de_devices.csv,798,DEV-1350,contact_phone,+49 (152) 20282350,+4915220282350,格式规范,否,规范已有内容的表示格式,
+de_devices.csv,803,DEV-0603,operating_hours,,412.8,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+de_devices.csv,812,DEV-1020,operating_hours,744.1,413.3,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+de_devices.csv,823,DEV-0669,ROW,DUPLICATE,REMOVED,删除重复行,否,去除完全相同的重复记录,
+de_devices.csv,827,DEV-1050,site_address,,,保持原值,是,尚未修改，保持原值；具体问题见复核原因,值缺失或已剔除，需核实；不编造联系资料
+de_devices.csv,835,DEV-1004,operating_hours,-inf,414.7,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+de_devices.csv,844,DEV-1121,temperature_c,,20.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+de_devices.csv,845,DEV-1545,temperature_c,,20.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+de_devices.csv,848,DEV-1368,temperature_c,,20.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+de_devices.csv,866,DEV-1006,operating_hours,,414.7,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+de_devices.csv,866,DEV-1006,temperature_c,,20.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+de_devices.csv,870,DEV-1271,site_address,,,保持原值,是,尚未修改，保持原值；具体问题见复核原因,值缺失或已剔除，需核实；不编造联系资料
+de_devices.csv,880,DEV-1293,site_postcode,??,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+de_devices.csv,883,DEV-1045,operating_hours,-0.5,412.8,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+de_devices.csv,900,DEV-1563,contact_phone,+49 (176) 80532759,+4917680532759,格式规范,否,规范已有内容的表示格式,
+de_devices.csv,911,DEV-1314,site_postcode,??,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+de_devices.csv,935,DEV-0705,ROW,DUPLICATE,REMOVED,删除重复行,否,去除完全相同的重复记录,
+de_devices.csv,949,DEV-0651,ROW,DUPLICATE,REMOVED,删除重复行,否,去除完全相同的重复记录,
+de_devices.csv,951,DEV-1156,temperature_c,,20.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+de_devices.csv,957,DEV-1163,ROW,DUPLICATE,REMOVED,删除重复行,否,去除完全相同的重复记录,
+de_devices.csv,969,DEV-1398,contact_name,  Laura Fischer  ,Laura Fischer,格式规范,否,规范已有内容的表示格式,
+de_devices.csv,977,DEV-0932,ROW,DUPLICATE,REMOVED,删除重复行,否,去除完全相同的重复记录,
+de_devices.csv,1007,DEV-1002,operating_hours,,414.7,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+de_devices.csv,1009,DEV-1505,temperature_c,,20.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+service_cases.csv,10,CASE-010,downtime_hours,待核实,0.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+service_cases.csv,14,CASE-575,site_address,,,保持原值,是,尚未修改，保持原值；具体问题见复核原因,值缺失或已剔除，需核实；不编造联系资料
+service_cases.csv,35,CASE-488,closed_date,2026-04-10,,无效值置空,是,无法确定正确值，置空等待核实,无法确定正确值，置空等待核实
+service_cases.csv,37,CASE-149,downtime_hours,-4.0,0.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+service_cases.csv,51,CASE-031,downtime_hours,inf,0.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+service_cases.csv,52,CASE-151,site_postcode,??,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+service_cases.csv,62,CASE-226,contact_name,  李涛  ,李涛,格式规范,否,规范已有内容的表示格式,
+service_cases.csv,70,CASE-059,downtime_hours,-2.0,0.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+service_cases.csv,73,CASE-040,downtime_hours,inf,0.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+service_cases.csv,82,CASE-333,site_postcode,??,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+service_cases.csv,85,CASE-517,site_address,,,保持原值,是,尚未修改，保持原值；具体问题见复核原因,值缺失或已剔除，需核实；不编造联系资料
+service_cases.csv,86,CASE-044,closed_date,待确认,,无效值置空,是,无法确定正确值，置空等待核实,无法确定正确值，置空等待核实
+service_cases.csv,112,CASE-294,contact_phone,+49 (341) 2875259,+493412875259,格式规范,否,规范已有内容的表示格式,
+service_cases.csv,129,CASE-365,contact_email,t.schroeder39[at]dewei-service.invalid,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+service_cases.csv,142,CASE-506,contact_name,  刘书瑶  ,刘书瑶,格式规范,否,规范已有内容的表示格式,
+service_cases.csv,150,CASE-111,contact_email,thomas.weber[at]dewei-service.invalid,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+service_cases.csv,160,CASE-583,contact_phone,+86 (150) 84038269,+8615084038269,格式规范,否,规范已有内容的表示格式,
+service_cases.csv,165,CASE-028,downtime_hours,,0.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+service_cases.csv,173,CASE-264,contact_name,  张志强  ,张志强,格式规范,否,规范已有内容的表示格式,
+service_cases.csv,175,CASE-216,engineer_phone,+49-call-me,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+service_cases.csv,177,CASE-259,contact_name,  Stefan Zimmermann  ,Stefan Zimmermann,格式规范,否,规范已有内容的表示格式,
+service_cases.csv,191,CASE-420,engineer_phone,+49-call-me,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+service_cases.csv,192,CASE-446,contact_phone,+49 (152) 70926231,+4915270926231,格式规范,否,规范已有内容的表示格式,
+service_cases.csv,196,CASE-530,contact_email,michael.schneider[at]dewei-service.invalid,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+service_cases.csv,199,CASE-206,closed_date,2026-05-08,,无效值置空,是,无法确定正确值，置空等待核实,无法确定正确值，置空等待核实
+service_cases.csv,207,CASE-305,downtime_hours,-24.0,0.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+service_cases.csv,213,CASE-296,engineer_phone,+49-call-me,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+service_cases.csv,218,CASE-390,contact_phone,+49 (160) 64228654,+4916064228654,格式规范,否,规范已有内容的表示格式,
+service_cases.csv,224,CASE-557,downtime_hours,-0.25,0.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+service_cases.csv,225,CASE-043,closed_date,2026-13-05,,无效值置空,是,无法确定正确值，置空等待核实,无法确定正确值，置空等待核实
+service_cases.csv,225,CASE-043,downtime_hours,-inf,0.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+service_cases.csv,233,CASE-440,contact_name,  张建国  ,张建国,格式规范,否,规范已有内容的表示格式,
+service_cases.csv,248,CASE-386,site_address,,,保持原值,是,尚未修改，保持原值；具体问题见复核原因,值缺失或已剔除，需核实；不编造联系资料
+service_cases.csv,250,CASE-188,contact_phone,+86 (150) 76453710,+8615076453710,格式规范,否,规范已有内容的表示格式,
+service_cases.csv,259,CASE-560,contact_name,  Johanna Schneider  ,Johanna Schneider,格式规范,否,规范已有内容的表示格式,
+service_cases.csv,265,CASE-472,engineer_phone,+49-call-me,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+service_cases.csv,274,CASE-524,closed_date,2026-05-11,,无效值置空,是,无法确定正确值，置空等待核实,无法确定正确值，置空等待核实
+service_cases.csv,306,CASE-203,ROW,DUPLICATE,REMOVED,删除重复行,否,去除完全相同的重复记录,
+service_cases.csv,310,CASE-011,downtime_hours,,0.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+service_cases.csv,314,CASE-566,downtime_hours,-4.0,0.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+service_cases.csv,326,CASE-326,contact_email,leon.wagner[at]dewei-service.invalid,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+service_cases.csv,339,CASE-433,contact_phone,+49 (157) 90191361,+4915790191361,格式规范,否,规范已有内容的表示格式,
+service_cases.csv,346,CASE-437,closed_date,2026-05-19,,无效值置空,是,无法确定正确值，置空等待核实,无法确定正确值，置空等待核实
+service_cases.csv,351,CASE-474,ROW,DUPLICATE,REMOVED,删除重复行,否,去除完全相同的重复记录,
+service_cases.csv,358,CASE-271,ROW,DUPLICATE,REMOVED,删除重复行,否,去除完全相同的重复记录,
+service_cases.csv,363,CASE-186,contact_email,maximilian.schmidt[at]dewei-service.invalid,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+service_cases.csv,371,CASE-330,site_postcode,??,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+service_cases.csv,380,CASE-570,downtime_hours,-24.0,0.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+service_cases.csv,384,CASE-041,contact_name,  Felix Mueller  ,Felix Mueller,格式规范,否,规范已有内容的表示格式,
+service_cases.csv,384,CASE-041,downtime_hours,,0.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+service_cases.csv,396,CASE-016,ROW,DUPLICATE,REMOVED,删除重复行,否,去除完全相同的重复记录,
+service_cases.csv,398,CASE-504,site_address,,,保持原值,是,尚未修改，保持原值；具体问题见复核原因,值缺失或已剔除，需核实；不编造联系资料
+service_cases.csv,419,CASE-558,downtime_hours,-2.0,0.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+service_cases.csv,422,CASE-097,contact_email,he_zihan[at]huachen-service.invalid,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+service_cases.csv,430,CASE-232,contact_email,richter.maximilian[at]dewei-service.invalid,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+service_cases.csv,432,CASE-113,contact_name,  Clara Schmidt  ,Clara Schmidt,格式规范,否,规范已有内容的表示格式,
+service_cases.csv,434,CASE-007,downtime_hours,unknown,0.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+service_cases.csv,476,CASE-428,contact_phone,+49 (157) 31189716,+4915731189716,格式规范,否,规范已有内容的表示格式,
+service_cases.csv,494,CASE-318,site_address,,,保持原值,是,尚未修改，保持原值；具体问题见复核原因,值缺失或已剔除，需核实；不编造联系资料
+service_cases.csv,495,CASE-391,contact_phone,+49 (176) 80532759,+4917680532759,格式规范,否,规范已有内容的表示格式,
+service_cases.csv,497,CASE-052,downtime_hours,-0.25,0.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+service_cases.csv,507,CASE-592,site_address,,,保持原值,是,尚未修改，保持原值；具体问题见复核原因,值缺失或已剔除，需核实；不编造联系资料
+service_cases.csv,510,CASE-042,closed_date,2026-02-30,,无效值置空,是,无法确定正确值，置空等待核实,无法确定正确值，置空等待核实
+service_cases.csv,510,CASE-042,downtime_hours,-inf,0.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+service_cases.csv,518,CASE-294,ROW,DUPLICATE,REMOVED,删除重复行,否,去除完全相同的重复记录,
+service_cases.csv,546,CASE-104,contact_email,jrichter[at]dewei-service.invalid,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+service_cases.csv,564,CASE-064,contact_phone,+86 (186) 59442573,+8618659442573,格式规范,否,规范已有内容的表示格式,
+service_cases.csv,564,CASE-064,downtime_hours,,0.0,估计替代,是,用于维持计算的估计值，需复核；不能解释为可靠观测,用于维持计算的估计值，需复核；不能解释为可靠观测
+service_cases.csv,572,CASE-258,ROW,DUPLICATE,REMOVED,删除重复行,否,去除完全相同的重复记录,
+service_cases.csv,573,CASE-467,closed_date,2026-05-05,,无效值置空,是,无法确定正确值，置空等待核实,无法确定正确值，置空等待核实
+service_cases.csv,584,CASE-377,closed_date,2026-04-25,,无效值置空,是,无法确定正确值，置空等待核实,无法确定正确值，置空等待核实
+service_cases.csv,602,CASE-214,site_postcode,??,,无效值置空,是,无法确定正确值，置空等待核实,值缺失或已剔除，需核实；不编造联系资料
+service_cases.csv,609,CASE-436,contact_phone,+86 (186) 80380001,+8618680380001,格式规范,否,规范已有内容的表示格式,

@@ -1,0 +1,2 @@
+﻿query,released_value,mechanism,epsilon,delta,privacy_unit,adjacency,public_n,contribution_limit,records_per_unit
+fleet_alarm_sum,4102.934761223297,LAPLACE,1,0,DEVICE,REPLACE_ONE_FIXED_PUBLIC_N,1600,8,1

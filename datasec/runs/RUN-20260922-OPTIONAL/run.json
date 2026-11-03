@@ -1,0 +1,64 @@
+{
+  "version": "datasec",
+  "started_at": "2026-09-22T12:17:51.265415+00:00",
+  "finished_at": "2026-09-22T12:18:00.267509+00:00",
+  "timezone": "UTC",
+  "observation_month": "2026-03",
+  "prediction_time": "2026-04-01",
+  "label_end_exclusive": "2026-06-30",
+  "requested_task": 5,
+  "planned_tasks": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "stages": [
+    {
+      "task": 1,
+      "exit_code": 0,
+      "execution_status": "EXITED",
+      "started_at": "2026-09-22T12:17:51.266414+00:00",
+      "finished_at": "2026-09-22T12:17:55.955964+00:00",
+      "log": "运行日志\\01_数据资产盘点与质量治理.log"
+    },
+    {
+      "task": 2,
+      "exit_code": 0,
+      "execution_status": "EXITED",
+      "started_at": "2026-09-22T12:17:55.979454+00:00",
+      "finished_at": "2026-09-22T12:17:56.384823+00:00",
+      "log": "运行日志\\02_数据流转分析与使用决策.log"
+    },
+    {
+      "task": 3,
+      "exit_code": 0,
+      "execution_status": "EXITED",
+      "started_at": "2026-09-22T12:17:56.387838+00:00",
+      "finished_at": "2026-09-22T12:17:58.076494+00:00",
+      "log": "运行日志\\03_数据共享与安全发布.log"
+    },
+    {
+      "task": 4,
+      "exit_code": 0,
+      "execution_status": "EXITED",
+      "started_at": "2026-09-22T12:17:58.086493+00:00",
+      "finished_at": "2026-09-22T12:17:59.589070+00:00",
+      "log": "运行日志\\04_跨机构联合分析.log"
+    },
+    {
+      "task": 5,
+      "exit_code": 0,
+      "execution_status": "EXITED",
+      "started_at": "2026-09-22T12:17:59.596076+00:00",
+      "finished_at": "2026-09-22T12:18:00.252143+00:00",
+      "log": "运行日志\\05_数据使用管理与过程追踪.log"
+    }
+  ],
+  "scope": "本地教学：结果检查与过程审计",
+  "failure": null,
+  "summary_errors": [],
+  "exit_code": 0,
+  "run_dir": "C:\\Users\\pbrii\\Desktop\\数据安全实践\\datasec\\runs\\RUN-20260922-OPTIONAL"
+}

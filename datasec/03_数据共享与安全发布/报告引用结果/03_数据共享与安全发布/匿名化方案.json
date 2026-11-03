@@ -1,0 +1,10 @@
+{
+  "hours_width": 100,
+  "k": 3,
+  "region_groups": {
+    "NORTH": "NE",
+    "EAST": "NE",
+    "SOUTH": "SW",
+    "WEST": "SW"
+  }
+}

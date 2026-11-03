@@ -1,0 +1,4 @@
+﻿资产编号,类型,持有方,内容线索,核对结论
+cn_devices.csv,数据表,CN,见字段分级.csv,按字段分级核对
+de_devices.csv,数据表,DE,见字段分级.csv,按字段分级核对
+service_cases.csv,数据表,DE,见字段分级.csv,按字段分级核对

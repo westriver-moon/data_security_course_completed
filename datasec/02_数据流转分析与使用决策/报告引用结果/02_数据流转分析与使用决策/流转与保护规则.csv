@@ -1,0 +1,7 @@
+﻿结果名称,来源表,使用字段,允许输出字段,保护要求,规则已完成,理由
+内部服务分析,service_cases.csv,"{""service_cases.csv"": [""device_id"", ""downtime_hours"", ""confirmed_failure""]}",device_token|downtime_hours|confirmed_failure,用途限定假名,已完成且通过,复核需要故障与停机信息；替代设备标识，排除联系资料
+研究数据,de_devices.csv,"{""de_devices.csv"": [""device_id"", ""device_model"", ""site_region"", ""operating_hours"", ""failure_next_90d""]}",device_model|region_group|hours_band|failure_next_90d,泛化与分组抑制,已完成且通过,泛化地区与运行时长区间，按准标识组合抑制小分组，同时保留型号和故障标签用于关系研究
+服务统计,service_cases.csv,"{""service_cases.csv"": [""case_id"", ""confirmed_failure"", ""downtime_hours""]}",query|released_value|mechanism|epsilon|delta|privacy_unit|adjacency|public_n|contribution_limit|records_per_unit,带噪统计,已完成且通过,只输出两个受保护统计及口径，不输出案例明细和真值
+共同设备匹配,cn_devices.csv|de_devices.csv,"{""cn_devices.csv"": [""device_id""], ""de_devices.csv"": [""device_id""]}",device_token,令牌交集匹配,已完成且通过,共同设备通过令牌交集匹配，原设备编号留在各方
+联合告警统计,cn_devices.csv|de_devices.csv,"{""cn_devices.csv"": [""device_id"", ""alarm_count""], ""de_devices.csv"": [""device_id"", ""alarm_count""]}",query|released_value|mechanism|epsilon|delta|privacy_unit|adjacency|public_n|contribution_limit|records_per_unit,保护求和后加噪,已完成且通过,使用秘密共享保护双方求和过程，再对重构合计加入Laplace噪声，最终只输出受保护合计及统计口径
+联合故障模型,cn_devices.csv|de_devices.csv,"{""cn_devices.csv"": [""device_id"", ""temperature_c"", ""operating_hours"", ""alarm_count"", ""failure_next_90d""], ""de_devices.csv"": [""device_id"", ""temperature_c"", ""operating_hours"", ""alarm_count"", ""failure_next_90d""]}",parameter|value,联邦平均训练,已完成且通过,三项观察期特征参与本地训练，按样本量聚合参数；编号用于拆分、故障用于监督，只输出模型参数
